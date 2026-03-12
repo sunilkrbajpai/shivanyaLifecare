@@ -1,0 +1,160 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Tests & Price List | Shivanya Lifecare Collection Center</title>
+  <meta name="description" content="Full list of lab tests and special prices at Shivanya Lifecare. Regency Diagnostics. RD1 25% off, RD2 15% off, RD3 10% off." />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,400;0,9..40,500;0,9..40,600;0,9..40,700&family=Fraunces:ital,opsz,wght@0,9..144,600;0,9..144,700&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="styles.css" />
+  <style>
+    .tests-page { padding: 32px 0 64px; }
+    .tests-toolbar { display: flex; flex-wrap: wrap; align-items: center; gap: 16px; margin-bottom: 24px; }
+    .tests-search { flex: 1; min-width: 260px; padding: 12px 16px; border: 1px solid var(--color-border); border-radius: var(--radius); font-family: var(--font-sans); font-size: 1rem; }
+    .tests-search:focus { outline: none; border-color: var(--color-primary); box-shadow: 0 0 0 3px var(--color-primary-light); }
+    .tests-download { display: inline-flex; align-items: center; gap: 8px; padding: 10px 20px; background: var(--color-primary); color: white; border-radius: var(--radius); font-weight: 600; text-decoration: none; }
+    .tests-download:hover { background: var(--color-primary-dark); }
+    .tests-table-wrap { overflow-x: auto; border: 1px solid var(--color-border); border-radius: var(--radius-lg); background: var(--color-surface); box-shadow: var(--shadow-sm); }
+    .tests-table { width: 100%; border-collapse: collapse; font-size: 0.9rem; }
+    .tests-table th { text-align: left; padding: 14px 16px; background: var(--color-primary); color: white; font-weight: 600; white-space: nowrap; }
+    .tests-table td { padding: 12px 16px; border-bottom: 1px solid var(--color-border); }
+    .tests-table tr:hover { background: var(--color-primary-light); }
+    .tests-table .cat { font-weight: 600; color: var(--color-primary); }
+    .tests-table .mrp { text-decoration: line-through; color: var(--color-text-muted); }
+    .tests-table .special { font-weight: 700; color: var(--color-primary); }
+    .tests-count { color: var(--color-text-muted); font-size: 0.9rem; margin-top: 8px; }
+    .tests-badges { display: flex; flex-wrap: wrap; gap: 8px; margin-bottom: 20px; font-size: 0.85rem; }
+    .tests-badges span { background: var(--color-primary-light); color: var(--color-primary); padding: 4px 10px; border-radius: 999px; }
+  </style>
+</head>
+<body>
+  <header class="header">
+    <div class="container header-inner">
+      <a href="index.html" class="brand">
+        <span class="brand-name">Shivanya Lifecare</span>
+        <span class="brand-tagline">Collection Center</span>
+      </a>
+      <div class="partner-badge">
+        <span class="partner-label">Authorized Partner</span>
+        <a href="https://regencyhealthcare.in" target="_blank" rel="noopener" class="regency-logo" aria-label="Regency Healthcare">
+          <img src="assets/regency_logo.png" alt="Regency Healthcare" width="120" height="36" />
+        </a>
+      </div>
+      <nav class="nav">
+        <a href="index.html#packages">Packages</a>
+        <a href="tests.html">Tests & Price</a>
+        <a href="index.html#book">Book Appointment</a>
+        <a href="index.html#contact">Contact</a>
+      </nav>
+      <a href="tel:+916388744465" class="cta-phone">Call to Book</a>
+      <button type="button" class="menu-toggle" aria-label="Open menu">
+        <span></span><span></span><span></span>
+      </button>
+    </div>
+  </header>
+
+  <main class="tests-page">
+    <div class="container">
+      <h1 class="section-title">Tests & Price List</h1>
+      <p class="section-subtitle">Regency Diagnostics tests with special prices at Shivanya Lifecare. Download the full price list (Name, MRP, Special Price) as PDF below.</p>
+      <div class="tests-badges">
+        <span>RD1: 25% off</span>
+        <span>RD2: 15% off</span>
+        <span>RD3: 10% off</span>
+        <span>RD4: 5% off</span>
+      </div>
+      <div class="tests-toolbar">
+        <input type="search" id="search" class="tests-search" placeholder="Search test name or category (e.g. blood, sugar, RD1)..." aria-label="Search tests" />
+        <a href="assets/Shivanya_Regency_Price_List.pdf" class="tests-download" download>Download Price List (PDF)</a>
+      </div>
+      <div class="tests-table-wrap">
+        <table class="tests-table">
+          <thead>
+            <tr>
+              <th>#</th>
+              <th>Test Name</th>
+              <th>Category</th>
+              <th>MRP (₹)</th>
+              <th>Special Price (₹)</th>
+            </tr>
+          </thead>
+          <tbody id="tbody">
+            <!-- filled by JS -->
+          </tbody>
+        </table>
+      </div>
+      <p id="count" class="tests-count"></p>
+    </div>
+  </main>
+
+  <footer class="footer">
+    <div class="container">
+      <p>© <span id="year"></span> Shivanya Lifecare Collection Center. Authorized collection center for Regency Diagnostics.</p>
+    </div>
+  </footer>
+
+  <script>
+    (function () {
+      document.getElementById('year').textContent = new Date().getFullYear();
+
+      var searchEl = document.getElementById('search');
+      var tbody = document.getElementById('tbody');
+      var countEl = document.getElementById('count');
+      var allTests = [];
+
+      function render(tests) {
+        tbody.innerHTML = '';
+        tests.forEach(function (t, i) {
+          var tr = document.createElement('tr');
+          tr.innerHTML =
+            '<td>' + (i + 1) + '</td>' +
+            '<td>' + escapeHtml(t.name) + '</td>' +
+            '<td class="cat">' + escapeHtml(t.category) + '</td>' +
+            '<td class="mrp">₹ ' + t.mrp + '</td>' +
+            '<td class="special">₹ ' + t.specialPrice + '</td>';
+          tbody.appendChild(tr);
+        });
+        countEl.textContent = tests.length + ' test(s) shown.';
+      }
+
+      function escapeHtml(s) {
+        var div = document.createElement('div');
+        div.textContent = s;
+        return div.innerHTML;
+      }
+
+      function filter() {
+        var q = (searchEl.value || '').trim().toLowerCase();
+        var list = q
+          ? allTests.filter(function (t) {
+              return t.name.toLowerCase().indexOf(q) !== -1 || t.category.toLowerCase().indexOf(q) !== -1;
+            })
+          : allTests;
+        render(list);
+      }
+
+      fetch('tests.json')
+        .then(function (r) { return r.json(); })
+        .then(function (data) {
+          allTests = data;
+          filter();
+        })
+        .catch(function () {
+          tbody.innerHTML = '<tr><td colspan="5">Unable to load tests. Ensure tests.json exists.</td></tr>';
+          countEl.textContent = '';
+        });
+
+      searchEl.addEventListener('input', filter);
+      searchEl.addEventListener('search', filter);
+
+      var menuToggle = document.querySelector('.menu-toggle');
+      var headerInner = document.querySelector('.header-inner');
+      if (menuToggle && headerInner) {
+        menuToggle.addEventListener('click', function () { headerInner.classList.toggle('nav-open'); });
+      }
+    })();
+  </script>
+</body>
+</html>

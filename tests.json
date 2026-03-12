@@ -1,0 +1,6632 @@
+[
+  {
+    "name": "A.S.O. QUANTITATIVE",
+    "category": "RD1",
+    "mrp": 550,
+    "specialPrice": 412
+  },
+  {
+    "name": "ACID PHOPHATASE (PROSTATIC)",
+    "category": "RD1",
+    "mrp": 860,
+    "specialPrice": 645
+  },
+  {
+    "name": "ACID PHOSPHATASE (TOTAL)",
+    "category": "RD1",
+    "mrp": 465,
+    "specialPrice": 349
+  },
+  {
+    "name": "ACTH",
+    "category": "RD2",
+    "mrp": 1250,
+    "specialPrice": 1062
+  },
+  {
+    "name": "A:G RATIO",
+    "category": "RD1",
+    "mrp": 275,
+    "specialPrice": 206
+  },
+  {
+    "name": "ALBUMIN IN ASPIRATED FLUID",
+    "category": "RD2",
+    "mrp": 300,
+    "specialPrice": 255
+  },
+  {
+    "name": "ALBUMIN SERUM",
+    "category": "RD1",
+    "mrp": 300,
+    "specialPrice": 225
+  },
+  {
+    "name": "ALKALINE PHOSPHATASE",
+    "category": "RD1",
+    "mrp": 210,
+    "specialPrice": 158
+  },
+  {
+    "name": "ALKALINE PHOSPHATASE IN ASCITIC FLUID",
+    "category": "RD2",
+    "mrp": 210,
+    "specialPrice": 178
+  },
+  {
+    "name": "ALPHA FETO PROTEIN",
+    "category": "RD1",
+    "mrp": 1100,
+    "specialPrice": 825
+  },
+  {
+    "name": "AMMONIA : PLASMA",
+    "category": "RD3",
+    "mrp": 835,
+    "specialPrice": 752
+  },
+  {
+    "name": "AMYLASE SERUM",
+    "category": "RD1",
+    "mrp": 320,
+    "specialPrice": 240
+  },
+  {
+    "name": "AMYLASE URINE(24 HRS)",
+    "category": "RD2",
+    "mrp": 430,
+    "specialPrice": 366
+  },
+  {
+    "name": "AMYLASE DRAIN FLUID",
+    "category": "RD2",
+    "mrp": 430,
+    "specialPrice": 366
+  },
+  {
+    "name": "ANTI CCP",
+    "category": "RD1",
+    "mrp": 1400,
+    "specialPrice": 1050
+  },
+  {
+    "name": "ANTI TSH RECEPTOR",
+    "category": "RD1",
+    "mrp": 2200,
+    "specialPrice": 1650
+  },
+  {
+    "name": "ASCITIC FLUID (R/M & ALBUMIN)",
+    "category": "RD2",
+    "mrp": 800,
+    "specialPrice": 680
+  },
+  {
+    "name": "ASCITIC FLUID AMYLASE",
+    "category": "RD2",
+    "mrp": 430,
+    "specialPrice": 366
+  },
+  {
+    "name": "ASCITIC FLUID BILE PIGMENT",
+    "category": "RD2",
+    "mrp": 180,
+    "specialPrice": 153
+  },
+  {
+    "name": "ASCITIC FLUID BILIRUBIN",
+    "category": "RD2",
+    "mrp": 200,
+    "specialPrice": 170
+  },
+  {
+    "name": "ASCITIC FLUID CREATININE",
+    "category": "RD2",
+    "mrp": 200,
+    "specialPrice": 170
+  },
+  {
+    "name": "ASCITIC FLUID LDH",
+    "category": "RD2",
+    "mrp": 560,
+    "specialPrice": 476
+  },
+  {
+    "name": "ASCITIC FLUID LIPASE",
+    "category": "RD2",
+    "mrp": 800,
+    "specialPrice": 680
+  },
+  {
+    "name": "ASPIRATION FLUID R/M",
+    "category": "RD2",
+    "mrp": 550,
+    "specialPrice": 468
+  },
+  {
+    "name": "BETA HCG",
+    "category": "RD1",
+    "mrp": 785,
+    "specialPrice": 589
+  },
+  {
+    "name": "BICARBONATE(HCO3)",
+    "category": "RD3",
+    "mrp": 225,
+    "specialPrice": 202
+  },
+  {
+    "name": "BLOOD SUGAR - (P.P.)",
+    "category": "RD1",
+    "mrp": 100,
+    "specialPrice": 75
+  },
+  {
+    "name": "BLOOD SUGAR - FASTING",
+    "category": "RD1",
+    "mrp": 100,
+    "specialPrice": 75
+  },
+  {
+    "name": "BLOOD UREA",
+    "category": "RD1",
+    "mrp": 190,
+    "specialPrice": 142
+  },
+  {
+    "name": "BLOOD UREA NITROGEN (BUN)",
+    "category": "RD1",
+    "mrp": 190,
+    "specialPrice": 142
+  },
+  {
+    "name": "BODY FLUID AMYLASE",
+    "category": "RD2",
+    "mrp": 430,
+    "specialPrice": 366
+  },
+  {
+    "name": "BODY FLUID BILIRUBIN (TOTAL & DIRECT)",
+    "category": "RD2",
+    "mrp": 240,
+    "specialPrice": 204
+  },
+  {
+    "name": "BODY FLUID CHOLESTEROL",
+    "category": "RD2",
+    "mrp": 225,
+    "specialPrice": 191
+  },
+  {
+    "name": "BODY FLUID FOR UREA AND CREATININE",
+    "category": "RD2",
+    "mrp": 325,
+    "specialPrice": 276
+  },
+  {
+    "name": "BODY FLUID LIPASE",
+    "category": "RD2",
+    "mrp": 785,
+    "specialPrice": 667
+  },
+  {
+    "name": "BODY FLUID TRIGLYCERIDES",
+    "category": "RD2",
+    "mrp": 275,
+    "specialPrice": 234
+  },
+  {
+    "name": "BUN CREATININE RATIO",
+    "category": "RD1",
+    "mrp": 330,
+    "specialPrice": 248
+  },
+  {
+    "name": "CA15.3",
+    "category": "RD1",
+    "mrp": 1500,
+    "specialPrice": 1125
+  },
+  {
+    "name": "CA125",
+    "category": "RD1",
+    "mrp": 1625,
+    "specialPrice": 1219
+  },
+  {
+    "name": "CA19.9",
+    "category": "RD1",
+    "mrp": 1900,
+    "specialPrice": 1425
+  },
+  {
+    "name": "CALCIUM URINE (SPOT)",
+    "category": "RD2",
+    "mrp": 300,
+    "specialPrice": 255
+  },
+  {
+    "name": "CALCIUM URINE 24HRS.",
+    "category": "RD2",
+    "mrp": 300,
+    "specialPrice": 255
+  },
+  {
+    "name": "CALCIUM CREATININE RATIO (URINE 24 HRS)",
+    "category": "RD2",
+    "mrp": 525,
+    "specialPrice": 446
+  },
+  {
+    "name": "CALCIUM CREATININE RATIO (URINE SPOT)",
+    "category": "RD2",
+    "mrp": 525,
+    "specialPrice": 446
+  },
+  {
+    "name": "CALCIUM IONISED (CA++)",
+    "category": "RD1",
+    "mrp": 330,
+    "specialPrice": 248
+  },
+  {
+    "name": "CALCIUM SERUM",
+    "category": "RD1",
+    "mrp": 220,
+    "specialPrice": 165
+  },
+  {
+    "name": "CAPD FLUID CREATININE",
+    "category": "RD2",
+    "mrp": 175,
+    "specialPrice": 149
+  },
+  {
+    "name": "CAPD FLUID UREA",
+    "category": "RD2",
+    "mrp": 200,
+    "specialPrice": 170
+  },
+  {
+    "name": "CCCT (FSH 2,ESTRADIOL-2)",
+    "category": "RD1",
+    "mrp": 1600,
+    "specialPrice": 1200
+  },
+  {
+    "name": "CEA",
+    "category": "RD1",
+    "mrp": 900,
+    "specialPrice": 675
+  },
+  {
+    "name": "CHLORIDE (SPOT URINE)",
+    "category": "RD2",
+    "mrp": 350,
+    "specialPrice": 298
+  },
+  {
+    "name": "CHLORIDE URINE (24 HOUR)",
+    "category": "RD2",
+    "mrp": 350,
+    "specialPrice": 298
+  },
+  {
+    "name": "CHLORIDE, SERUM",
+    "category": "RD1",
+    "mrp": 330,
+    "specialPrice": 248
+  },
+  {
+    "name": "CHOLESTEROL SERUM",
+    "category": "RD1",
+    "mrp": 175,
+    "specialPrice": 131
+  },
+  {
+    "name": "COMPLEMENT 3 & 4 (C3&C4)",
+    "category": "RD1",
+    "mrp": 1500,
+    "specialPrice": 1125
+  },
+  {
+    "name": "CORTISOL SERUM ( Morning/ Evening one test )",
+    "category": "RD1",
+    "mrp": 680,
+    "specialPrice": 510
+  },
+  {
+    "name": "C-PEPTIDE",
+    "category": "RD1",
+    "mrp": 1350,
+    "specialPrice": 1012
+  },
+  {
+    "name": "CPK",
+    "category": "RD1",
+    "mrp": 635,
+    "specialPrice": 476
+  },
+  {
+    "name": "CPK - MB",
+    "category": "RD1",
+    "mrp": 670,
+    "specialPrice": 502
+  },
+  {
+    "name": "CREATININE CLEARENCE TEST",
+    "category": "RD1",
+    "mrp": 500,
+    "specialPrice": 375
+  },
+  {
+    "name": "CREATININE IN ASPIRATED FLUID",
+    "category": "RD2",
+    "mrp": 160,
+    "specialPrice": 136
+  },
+  {
+    "name": "CREATININE SERUM",
+    "category": "RD1",
+    "mrp": 150,
+    "specialPrice": 112
+  },
+  {
+    "name": "CREATININE URINE (24HRS)",
+    "category": "RD2",
+    "mrp": 255,
+    "specialPrice": 217
+  },
+  {
+    "name": "CRP QUANTITATIVE(HS)",
+    "category": "RD1",
+    "mrp": 550,
+    "specialPrice": 412
+  },
+  {
+    "name": "D-DIMER",
+    "category": "RD1",
+    "mrp": 1700,
+    "specialPrice": 1275
+  },
+  {
+    "name": "DRAIN FLUID BUN",
+    "category": "RD2",
+    "mrp": 190,
+    "specialPrice": 162
+  },
+  {
+    "name": "DRAIN FLUID CREATININE",
+    "category": "RD2",
+    "mrp": 160,
+    "specialPrice": 136
+  },
+  {
+    "name": "DRAIN FLUID LIPASE",
+    "category": "RD2",
+    "mrp": 785,
+    "specialPrice": 667
+  },
+  {
+    "name": "E2,LH,PROGESTORN,HCG",
+    "category": "RD1",
+    "mrp": 2300,
+    "specialPrice": 1725
+  },
+  {
+    "name": "ESTIMATED GLOMERULAR FILTRATION RATE (EGFR)",
+    "category": "RD1",
+    "mrp": 170,
+    "specialPrice": 128
+  },
+  {
+    "name": "ESTRADIOL SERUM",
+    "category": "RD1",
+    "mrp": 800,
+    "specialPrice": 600
+  },
+  {
+    "name": "F.D.P.",
+    "category": "RD1",
+    "mrp": 940,
+    "specialPrice": 705
+  },
+  {
+    "name": "FERRITIN SERUM OR PLASMA",
+    "category": "RD1",
+    "mrp": 890,
+    "specialPrice": 668
+  },
+  {
+    "name": "FSH",
+    "category": "RD1",
+    "mrp": 565,
+    "specialPrice": 424
+  },
+  {
+    "name": "FSH,TESTO,PRL",
+    "category": "RD1",
+    "mrp": 1550,
+    "specialPrice": 1162
+  },
+  {
+    "name": "FT3",
+    "category": "RD1",
+    "mrp": 390,
+    "specialPrice": 292
+  },
+  {
+    "name": "FT3,FT4,TSH",
+    "category": "RD1",
+    "mrp": 910,
+    "specialPrice": 682
+  },
+  {
+    "name": "FT3,FT4,TSH,TSHRAB",
+    "category": "RD1",
+    "mrp": 2800,
+    "specialPrice": 2100
+  },
+  {
+    "name": "FT3,TSH",
+    "category": "RD1",
+    "mrp": 575,
+    "specialPrice": 431
+  },
+  {
+    "name": "FT4",
+    "category": "RD1",
+    "mrp": 390,
+    "specialPrice": 292
+  },
+  {
+    "name": "FT4,TSH",
+    "category": "RD1",
+    "mrp": 570,
+    "specialPrice": 428
+  },
+  {
+    "name": "FT4,TSH,TPO",
+    "category": "RD1",
+    "mrp": 1200,
+    "specialPrice": 900
+  },
+  {
+    "name": "GAMMA GLUTAMYL TRN. PPT. DS",
+    "category": "RD1",
+    "mrp": 500,
+    "specialPrice": 375
+  },
+  {
+    "name": "GLOBULIN, SERUM",
+    "category": "RD1",
+    "mrp": 280,
+    "specialPrice": 210
+  },
+  {
+    "name": "GLUC. 6 PHOSPH. DEHYD.",
+    "category": "RD1",
+    "mrp": 725,
+    "specialPrice": 544
+  },
+  {
+    "name": "GLYCOHEMOGLOBN, BLOOD (HbA1C)",
+    "category": "RD2",
+    "mrp": 650,
+    "specialPrice": 552
+  },
+  {
+    "name": "GROWTH HARMONE",
+    "category": "RD1",
+    "mrp": 875,
+    "specialPrice": 656
+  },
+  {
+    "name": "HB HPLC",
+    "category": "RD2",
+    "mrp": 1100,
+    "specialPrice": 935
+  },
+  {
+    "name": "HDL CHOLESTEROL",
+    "category": "RD1",
+    "mrp": 275,
+    "specialPrice": 206
+  },
+  {
+    "name": "IgA",
+    "category": "RD1",
+    "mrp": 900,
+    "specialPrice": 675
+  },
+  {
+    "name": "IgE",
+    "category": "RD1",
+    "mrp": 1100,
+    "specialPrice": 825
+  },
+  {
+    "name": "IgG",
+    "category": "RD1",
+    "mrp": 900,
+    "specialPrice": 675
+  },
+  {
+    "name": "IgM",
+    "category": "RD1",
+    "mrp": 900,
+    "specialPrice": 675
+  },
+  {
+    "name": "IL6 (INTERLEUKIN 6)",
+    "category": "RD1",
+    "mrp": 3300,
+    "specialPrice": 2475
+  },
+  {
+    "name": "INSULIN (FASTING)",
+    "category": "RD1",
+    "mrp": 535,
+    "specialPrice": 401
+  },
+  {
+    "name": "INSULIN (PP)",
+    "category": "RD1",
+    "mrp": 535,
+    "specialPrice": 401
+  },
+  {
+    "name": "IRON +TIBC",
+    "category": "RD1",
+    "mrp": 740,
+    "specialPrice": 555
+  },
+  {
+    "name": "IRON PROFILE (COMPLETE)",
+    "category": "RD1",
+    "mrp": 1560,
+    "specialPrice": 1170
+  },
+  {
+    "name": "IRON SERUM",
+    "category": "RD1",
+    "mrp": 365,
+    "specialPrice": 274
+  },
+  {
+    "name": "KIDNEY PANEL",
+    "category": "RD1",
+    "mrp": 1100,
+    "specialPrice": 825
+  },
+  {
+    "name": "KIDNEY PANEL EXTENDED",
+    "category": "RD1",
+    "mrp": 1250,
+    "specialPrice": 938
+  },
+  {
+    "name": "LACTATE PLASMA",
+    "category": "RD1",
+    "mrp": 790,
+    "specialPrice": 592
+  },
+  {
+    "name": "LDH: LACTATE DEHYDROGENASE",
+    "category": "RD1",
+    "mrp": 490,
+    "specialPrice": 368
+  },
+  {
+    "name": "LDL (DIRECT)",
+    "category": "RD1",
+    "mrp": 385,
+    "specialPrice": 289
+  },
+  {
+    "name": "LH",
+    "category": "RD1",
+    "mrp": 570,
+    "specialPrice": 428
+  },
+  {
+    "name": "LH,FSH",
+    "category": "RD1",
+    "mrp": 985,
+    "specialPrice": 739
+  },
+  {
+    "name": "LH,FSH,ESTRADIOL",
+    "category": "RD1",
+    "mrp": 1350,
+    "specialPrice": 1012
+  },
+  {
+    "name": "LH,FSH,PRL,TSH",
+    "category": "RD1",
+    "mrp": 1500,
+    "specialPrice": 1125
+  },
+  {
+    "name": "LH,FSH,PROLACTIN",
+    "category": "RD1",
+    "mrp": 1300,
+    "specialPrice": 975
+  },
+  {
+    "name": "LH,FSH,TEST,PRL",
+    "category": "RD1",
+    "mrp": 1875,
+    "specialPrice": 1406
+  },
+  {
+    "name": "LH,FSH,TESTOSTERONE",
+    "category": "RD1",
+    "mrp": 1475,
+    "specialPrice": 1106
+  },
+  {
+    "name": "LH,PROGESTERONE",
+    "category": "RD1",
+    "mrp": 885,
+    "specialPrice": 664
+  },
+  {
+    "name": "LIPASE SERUM",
+    "category": "RD1",
+    "mrp": 730,
+    "specialPrice": 548
+  },
+  {
+    "name": "LIPID PROFILE WITH DIRECT LDLC",
+    "category": "RD1",
+    "mrp": 825,
+    "specialPrice": 619
+  },
+  {
+    "name": "LIVER ABSCESS ASPIRATE AMYLASE",
+    "category": "RD1",
+    "mrp": 525,
+    "specialPrice": 394
+  },
+  {
+    "name": "LIVER ABSCESS ASPIRATE LIPASE",
+    "category": "RD1",
+    "mrp": 875,
+    "specialPrice": 656
+  },
+  {
+    "name": "LIVER PROFILE",
+    "category": "RD1",
+    "mrp": 930,
+    "specialPrice": 698
+  },
+  {
+    "name": "MAGNESIUM : URINE(24 HRS)",
+    "category": "RD2",
+    "mrp": 575,
+    "specialPrice": 489
+  },
+  {
+    "name": "MAGNESIUM :SERUM",
+    "category": "RD1",
+    "mrp": 565,
+    "specialPrice": 424
+  },
+  {
+    "name": "MICRO ALBUMIN (24 HOURS. URINE)",
+    "category": "RD2",
+    "mrp": 570,
+    "specialPrice": 484
+  },
+  {
+    "name": "MICRO ALBUMIN (SPOT URINE)",
+    "category": "RD2",
+    "mrp": 570,
+    "specialPrice": 484
+  },
+  {
+    "name": "MICROALBUMIN CREATININE(UACR) RATIO",
+    "category": "RD1",
+    "mrp": 875,
+    "specialPrice": 656
+  },
+  {
+    "name": "NASAL DISCHARGE CHLORIDE",
+    "category": "RD1",
+    "mrp": 450,
+    "specialPrice": 338
+  },
+  {
+    "name": "NASAL DISCHARGE PROTEIN",
+    "category": "RD1",
+    "mrp": 200,
+    "specialPrice": 150
+  },
+  {
+    "name": "NASAL DISCHARGE SUGAR",
+    "category": "RD1",
+    "mrp": 75,
+    "specialPrice": 56
+  },
+  {
+    "name": "NASAL FLUID EVALUATION R/M",
+    "category": "RD2",
+    "mrp": 450,
+    "specialPrice": 382
+  },
+  {
+    "name": "OGCT (ORAL GLUCOSE CHALLENGE TEST )",
+    "category": "RD1",
+    "mrp": 80,
+    "specialPrice": 60
+  },
+  {
+    "name": "OGTT (NON PREGNANT ADULTS AND CHILDREN) ORAL GLUCOSE TOLERANCE TEST (2 samples)",
+    "category": "RD1",
+    "mrp": 150,
+    "specialPrice": 112
+  },
+  {
+    "name": "OGTT 2 HOURS ( PREGNANT WOMEN) ORAL GLUCOSE TOLERANCE TEST (3 samples )",
+    "category": "RD1",
+    "mrp": 225,
+    "specialPrice": 169
+  },
+  {
+    "name": "OGTT 3 HOURS ( PREGNANT WOMEN) ORAL GLUCOSE TOLERANCE TEST (4 samples)",
+    "category": "RD1",
+    "mrp": 300,
+    "specialPrice": 225
+  },
+  {
+    "name": "OSMOLALITY STOOL",
+    "category": "RD1",
+    "mrp": 850,
+    "specialPrice": 638
+  },
+  {
+    "name": "OSMOLALITY URINE (NA+,K+,SUGAR,BUN)",
+    "category": "RD2",
+    "mrp": 900,
+    "specialPrice": 765
+  },
+  {
+    "name": "OSMOLALITY,SERUM:NA,K,SAGUR,B UN",
+    "category": "RD1",
+    "mrp": 850,
+    "specialPrice": 638
+  },
+  {
+    "name": "P.D FLUID CREATININE",
+    "category": "RD2",
+    "mrp": 160,
+    "specialPrice": 136
+  },
+  {
+    "name": "P.D FLUID SUGAR",
+    "category": "RD2",
+    "mrp": 75,
+    "specialPrice": 64
+  },
+  {
+    "name": "P.D FLUID UREA",
+    "category": "RD2",
+    "mrp": 210,
+    "specialPrice": 178
+  },
+  {
+    "name": "P.D. FLUID AMYLASE",
+    "category": "RD2",
+    "mrp": 525,
+    "specialPrice": 446
+  },
+  {
+    "name": "P.D. FLUID BUN",
+    "category": "RD2",
+    "mrp": 190,
+    "specialPrice": 162
+  },
+  {
+    "name": "P.D. FLUID LIPASE",
+    "category": "RD2",
+    "mrp": 875,
+    "specialPrice": 744
+  },
+  {
+    "name": "P.D.FLUID COUNT",
+    "category": "RD2",
+    "mrp": 200,
+    "specialPrice": 170
+  },
+  {
+    "name": "PCD FLUID AMYLASE",
+    "category": "RD2",
+    "mrp": 525,
+    "specialPrice": 446
+  },
+  {
+    "name": "PERICARDIAL FLUID LDH",
+    "category": "RD2",
+    "mrp": 490,
+    "specialPrice": 416
+  },
+  {
+    "name": "PERICARDIAL FLUID R/M",
+    "category": "RD2",
+    "mrp": 550,
+    "specialPrice": 468
+  },
+  {
+    "name": "PERITONEAL FLUID AMYLASE",
+    "category": "RD2",
+    "mrp": 525,
+    "specialPrice": 446
+  },
+  {
+    "name": "PERITONEAL FLUID DIRECT BILIRUBIN",
+    "category": "RD2",
+    "mrp": 200,
+    "specialPrice": 170
+  },
+  {
+    "name": "PERITONEAL FLUID LIPASE",
+    "category": "RD2",
+    "mrp": 875,
+    "specialPrice": 744
+  },
+  {
+    "name": "PERITONEAL FLUID R/M",
+    "category": "RD2",
+    "mrp": 550,
+    "specialPrice": 468
+  },
+  {
+    "name": "PERITONEAL FLUID TOTAL BILIRUBIN",
+    "category": "RD2",
+    "mrp": 180,
+    "specialPrice": 153
+  },
+  {
+    "name": "PHOSPHORUS : URINE (24 HRS)",
+    "category": "RD2",
+    "mrp": 300,
+    "specialPrice": 255
+  },
+  {
+    "name": "PHOSPHORUS SERUM",
+    "category": "RD1",
+    "mrp": 215,
+    "specialPrice": 161
+  },
+  {
+    "name": "PHOSPHORUS SPOT URINE",
+    "category": "RD2",
+    "mrp": 300,
+    "specialPrice": 255
+  },
+  {
+    "name": "PLEURAL FLUID AMYLASE",
+    "category": "RD2",
+    "mrp": 525,
+    "specialPrice": 446
+  },
+  {
+    "name": "PLEURAL FLUID CREATININE",
+    "category": "RD2",
+    "mrp": 200,
+    "specialPrice": 170
+  },
+  {
+    "name": "PLEURAL FLUID LDH",
+    "category": "RD2",
+    "mrp": 575,
+    "specialPrice": 489
+  },
+  {
+    "name": "PLEURAL FLUID LDL",
+    "category": "RD2",
+    "mrp": 575,
+    "specialPrice": 489
+  },
+  {
+    "name": "PLEURAL FLUID LIPASE",
+    "category": "RD2",
+    "mrp": 825,
+    "specialPrice": 701
+  },
+  {
+    "name": "PLEURAL FLUID R/M WITH ALBUMIN",
+    "category": "RD2",
+    "mrp": 600,
+    "specialPrice": 510
+  },
+  {
+    "name": "PLEURAL FLUID UREA",
+    "category": "RD2",
+    "mrp": 200,
+    "specialPrice": 170
+  },
+  {
+    "name": "POTASSIUM URINE",
+    "category": "RD1",
+    "mrp": 450,
+    "specialPrice": 338
+  },
+  {
+    "name": "POTASSIUM, SERUM",
+    "category": "RD1",
+    "mrp": 290,
+    "specialPrice": 218
+  },
+  {
+    "name": "POTASSIUM, URINE (24HRS)",
+    "category": "RD2",
+    "mrp": 450,
+    "specialPrice": 382
+  },
+  {
+    "name": "POTASSIUM,FLUID",
+    "category": "RD2",
+    "mrp": 450,
+    "specialPrice": 382
+  },
+  {
+    "name": "PROCALCITONIN SERUM",
+    "category": "RD1",
+    "mrp": 2550,
+    "specialPrice": 1912
+  },
+  {
+    "name": "PROGESTERON SERUM",
+    "category": "RD1",
+    "mrp": 735,
+    "specialPrice": 551
+  },
+  {
+    "name": "PROLACTIN SERUM",
+    "category": "RD1",
+    "mrp": 585,
+    "specialPrice": 439
+  },
+  {
+    "name": "PROSTATIC SPECIFIC ANTIGEN(MALE) PSA",
+    "category": "RD1",
+    "mrp": 770,
+    "specialPrice": 578
+  },
+  {
+    "name": "PROTEIN URINE (24 HOURS)",
+    "category": "RD2",
+    "mrp": 325,
+    "specialPrice": 276
+  },
+  {
+    "name": "AMH( Anti Mullerian Hormone)",
+    "category": "RD2",
+    "mrp": 1700,
+    "specialPrice": 1445
+  },
+  {
+    "name": "PROTEIN TOTAL",
+    "category": "RD1",
+    "mrp": 180,
+    "specialPrice": 135
+  },
+  {
+    "name": "PROTEIN TOTAL & DIFF (ALB,GLOB,AG/RATIO)",
+    "category": "RD1",
+    "mrp": 275,
+    "specialPrice": 206
+  },
+  {
+    "name": "PROTEIN/CREATININE RATIO URINE",
+    "category": "RD2",
+    "mrp": 440,
+    "specialPrice": 374
+  },
+  {
+    "name": "PTH,INTACT AND CALCIUM",
+    "category": "RD1",
+    "mrp": 1600,
+    "specialPrice": 1200
+  },
+  {
+    "name": "RA QUANTITATIVE",
+    "category": "RD1",
+    "mrp": 480,
+    "specialPrice": 360
+  },
+  {
+    "name": "RANDOM BLOOD SUGAR",
+    "category": "RD1",
+    "mrp": 80,
+    "specialPrice": 60
+  },
+  {
+    "name": "RANDOM URINE MAGNESIUM",
+    "category": "RD2",
+    "mrp": 335,
+    "specialPrice": 285
+  },
+  {
+    "name": "SERUM BILIRUBIN - DIRECT",
+    "category": "RD1",
+    "mrp": 170,
+    "specialPrice": 128
+  },
+  {
+    "name": "SERUM BILIRUBIN - DIRECT + INDIRECT",
+    "category": "RD1",
+    "mrp": 260,
+    "specialPrice": 195
+  },
+  {
+    "name": "SERUM BILIRUBIN - TOTAL",
+    "category": "RD1",
+    "mrp": 160,
+    "specialPrice": 120
+  },
+  {
+    "name": "SERUM BILIRUBIN - TOTAL & DIRECT",
+    "category": "RD1",
+    "mrp": 260,
+    "specialPrice": 195
+  },
+  {
+    "name": "SERUM ELECTROLYTE (NA+ , K+)",
+    "category": "RD1",
+    "mrp": 350,
+    "specialPrice": 262
+  },
+  {
+    "name": "SERUM FOLATE(Folic Acid)",
+    "category": "RD1",
+    "mrp": 1000,
+    "specialPrice": 750
+  },
+  {
+    "name": "SGOT",
+    "category": "RD1",
+    "mrp": 165,
+    "specialPrice": 124
+  },
+  {
+    "name": "SGPT",
+    "category": "RD1",
+    "mrp": 165,
+    "specialPrice": 124
+  },
+  {
+    "name": "SODIUM URINE",
+    "category": "RD2",
+    "mrp": 450,
+    "specialPrice": 382
+  },
+  {
+    "name": "SODIUM, URINE (24 HRS)",
+    "category": "RD2",
+    "mrp": 450,
+    "specialPrice": 382
+  },
+  {
+    "name": "SPOT URINARY AMYLASE",
+    "category": "RD1",
+    "mrp": 525,
+    "specialPrice": 394
+  },
+  {
+    "name": "SPOT URINE CREATININE",
+    "category": "RD2",
+    "mrp": 260,
+    "specialPrice": 221
+  },
+  {
+    "name": "SPOT URINE PROTEIN",
+    "category": "RD2",
+    "mrp": 325,
+    "specialPrice": 276
+  },
+  {
+    "name": "SPOT URINE URIC ACID",
+    "category": "RD2",
+    "mrp": 315,
+    "specialPrice": 268
+  },
+  {
+    "name": "STANDARD Q COVID 19 AG",
+    "category": "RD1",
+    "mrp": 250,
+    "specialPrice": 188
+  },
+  {
+    "name": "STOOL ELECTROLYTES(NA+, K+)",
+    "category": "RD1",
+    "mrp": 450,
+    "specialPrice": 338
+  },
+  {
+    "name": "STOOL NA+,K+",
+    "category": "RD1",
+    "mrp": 450,
+    "specialPrice": 338
+  },
+  {
+    "name": "T3 TRIODOTHYRONINE",
+    "category": "RD1",
+    "mrp": 280,
+    "specialPrice": 210
+  },
+  {
+    "name": "T3,T4,TSH",
+    "category": "RD1",
+    "mrp": 635,
+    "specialPrice": 476
+  },
+  {
+    "name": "T4 THYROXINE",
+    "category": "RD1",
+    "mrp": 275,
+    "specialPrice": 206
+  },
+  {
+    "name": "TESTOSTIRONE SERUM",
+    "category": "RD1",
+    "mrp": 800,
+    "specialPrice": 600
+  },
+  {
+    "name": "THYROID PEROXIDASE ANTIBODIES (TPO)",
+    "category": "RD2",
+    "mrp": 880,
+    "specialPrice": 748
+  },
+  {
+    "name": "TOTAL PROTEIN IN ASPIRATED FLUID",
+    "category": "RD2",
+    "mrp": 200,
+    "specialPrice": 170
+  },
+  {
+    "name": "TRIGLYCERIDES IN ASCITIC FLUID",
+    "category": "RD2",
+    "mrp": 275,
+    "specialPrice": 234
+  },
+  {
+    "name": "TRIGLYCERIDES SERUM",
+    "category": "RD1",
+    "mrp": 255,
+    "specialPrice": 191
+  },
+  {
+    "name": "TSH",
+    "category": "RD1",
+    "mrp": 320,
+    "specialPrice": 240
+  },
+  {
+    "name": "UREA CREATININE RATIO",
+    "category": "RD1",
+    "mrp": 365,
+    "specialPrice": 274
+  },
+  {
+    "name": "URIC ACID SERUM",
+    "category": "RD1",
+    "mrp": 200,
+    "specialPrice": 150
+  },
+  {
+    "name": "URIC ACID URINE (24HRS)",
+    "category": "RD2",
+    "mrp": 300,
+    "specialPrice": 255
+  },
+  {
+    "name": "URINE KETONES BODIES",
+    "category": "RD2",
+    "mrp": 140,
+    "specialPrice": 119
+  },
+  {
+    "name": "URINE - NA+ , K+ (SPOT)",
+    "category": "RD2",
+    "mrp": 500,
+    "specialPrice": 425
+  },
+  {
+    "name": "URINE (ALBUMIN) QUALITATIVE",
+    "category": "RD2",
+    "mrp": 140,
+    "specialPrice": 119
+  },
+  {
+    "name": "URINE BILIRUBIN",
+    "category": "RD2",
+    "mrp": 140,
+    "specialPrice": 119
+  },
+  {
+    "name": "URINE CALCIUM/CREATININE RATIO",
+    "category": "RD2",
+    "mrp": 525,
+    "specialPrice": 446
+  },
+  {
+    "name": "URINE UREA NITROGEN ( SPOT URINE )",
+    "category": "RD2",
+    "mrp": 200,
+    "specialPrice": 170
+  },
+  {
+    "name": "URINE UREA NITROGEN (URINE24 HRS)",
+    "category": "RD2",
+    "mrp": 200,
+    "specialPrice": 170
+  },
+  {
+    "name": "VITAMIN B12 (CYANOCOBALAMIN)",
+    "category": "RD1",
+    "mrp": 915,
+    "specialPrice": 686
+  },
+  {
+    "name": "VITAMIN D 25 /OHD",
+    "category": "RD1",
+    "mrp": 1620,
+    "specialPrice": 1215
+  },
+  {
+    "name": "WATER DEPRIVATION TEST (Na,K,Glucoseand BUN)",
+    "category": "RD1",
+    "mrp": 3700,
+    "specialPrice": 2775
+  },
+  {
+    "name": "ABSOLUTE EOSINOPHILS#",
+    "category": "RD1",
+    "mrp": 230,
+    "specialPrice": 172
+  },
+  {
+    "name": "ABSOLUTE LYMPHOCYTES#",
+    "category": "RD1",
+    "mrp": 230,
+    "specialPrice": 172
+  },
+  {
+    "name": "ABSOLUTE NEUTROPHILS#",
+    "category": "RD1",
+    "mrp": 230,
+    "specialPrice": 172
+  },
+  {
+    "name": "ACTIVAT.PART.THROM.TIME",
+    "category": "RD1",
+    "mrp": 450,
+    "specialPrice": 338
+  },
+  {
+    "name": "BAND CELL /NEUTROPHILS RATIO",
+    "category": "RD1",
+    "mrp": 150,
+    "specialPrice": 112
+  },
+  {
+    "name": "BLEEDING TIME(B.T.)",
+    "category": "RD1",
+    "mrp": 130,
+    "specialPrice": 98
+  },
+  {
+    "name": "BLOOD PARASITES (MALARIA)",
+    "category": "RD1",
+    "mrp": 180,
+    "specialPrice": 135
+  },
+  {
+    "name": "BLOOD PARASITES (MICROFILARIA)",
+    "category": "RD1",
+    "mrp": 180,
+    "specialPrice": 135
+  },
+  {
+    "name": "BLOOD PICTURE(PERIPHERAL SMEAR)",
+    "category": "RD1",
+    "mrp": 350,
+    "specialPrice": 262
+  },
+  {
+    "name": "CLOTTING TIME (C.T.)",
+    "category": "RD1",
+    "mrp": 135,
+    "specialPrice": 101
+  },
+  {
+    "name": "COMPLETE BlOOD COUNT",
+    "category": "RD1",
+    "mrp": 360,
+    "specialPrice": 270
+  },
+  {
+    "name": "COMPLETE HAEMOGRAM+IPF",
+    "category": "RD1",
+    "mrp": 625,
+    "specialPrice": 469
+  },
+  {
+    "name": "COMPLETE HAEMOGRAM+RETICULOCYTE COUNT",
+    "category": "RD1",
+    "mrp": 625,
+    "specialPrice": 469
+  },
+  {
+    "name": "DLC",
+    "category": "RD1",
+    "mrp": 120,
+    "specialPrice": 90
+  },
+  {
+    "name": "E. S. R. WESTREN GREEN (ESR)",
+    "category": "RD1",
+    "mrp": 170,
+    "specialPrice": 128
+  },
+  {
+    "name": "FILARIASIS, BLOOD (NIGHT )",
+    "category": "RD1",
+    "mrp": 180,
+    "specialPrice": 135
+  },
+  {
+    "name": "GBP+CBC",
+    "category": "RD1",
+    "mrp": 500,
+    "specialPrice": 375
+  },
+  {
+    "name": "GROUPING ABO-RH",
+    "category": "RD1",
+    "mrp": 250,
+    "specialPrice": 188
+  },
+  {
+    "name": "HAEMOGLOBIN (HB)",
+    "category": "RD1",
+    "mrp": 100,
+    "specialPrice": 75
+  },
+  {
+    "name": "HAEMOGRAM (HB%, TLC, DLC)",
+    "category": "RD1",
+    "mrp": 285,
+    "specialPrice": 214
+  },
+  {
+    "name": "HB VARIANT HPLC",
+    "category": "RD1",
+    "mrp": 1100,
+    "specialPrice": 825
+  },
+  {
+    "name": "IPF(IMMATURE PLATELET FRACTION",
+    "category": "RD1",
+    "mrp": 575,
+    "specialPrice": 431
+  },
+  {
+    "name": "LE PREPARATION/CELLS",
+    "category": "RD1",
+    "mrp": 750,
+    "specialPrice": 562
+  },
+  {
+    "name": "MCH",
+    "category": "RD1",
+    "mrp": 130,
+    "specialPrice": 98
+  },
+  {
+    "name": "MCHC",
+    "category": "RD1",
+    "mrp": 130,
+    "specialPrice": 98
+  },
+  {
+    "name": "MCV",
+    "category": "RD1",
+    "mrp": 130,
+    "specialPrice": 98
+  },
+  {
+    "name": "OSMOTIC FRAGILITY TEST",
+    "category": "RD1",
+    "mrp": 1100,
+    "specialPrice": 825
+  },
+  {
+    "name": "PCV(PACKED CELL VOLUME)",
+    "category": "RD1",
+    "mrp": 130,
+    "specialPrice": 98
+  },
+  {
+    "name": "PLATELET COUNT",
+    "category": "RD1",
+    "mrp": 350,
+    "specialPrice": 262
+  },
+  {
+    "name": "PROTHROMBIN TIME (P.T.)+(INR)",
+    "category": "RD1",
+    "mrp": 350,
+    "specialPrice": 262
+  },
+  {
+    "name": "RBC COUNT",
+    "category": "RD1",
+    "mrp": 130,
+    "specialPrice": 98
+  },
+  {
+    "name": "RETICULOCYTE COUNT",
+    "category": "RD1",
+    "mrp": 500,
+    "specialPrice": 375
+  },
+  {
+    "name": "SICKLING TEST",
+    "category": "RD1",
+    "mrp": 900,
+    "specialPrice": 675
+  },
+  {
+    "name": "TLC : TOTAL LEUCOCYTE COUNT",
+    "category": "RD1",
+    "mrp": 130,
+    "specialPrice": 98
+  },
+  {
+    "name": "B.J.PROTEIN",
+    "category": "RD1",
+    "mrp": 500,
+    "specialPrice": 375
+  },
+  {
+    "name": "BILE PIGMENT (PUS)",
+    "category": "RD1",
+    "mrp": 180,
+    "specialPrice": 135
+  },
+  {
+    "name": "BILE SALT & PIGMENT(URINE)",
+    "category": "RD1",
+    "mrp": 180,
+    "specialPrice": 135
+  },
+  {
+    "name": "BILE SALT (PUS)",
+    "category": "RD1",
+    "mrp": 180,
+    "specialPrice": 135
+  },
+  {
+    "name": "BODY FLUID BILE PIGMENT",
+    "category": "RD1",
+    "mrp": 180,
+    "specialPrice": 135
+  },
+  {
+    "name": "BODY FLUID BILE SALT",
+    "category": "RD1",
+    "mrp": 180,
+    "specialPrice": 135
+  },
+  {
+    "name": "BODY FLUID CHYLOMICRON",
+    "category": "RD1",
+    "mrp": 400,
+    "specialPrice": 300
+  },
+  {
+    "name": "BODY FLUID FOR CHYLE",
+    "category": "RD1",
+    "mrp": 400,
+    "specialPrice": 300
+  },
+  {
+    "name": "BODY FLUID R/M",
+    "category": "RD1",
+    "mrp": 550,
+    "specialPrice": 412
+  },
+  {
+    "name": "BODY FLUID R/M WITH ALBUMIN",
+    "category": "RD1",
+    "mrp": 600,
+    "specialPrice": 450
+  },
+  {
+    "name": "BODY FLUID-PH",
+    "category": "RD1",
+    "mrp": 115,
+    "specialPrice": 86
+  },
+  {
+    "name": "CHYLE:URINE",
+    "category": "RD1",
+    "mrp": 400,
+    "specialPrice": 300
+  },
+  {
+    "name": "GASTRIC ASPIRATE FOR P.CELL",
+    "category": "RD1",
+    "mrp": 300,
+    "specialPrice": 225
+  },
+  {
+    "name": "OSMOLALITY URINE (24 HOURS)",
+    "category": "RD1",
+    "mrp": 900,
+    "specialPrice": 675
+  },
+  {
+    "name": "OTHER FLUID WITH ALBUMIN",
+    "category": "RD1",
+    "mrp": 600,
+    "specialPrice": 450
+  },
+  {
+    "name": "PH URINE",
+    "category": "RD1",
+    "mrp": 115,
+    "specialPrice": 86
+  },
+  {
+    "name": "PH-STOOL",
+    "category": "RD1",
+    "mrp": 115,
+    "specialPrice": 86
+  },
+  {
+    "name": "PLEURAL FLUID BILE PIGMENT",
+    "category": "RD1",
+    "mrp": 175,
+    "specialPrice": 131
+  },
+  {
+    "name": "PORPHOBILINOGEN",
+    "category": "RD1",
+    "mrp": 400,
+    "specialPrice": 300
+  },
+  {
+    "name": "PREGNANCY TEST",
+    "category": "RD1",
+    "mrp": 160,
+    "specialPrice": 120
+  },
+  {
+    "name": "REDUCING SUBSTANCE",
+    "category": "RD1",
+    "mrp": 175,
+    "specialPrice": 131
+  },
+  {
+    "name": "RENAL CYST FLUID R/M",
+    "category": "RD1",
+    "mrp": 575,
+    "specialPrice": 431
+  },
+  {
+    "name": "SEMEN ANALYSIS COMPLETE",
+    "category": "RD1",
+    "mrp": 600,
+    "specialPrice": 450
+  },
+  {
+    "name": "SEMEN KRUGERS STRICT CRITERIA",
+    "category": "RD1",
+    "mrp": 725,
+    "specialPrice": 544
+  },
+  {
+    "name": "STOOL CHLORIDE",
+    "category": "RD1",
+    "mrp": 410,
+    "specialPrice": 308
+  },
+  {
+    "name": "STOOL ROUTINE(PUS CELLS & RBC)<=2 YEARS",
+    "category": "RD1",
+    "mrp": 200,
+    "specialPrice": 150
+  },
+  {
+    "name": "SUGAR : URINE",
+    "category": "RD1",
+    "mrp": 140,
+    "specialPrice": 105
+  },
+  {
+    "name": "SYNOVIAL FLUID R/M",
+    "category": "RD1",
+    "mrp": 600,
+    "specialPrice": 450
+  },
+  {
+    "name": "TUMOR FLUID R/M",
+    "category": "RD1",
+    "mrp": 600,
+    "specialPrice": 450
+  },
+  {
+    "name": "URINARY HCG (QUALITATIVE)",
+    "category": "RD1",
+    "mrp": 160,
+    "specialPrice": 120
+  },
+  {
+    "name": "URINE FOR CHYLOMICRON",
+    "category": "RD1",
+    "mrp": 400,
+    "specialPrice": 300
+  },
+  {
+    "name": "URINE FOR HAEMOGLOBINURIA",
+    "category": "RD1",
+    "mrp": 300,
+    "specialPrice": 225
+  },
+  {
+    "name": "URINE FOR MYOGLOBINURIA",
+    "category": "RD1",
+    "mrp": 300,
+    "specialPrice": 225
+  },
+  {
+    "name": "URINE NITRITE QUALITATIVE",
+    "category": "RD1",
+    "mrp": 175,
+    "specialPrice": 131
+  },
+  {
+    "name": "URINE R/M",
+    "category": "RD1",
+    "mrp": 175,
+    "specialPrice": 131
+  },
+  {
+    "name": "URINE SPECIFIC GRAVITY",
+    "category": "RD1",
+    "mrp": 175,
+    "specialPrice": 131
+  },
+  {
+    "name": "URINE TRIGLYCERIDES",
+    "category": "RD1",
+    "mrp": 400,
+    "specialPrice": 300
+  },
+  {
+    "name": "URINE,STOOL FAT GLOBULE",
+    "category": "RD1",
+    "mrp": 200,
+    "specialPrice": 150
+  },
+  {
+    "name": "UROBILONOGEN URINARY",
+    "category": "RD1",
+    "mrp": 200,
+    "specialPrice": 150
+  },
+  {
+    "name": "VOMITUS FOR PRESENCE OF BLOOD",
+    "category": "RD1",
+    "mrp": 200,
+    "specialPrice": 150
+  },
+  {
+    "name": "ADA-MTB",
+    "category": "RD2",
+    "mrp": 650,
+    "specialPrice": 552
+  },
+  {
+    "name": "AFB STAINING FOR LEPRA BACILLI",
+    "category": "RD2",
+    "mrp": 425,
+    "specialPrice": 361
+  },
+  {
+    "name": "AFB STAINING FOR MYCOBACTERIUM",
+    "category": "RD1",
+    "mrp": 275,
+    "specialPrice": 206
+  },
+  {
+    "name": "ALBERT STAINING FOR DIPTHERIA",
+    "category": "RD1",
+    "mrp": 425,
+    "specialPrice": 319
+  },
+  {
+    "name": "ALLERGY PROFILE IgE ( Food Panel)",
+    "category": "RD3",
+    "mrp": 5000,
+    "specialPrice": 4500
+  },
+  {
+    "name": "ALLERGY PROFILE IgE ( Inhalational Panel)",
+    "category": "RD3",
+    "mrp": 6000,
+    "specialPrice": 5400
+  },
+  {
+    "name": "ANA PROFILE /CONNECTIVE TISSUE",
+    "category": "RD3",
+    "mrp": 2800,
+    "specialPrice": 2520
+  },
+  {
+    "name": "ANTI HBS TITRE",
+    "category": "RD3",
+    "mrp": 825,
+    "specialPrice": 742
+  },
+  {
+    "name": "ANTI NUCLEAR ANTIBODY",
+    "category": "RD3",
+    "mrp": 850,
+    "specialPrice": 765
+  },
+  {
+    "name": "ANTI TORCH IgG PROFILE",
+    "category": "RD4",
+    "mrp": 1650,
+    "specialPrice": 1568
+  },
+  {
+    "name": "ANTI TORCH IgM PROFILE",
+    "category": "RD4",
+    "mrp": 1650,
+    "specialPrice": 1568
+  },
+  {
+    "name": "Myositis Profile",
+    "category": "RD3",
+    "mrp": 9000,
+    "specialPrice": 8100
+  },
+  {
+    "name": "BIOPSY CULTURE",
+    "category": "RD3",
+    "mrp": 700,
+    "specialPrice": 630
+  },
+  {
+    "name": "BLOOD CULTURE - IPD 1 SET (BACT/ALERT-3D/60).AUTOMATION #",
+    "category": "RD3",
+    "mrp": 1750,
+    "specialPrice": 1575
+  },
+  {
+    "name": "BLOOD CULTURE - IPD 2 SET (BACT/ALERT-3D/60).AUTOMATION #",
+    "category": "RD3",
+    "mrp": 2650,
+    "specialPrice": 2385
+  },
+  {
+    "name": "BLOOD CULTURE - IPD 3 SET (BACT/ALERT-3D/60).AUTOMATION #",
+    "category": "RD3",
+    "mrp": 3250,
+    "specialPrice": 2925
+  },
+  {
+    "name": "BLOOD CULTURE - OPD (BACT/ALERT-3D/60).AUTOMATION #",
+    "category": "RD3",
+    "mrp": 1250,
+    "specialPrice": 1125
+  },
+  {
+    "name": "BODY FLUID CULTURE (BACT/ALERT- 3D/60)",
+    "category": "RD3",
+    "mrp": 1250,
+    "specialPrice": 1125
+  },
+  {
+    "name": "CALPROTECTIN",
+    "category": "RD3",
+    "mrp": 3000,
+    "specialPrice": 2700
+  },
+  {
+    "name": "CATHETER TIPS CULTURE (C&S) AUTOMATION",
+    "category": "RD3",
+    "mrp": 1250,
+    "specialPrice": 1125
+  },
+  {
+    "name": "CONJUNCTIVAL SMEAR",
+    "category": "RD2",
+    "mrp": 200,
+    "specialPrice": 170
+  },
+  {
+    "name": "COOMBS TEST DIRECT",
+    "category": "RD2",
+    "mrp": 325,
+    "specialPrice": 276
+  },
+  {
+    "name": "COOMBS TEST INDIRECT",
+    "category": "RD2",
+    "mrp": 450,
+    "specialPrice": 382
+  },
+  {
+    "name": "CSF CULTURE (C&S) AUTOMATION",
+    "category": "RD3",
+    "mrp": 1250,
+    "specialPrice": 1125
+  },
+  {
+    "name": "CULTURE (C&S) AUTOMATION",
+    "category": "RD3",
+    "mrp": 1250,
+    "specialPrice": 1125
+  },
+  {
+    "name": "DENGUE ELISA (IGM,IGG,NS1)",
+    "category": "RD2",
+    "mrp": 3500,
+    "specialPrice": 2975
+  },
+  {
+    "name": "DENGUE card (IGM,IGG,NS1)",
+    "category": "RD1",
+    "mrp": 1500,
+    "specialPrice": 1125
+  },
+  {
+    "name": "DENGUE ELISA (NS1 & IGM)",
+    "category": "RD2",
+    "mrp": 2000,
+    "specialPrice": 1700
+  },
+  {
+    "name": "DENGUE ELISA IGG",
+    "category": "RD2",
+    "mrp": 1600,
+    "specialPrice": 1360
+  },
+  {
+    "name": "DENGUE ELISA IGG",
+    "category": "RD2",
+    "mrp": 1100,
+    "specialPrice": 935
+  },
+  {
+    "name": "DENGUE ELISA NS1",
+    "category": "RD2",
+    "mrp": 1100,
+    "specialPrice": 935
+  },
+  {
+    "name": "DENGUE SCREENING FOR IGG + IGM",
+    "category": "RD2",
+    "mrp": 1800,
+    "specialPrice": 1530
+  },
+  {
+    "name": "DIRECT EXAM. HYDATID CYST SAND",
+    "category": "RD3",
+    "mrp": 225,
+    "specialPrice": 202
+  },
+  {
+    "name": "DIRECT EXAM.FOR ENTAMOEBA HISTOYTICA",
+    "category": "RD3",
+    "mrp": 200,
+    "specialPrice": 180
+  },
+  {
+    "name": "DIRECT SMEAR EXAM. FOR FUNGUS",
+    "category": "RD2",
+    "mrp": 250,
+    "specialPrice": 212
+  },
+  {
+    "name": "FUNGUS CULTURE (C&S) AUTOMATION",
+    "category": "RD4",
+    "mrp": 1250,
+    "specialPrice": 1188
+  },
+  {
+    "name": "GRAM STAINING FOR BACTERIA",
+    "category": "RD2",
+    "mrp": 185,
+    "specialPrice": 157
+  },
+  {
+    "name": "HBSAG (AUSTRALIA ANTIGEN)",
+    "category": "RD1",
+    "mrp": 625,
+    "specialPrice": 469
+  },
+  {
+    "name": "HEPATITIS C /HCV",
+    "category": "RD1",
+    "mrp": 800,
+    "specialPrice": 600
+  },
+  {
+    "name": "HIGH VAGINAL SWAB CULTURE (C&S) AUTOMATION",
+    "category": "RD3",
+    "mrp": 1250,
+    "specialPrice": 1125
+  },
+  {
+    "name": "HIV",
+    "category": "RD1",
+    "mrp": 725,
+    "specialPrice": 544
+  },
+  {
+    "name": "INDIA INK PREPARATION",
+    "category": "RD1",
+    "mrp": 275,
+    "specialPrice": 206
+  },
+  {
+    "name": "LEPTOSPIRA IGM",
+    "category": "RD3",
+    "mrp": 1500,
+    "specialPrice": 1350
+  },
+  {
+    "name": "LEPTOSPIRA SCREENING (IGM/IGG) CARD TEST",
+    "category": "RD3",
+    "mrp": 600,
+    "specialPrice": 540
+  },
+  {
+    "name": "MALARIA SCREENING",
+    "category": "RD2",
+    "mrp": 425,
+    "specialPrice": 361
+  },
+  {
+    "name": "MANTOUX TEST",
+    "category": "RD3",
+    "mrp": 400,
+    "specialPrice": 360
+  },
+  {
+    "name": "NOCARDIA (AFB STAINING)",
+    "category": "RD3",
+    "mrp": 275,
+    "specialPrice": 248
+  },
+  {
+    "name": "PARANEOPLASTIC NEUROLOGIC SYNDROME IgG PROFILE",
+    "category": "RD3",
+    "mrp": 9000,
+    "specialPrice": 8100
+  },
+  {
+    "name": "PATHOLOGY MATERIAL CULTURE (C&S) AUTOMATION",
+    "category": "RD3",
+    "mrp": 1250,
+    "specialPrice": 1125
+  },
+  {
+    "name": "PUS AEROBIC CULTURE (C&S) AUTOMATION",
+    "category": "RD3",
+    "mrp": 1250,
+    "specialPrice": 1125
+  },
+  {
+    "name": "PUS, GRAM STAINING FOR BACT",
+    "category": "RD3",
+    "mrp": 185,
+    "specialPrice": 166
+  },
+  {
+    "name": "PUS/FLUID FOR AMOEBAE",
+    "category": "RD3",
+    "mrp": 400,
+    "specialPrice": 360
+  },
+  {
+    "name": "SCREENING CARD (HIV,HBSAG,HCV)",
+    "category": "RD2",
+    "mrp": 700,
+    "specialPrice": 595
+  },
+  {
+    "name": "SCRUB TYPHUS SCREENING TEST",
+    "category": "RD3",
+    "mrp": 1000,
+    "specialPrice": 900
+  },
+  {
+    "name": "SEMEN CULTURE (C&S) AUTOMATION",
+    "category": "RD3",
+    "mrp": 1250,
+    "specialPrice": 1125
+  },
+  {
+    "name": "SMEAR EXAM. FOR GONOCOCOI",
+    "category": "RD3",
+    "mrp": 325,
+    "specialPrice": 292
+  },
+  {
+    "name": "SPUTUM FUNGUS CULTURE (C&S) AUTOMATION",
+    "category": "RD3",
+    "mrp": 1250,
+    "specialPrice": 1125
+  },
+  {
+    "name": "SPUTUM CULTURE (C&S) AUTOMATION",
+    "category": "RD3",
+    "mrp": 1250,
+    "specialPrice": 1125
+  },
+  {
+    "name": "SPUTUM,AFB STAINING FOR MYCOBACT",
+    "category": "RD3",
+    "mrp": 275,
+    "specialPrice": 248
+  },
+  {
+    "name": "SPUTUM,GRAM STANING FOR BACT",
+    "category": "RD3",
+    "mrp": 300,
+    "specialPrice": 270
+  },
+  {
+    "name": "STONE WASH CULTURE (C&S) AUTOMATION",
+    "category": "RD3",
+    "mrp": 1250,
+    "specialPrice": 1125
+  },
+  {
+    "name": "STOOL FOR CRYPTOSPORIDIA/ISOSPORA/CYCLO SPORA",
+    "category": "RD3",
+    "mrp": 250,
+    "specialPrice": 225
+  },
+  {
+    "name": "STOOL --CULTURE (C&S) AUTOMATION",
+    "category": "RD3",
+    "mrp": 1250,
+    "specialPrice": 1125
+  },
+  {
+    "name": "STOOL EXAM (HANGING DROP)",
+    "category": "RD2",
+    "mrp": 400,
+    "specialPrice": 340
+  },
+  {
+    "name": "STOOL EXAM. FOR OCCULT BLOOD",
+    "category": "RD2",
+    "mrp": 400,
+    "specialPrice": 340
+  },
+  {
+    "name": "STOOL EXAM.FOR OVA & CYST.",
+    "category": "RD3",
+    "mrp": 400,
+    "specialPrice": 360
+  },
+  {
+    "name": "STOOL, AFB STAINING FOR MYCOBACT",
+    "category": "RD2",
+    "mrp": 400,
+    "specialPrice": 340
+  },
+  {
+    "name": "STOOL, GRAM STAINING FOR BACT",
+    "category": "RD2",
+    "mrp": 300,
+    "specialPrice": 255
+  },
+  {
+    "name": "Tissue transglutaminase (TTG)",
+    "category": "RD3",
+    "mrp": 750,
+    "specialPrice": 675
+  },
+  {
+    "name": "THROAT SWAB CULTURE (C&S) AUTOMATION",
+    "category": "RD3",
+    "mrp": 1250,
+    "specialPrice": 1125
+  },
+  {
+    "name": "THROAT SWAB, GRAM STAIN.FOR BACT.",
+    "category": "RD2",
+    "mrp": 300,
+    "specialPrice": 255
+  },
+  {
+    "name": "THROAT SWAB,AFB STAIN FOR MYCO",
+    "category": "RD3",
+    "mrp": 400,
+    "specialPrice": 360
+  },
+  {
+    "name": "Typhoid IgG/IgM Rapid test",
+    "category": "RD1",
+    "mrp": 500,
+    "specialPrice": 375
+  },
+  {
+    "name": "TZANCK SMEAR OF HERPES ZOSTER",
+    "category": "RD3",
+    "mrp": 500,
+    "specialPrice": 450
+  },
+  {
+    "name": "URINE CULTURE (C & S) MANUAL",
+    "category": "RD2",
+    "mrp": 1000,
+    "specialPrice": 850
+  },
+  {
+    "name": "URINE, AFB STAINING FOR MYCOBAC",
+    "category": "RD2",
+    "mrp": 500,
+    "specialPrice": 425
+  },
+  {
+    "name": "V.D.R.L.",
+    "category": "RD1",
+    "mrp": 200,
+    "specialPrice": 150
+  },
+  {
+    "name": "WIDAL TEST (Tube Method )",
+    "category": "RD2",
+    "mrp": 500,
+    "specialPrice": 425
+  },
+  {
+    "name": "HbsAg ( Card Test )",
+    "category": "RD1",
+    "mrp": 400,
+    "specialPrice": 300
+  },
+  {
+    "name": "Hepatitis C / HCV ( Card Test )",
+    "category": "RD1",
+    "mrp": 450,
+    "specialPrice": 338
+  },
+  {
+    "name": "HIV ( Card Test )",
+    "category": "RD1",
+    "mrp": 450,
+    "specialPrice": 338
+  },
+  {
+    "name": "BIOPSY - EXTRA LARGE -5",
+    "category": "RD3",
+    "mrp": 5500,
+    "specialPrice": 4950
+  },
+  {
+    "name": "BIOPSY - MEDIUM -2",
+    "category": "RD3",
+    "mrp": 2500,
+    "specialPrice": 2250
+  },
+  {
+    "name": "BIOPSY - SMALL - 1",
+    "category": "RD3",
+    "mrp": 1500,
+    "specialPrice": 1350
+  },
+  {
+    "name": "BIOPSY ENDOSCOPE/BRONCHO.NO- 1",
+    "category": "RD3",
+    "mrp": 1200,
+    "specialPrice": 1080
+  },
+  {
+    "name": "BIOPSY ENDOSCOPE/BRONCHO.NO- 2",
+    "category": "RD3",
+    "mrp": 1600,
+    "specialPrice": 1440
+  },
+  {
+    "name": "BIOPSY ENDOSCOPE/BRONCHO.NO- 3",
+    "category": "RD3",
+    "mrp": 2000,
+    "specialPrice": 1800
+  },
+  {
+    "name": "BIOPSY ENDOSCOPE/BRONCHO.NO- 4",
+    "category": "RD3",
+    "mrp": 2300,
+    "specialPrice": 2070
+  },
+  {
+    "name": "BIOPSY FROZEN SECTION",
+    "category": "RD3",
+    "mrp": 3000,
+    "specialPrice": 2700
+  },
+  {
+    "name": "BIOPSY FROZEN SECTION 5 - 10 SECTION",
+    "category": "RD3",
+    "mrp": 4250,
+    "specialPrice": 3825
+  },
+  {
+    "name": "BIOPSY FROZEN SECTION MORE THAN 10 SECTION",
+    "category": "RD3",
+    "mrp": 5250,
+    "specialPrice": 4725
+  },
+  {
+    "name": "BIOPSY FROZEN SECTION UPTO 5 SECTION",
+    "category": "RD3",
+    "mrp": 5500,
+    "specialPrice": 4950
+  },
+  {
+    "name": "BIOPSY LIVER/KIDNEY",
+    "category": "RD3",
+    "mrp": 2000,
+    "specialPrice": 1800
+  },
+  {
+    "name": "BIOPSY SPECIAL STAIN",
+    "category": "RD3",
+    "mrp": 2500,
+    "specialPrice": 2250
+  },
+  {
+    "name": "BIOPSY-EXTRA MEDIUM(TURP/TURB) 3",
+    "category": "RD3",
+    "mrp": 2500,
+    "specialPrice": 2250
+  },
+  {
+    "name": "BIOPSY-LARGE - 4",
+    "category": "RD3",
+    "mrp": 3500,
+    "specialPrice": 3150
+  },
+  {
+    "name": "BLOCK CHARGES",
+    "category": "RD3",
+    "mrp": 500,
+    "specialPrice": 450
+  },
+  {
+    "name": "EXTRA SLIDE CHARGES",
+    "category": "RD3",
+    "mrp": 400,
+    "specialPrice": 360
+  },
+  {
+    "name": "FETAL AUTOPSY & HISTOPATHOLOGY",
+    "category": "RD3",
+    "mrp": 5000,
+    "specialPrice": 4500
+  },
+  {
+    "name": "FETAL AUTOPSY-GROSS+3 SECTIONS",
+    "category": "RD3",
+    "mrp": 2500,
+    "specialPrice": 2250
+  },
+  {
+    "name": "SLIDES (HISTOPATHOLOGY)FOR CONSULT . FROM OUTSIDE",
+    "category": "RD3",
+    "mrp": 1000,
+    "specialPrice": 900
+  },
+  {
+    "name": "SLIDES (HISTOPATHOLOGY)FOR CONSULT . FROM OUTSIDE UPTO 2 SLIDES",
+    "category": "RD3",
+    "mrp": 1200,
+    "specialPrice": 1080
+  },
+  {
+    "name": "SLIDES (HISTOPATHOLOGY)FOR CONSULT . FROM OUTSIDE UPTO 5 - 10 SLIDES",
+    "category": "RD3",
+    "mrp": 2000,
+    "specialPrice": 1800
+  },
+  {
+    "name": "SLIDES (HISTOPATHOLOGY)FOR CONSULT . FROM OUTSIDE UPTO 5 SLIDES",
+    "category": "RD3",
+    "mrp": 1500,
+    "specialPrice": 1350
+  },
+  {
+    "name": "SLIDES (HISTOPATHOLOGY)FOR CONSULT . FROM OUTSIDE UPTO MORE THAN 10 SLIDES",
+    "category": "RD3",
+    "mrp": 2500,
+    "specialPrice": 2250
+  },
+  {
+    "name": "BAL FOR CELL COUNT",
+    "category": "RD3",
+    "mrp": 600,
+    "specialPrice": 540
+  },
+  {
+    "name": "BAL FOR HEMOSIDERIN AND LIPID",
+    "category": "RD3",
+    "mrp": 1200,
+    "specialPrice": 1080
+  },
+  {
+    "name": "BAL FOR HEMOSIDERIN LADEN MACROPHAG",
+    "category": "RD3",
+    "mrp": 825,
+    "specialPrice": 742
+  },
+  {
+    "name": "BAL FOR LIPID LADEN MACROPHAGES",
+    "category": "RD3",
+    "mrp": 825,
+    "specialPrice": 742
+  },
+  {
+    "name": "BODY FLUIDS FOR MALIGNANT",
+    "category": "RD3",
+    "mrp": 1200,
+    "specialPrice": 1080
+  },
+  {
+    "name": "BODY FLUID WITH CELLBLOCK FOR MALIGNANT CELLS",
+    "category": "RD3",
+    "mrp": 1500,
+    "specialPrice": 1350
+  },
+  {
+    "name": "BONE MARROW COMMENT(PATH.INV)",
+    "category": "RD3",
+    "mrp": 675,
+    "specialPrice": 608
+  },
+  {
+    "name": "BRUSH",
+    "category": "RD3",
+    "mrp": 1500,
+    "specialPrice": 1350
+  },
+  {
+    "name": "F.N.A.C. : ASPIRATION/REPORTING(PATH.INV.)",
+    "category": "RD3",
+    "mrp": 2000,
+    "specialPrice": 1800
+  },
+  {
+    "name": "HEMOSIDERIN LADEN MACROPHAGE",
+    "category": "RD3",
+    "mrp": 800,
+    "specialPrice": 720
+  },
+  {
+    "name": "IMPRNT",
+    "category": "RD3",
+    "mrp": 850,
+    "specialPrice": 765
+  },
+  {
+    "name": "LIQUID BASED",
+    "category": "RD3",
+    "mrp": 1000,
+    "specialPrice": 900
+  },
+  {
+    "name": "MALIGNANT CELL",
+    "category": "RD3",
+    "mrp": 1000,
+    "specialPrice": 900
+  },
+  {
+    "name": "NASAL SWAB SMEAR EOS / NEU / RAT",
+    "category": "RD3",
+    "mrp": 500,
+    "specialPrice": 450
+  },
+  {
+    "name": "NASAL SWAB SMEAR EXAM /PUS/CELL",
+    "category": "RD3",
+    "mrp": 500,
+    "specialPrice": 450
+  },
+  {
+    "name": "NIPPLE DISCHARGE TOUCH SMEAR",
+    "category": "RD3",
+    "mrp": 800,
+    "specialPrice": 720
+  },
+  {
+    "name": "PAP SMEAR(FEMALE)",
+    "category": "RD3",
+    "mrp": 1200,
+    "specialPrice": 1080
+  },
+  {
+    "name": "PUS FOR MALIGNANT CELL",
+    "category": "RD3",
+    "mrp": 1200,
+    "specialPrice": 1080
+  },
+  {
+    "name": "SCARP",
+    "category": "RD3",
+    "mrp": 1000,
+    "specialPrice": 900
+  },
+  {
+    "name": "SCRAP",
+    "category": "RD3",
+    "mrp": 1000,
+    "specialPrice": 900
+  },
+  {
+    "name": "SPUTUM FOR EOSINOPHILS",
+    "category": "RD3",
+    "mrp": 500,
+    "specialPrice": 450
+  },
+  {
+    "name": "SQUASH PREPARATION",
+    "category": "RD3",
+    "mrp": 1000,
+    "specialPrice": 900
+  },
+  {
+    "name": "TESTICULAR FNAC FOR MAPING",
+    "category": "RD3",
+    "mrp": 3500,
+    "specialPrice": 3150
+  },
+  {
+    "name": "TZANK SMEAR FOR GIEMSA STAIN",
+    "category": "RD3",
+    "mrp": 550,
+    "specialPrice": 495
+  },
+  {
+    "name": "BIOFIRE GI PANEL (GI)",
+    "category": "RD4",
+    "mrp": 13000,
+    "specialPrice": 12350
+  },
+  {
+    "name": "BIOFIRE-MENINGITIS/ENCEPHALITIS PANEL(ME)",
+    "category": "RD4",
+    "mrp": 13000,
+    "specialPrice": 12350
+  },
+  {
+    "name": "BIOFIRE-PNEUMONIA PANEL (LRTI)",
+    "category": "RD4",
+    "mrp": 13000,
+    "specialPrice": 12350
+  },
+  {
+    "name": "BIOFIRE-SEPSIS PANEL (BCID)",
+    "category": "RD4",
+    "mrp": 13000,
+    "specialPrice": 12350
+  },
+  {
+    "name": "BIOFIRE-UPPER RESPIRATORY PANEL (URTI)",
+    "category": "RD4",
+    "mrp": 13000,
+    "specialPrice": 12350
+  },
+  {
+    "name": "CLOSTRIDIUM DIFFICILE (C.DIFFICILE)",
+    "category": "RD4",
+    "mrp": 4600,
+    "specialPrice": 4370
+  },
+  {
+    "name": "COVID 19 TEST-PCR",
+    "category": "RD4",
+    "mrp": 1600,
+    "specialPrice": 1520
+  },
+  {
+    "name": "GENEXPERT ULTRA MTB WITH RIFAMPICIN RESISTANCE SEMI QUANTITATIVE",
+    "category": "RD3",
+    "mrp": 3200,
+    "specialPrice": 2880
+  },
+  {
+    "name": "H1N1/RSV",
+    "category": "RD3",
+    "mrp": 7000,
+    "specialPrice": 6300
+  },
+  {
+    "name": "HEPATITIS B VIRAL LOAD (HBV-DNA) QUANTITATIVE",
+    "category": "RD4",
+    "mrp": 4600,
+    "specialPrice": 4370
+  },
+  {
+    "name": "HEPATITIS C VIRAL LOAD (HCV-RNA) QUANTITATIVE",
+    "category": "RD4",
+    "mrp": 4600,
+    "specialPrice": 4370
+  },
+  {
+    "name": "HIV VIRAL LOAD (HIV-RNA) QUANTITATIVE",
+    "category": "RD4",
+    "mrp": 4600,
+    "specialPrice": 4370
+  },
+  {
+    "name": "HLA-B27 (Quick Report)",
+    "category": "RD4",
+    "mrp": 3500,
+    "specialPrice": 3325
+  },
+  {
+    "name": "HPV (TRUNAT)",
+    "category": "RD4",
+    "mrp": 2200,
+    "specialPrice": 2090
+  },
+  {
+    "name": "HR HPV",
+    "category": "RD4",
+    "mrp": 4600,
+    "specialPrice": 4370
+  },
+  {
+    "name": "DUAL MARKER TEST",
+    "category": "RD2",
+    "mrp": 2200,
+    "specialPrice": 1870
+  },
+  {
+    "name": "TRIPLE MARKER TEST",
+    "category": "RD2",
+    "mrp": 2700,
+    "specialPrice": 2295
+  },
+  {
+    "name": "QUADRUPLE MARKER TEST",
+    "category": "RD2",
+    "mrp": 3400,
+    "specialPrice": 2890
+  },
+  {
+    "name": "TOXOPLASMA IGG",
+    "category": "RD2",
+    "mrp": 500,
+    "specialPrice": 425
+  },
+  {
+    "name": "TOXOPLASMA IGM",
+    "category": "RD2",
+    "mrp": 500,
+    "specialPrice": 425
+  },
+  {
+    "name": "RUBELLA IGG",
+    "category": "RD2",
+    "mrp": 650,
+    "specialPrice": 552
+  },
+  {
+    "name": "RUBELLA IGM",
+    "category": "RD2",
+    "mrp": 650,
+    "specialPrice": 552
+  },
+  {
+    "name": "CYTOMEGALOVIRUS IGG",
+    "category": "RD2",
+    "mrp": 450,
+    "specialPrice": 382
+  },
+  {
+    "name": "CYTOMEGALOVIRUS IGM",
+    "category": "RD2",
+    "mrp": 450,
+    "specialPrice": 382
+  },
+  {
+    "name": "HERPES SIMPLEX IGG ( Type 1 Antibodies ) virus",
+    "category": "RD2",
+    "mrp": 650,
+    "specialPrice": 552
+  },
+  {
+    "name": "HERPES SIMPLEX IGG ( Type 2 Antibodies ) virus",
+    "category": "RD2",
+    "mrp": 650,
+    "specialPrice": 552
+  },
+  {
+    "name": "HERPES SIMPLEX IGM ( Type 1 Antibodies ) virus",
+    "category": "RD2",
+    "mrp": 650,
+    "specialPrice": 552
+  },
+  {
+    "name": "HERPES SIMPLEX IGM ( Type 2 Antibodies ) virus",
+    "category": "RD2",
+    "mrp": 650,
+    "specialPrice": 552
+  },
+  {
+    "name": "APLA - IGG ( ANTI PHOSPHOLIPID ANTIBODY - IGG)",
+    "category": "RD2",
+    "mrp": 750,
+    "specialPrice": 638
+  },
+  {
+    "name": "APLA -IGM ( ANTI PHOSPHOLIPID ANTIBODY - IGM)",
+    "category": "RD2",
+    "mrp": 750,
+    "specialPrice": 638
+  },
+  {
+    "name": "CARDIOLIPIN ANTIBODY IGG",
+    "category": "RD2",
+    "mrp": 800,
+    "specialPrice": 680
+  },
+  {
+    "name": "CARDIOLIPIN ANTIBODY IGM",
+    "category": "RD2",
+    "mrp": 800,
+    "specialPrice": 680
+  },
+  {
+    "name": "BETA 2 GLYCOPROTEIN IGG",
+    "category": "RD2",
+    "mrp": 1000,
+    "specialPrice": 850
+  },
+  {
+    "name": "BETA 2 GLYCOPROTEIN IGM",
+    "category": "RD2",
+    "mrp": 1000,
+    "specialPrice": 850
+  },
+  {
+    "name": "NIPT- NON INVASIVE PRE NATEL TEST",
+    "category": "RD2",
+    "mrp": 16000,
+    "specialPrice": 13600
+  },
+  {
+    "name": "COUPLE KARYOTYPING 4:00 PM 15DAYS 4000",
+    "category": "RD2",
+    "mrp": 4000,
+    "specialPrice": 3400
+  },
+  {
+    "name": "AFB CULTURE ( Automated ) Any Sample (Specified by Doctor R Automated 4:00 PM 6 Week 1200",
+    "category": "RD2",
+    "mrp": 1200,
+    "specialPrice": 1020
+  },
+  {
+    "name": "LUPUS ANTI COAGULANT Na Citrate - Plasma 3ML F Optical Clot Based 4:00 PM 2-3 days 1000",
+    "category": "RD2",
+    "mrp": 1000,
+    "specialPrice": 850
+  },
+  {
+    "name": "ANTI TPO",
+    "category": "RD2",
+    "mrp": 600,
+    "specialPrice": 510
+  },
+  {
+    "name": "ASPERGILLUS IGG",
+    "category": "RD2",
+    "mrp": 1200,
+    "specialPrice": 1020
+  },
+  {
+    "name": "ASPERGILLUS IGM",
+    "category": "RD2",
+    "mrp": 1200,
+    "specialPrice": 1020
+  },
+  {
+    "name": "ASPERGILLUS FUMIGATUS SPECIFIC IGE",
+    "category": "RD2",
+    "mrp": 1200,
+    "specialPrice": 1020
+  },
+  {
+    "name": "CALCITONIN",
+    "category": "RD2",
+    "mrp": 1300,
+    "specialPrice": 1105
+  },
+  {
+    "name": "QuantiFeron TB Gold Blood Test ( QFT-G)",
+    "category": "RD2",
+    "mrp": 3000,
+    "specialPrice": 2550
+  },
+  {
+    "name": "PSA FREE",
+    "category": "RD2",
+    "mrp": 500,
+    "specialPrice": 425
+  },
+  {
+    "name": "PTH - ( PARATHYROID HORMONE )",
+    "category": "RD2",
+    "mrp": 600,
+    "specialPrice": 510
+  },
+  {
+    "name": "DHEAS ( Chemiluminescenc )",
+    "category": "RD2",
+    "mrp": 350,
+    "specialPrice": 298
+  },
+  {
+    "name": "TORCH 4 PARA ( IGG )",
+    "category": "RD2",
+    "mrp": 1200,
+    "specialPrice": 1020
+  },
+  {
+    "name": "TORCH 4 PARA ( IGM )",
+    "category": "RD2",
+    "mrp": 1200,
+    "specialPrice": 1020
+  },
+  {
+    "name": "TORCH 8 PARA ( IGG & IGM )",
+    "category": "RD2",
+    "mrp": 2500,
+    "specialPrice": 2125
+  },
+  {
+    "name": "TORCH 10 PARA ( IGG & IGM )",
+    "category": "RD2",
+    "mrp": 2700,
+    "specialPrice": 2295
+  },
+  {
+    "name": "DHEA",
+    "category": "RD2",
+    "mrp": 1500,
+    "specialPrice": 1275
+  },
+  {
+    "name": "Allergy Drugs",
+    "category": "RD2",
+    "mrp": 3000,
+    "specialPrice": 2550
+  },
+  {
+    "name": "Allergy Profile - Food (Non- Vegetarian Only)",
+    "category": "RD2",
+    "mrp": 2500,
+    "specialPrice": 2125
+  },
+  {
+    "name": "Allergy Profile - Food (Veg + Non- Veg",
+    "category": "RD2",
+    "mrp": 3500,
+    "specialPrice": 2975
+  },
+  {
+    "name": "Allergy Profile - Food (Vegetarian Only",
+    "category": "RD2",
+    "mrp": 2500,
+    "specialPrice": 2125
+  },
+  {
+    "name": "Allergy Profile - Inhalants",
+    "category": "RD2",
+    "mrp": 3000,
+    "specialPrice": 2550
+  },
+  {
+    "name": "Allergy Profile (Veg. Food + Inhalant)",
+    "category": "RD2",
+    "mrp": 5000,
+    "specialPrice": 4250
+  },
+  {
+    "name": "Allergy Profile(With drugs)",
+    "category": "RD2",
+    "mrp": 7500,
+    "specialPrice": 6375
+  },
+  {
+    "name": "Allergy Veg.+Non Veg.+Inhalant",
+    "category": "RD2",
+    "mrp": 5000,
+    "specialPrice": 4250
+  },
+  {
+    "name": "Anti Ovarian Antibodies",
+    "category": "RD2",
+    "mrp": 1500,
+    "specialPrice": 1275
+  },
+  {
+    "name": "Zinc",
+    "category": "RD2",
+    "mrp": 500,
+    "specialPrice": 425
+  },
+  {
+    "name": "Zinc ( 24 hours Urine (5mL) & Volum )",
+    "category": "RD2",
+    "mrp": 1300,
+    "specialPrice": 1105
+  },
+  {
+    "name": "Dengue RNA - Qualitative PCR",
+    "category": "RD2",
+    "mrp": 3000,
+    "specialPrice": 2550
+  },
+  {
+    "name": "Filaria DNA - Qualitative PCR",
+    "category": "RD2",
+    "mrp": 5000,
+    "specialPrice": 4250
+  },
+  {
+    "name": "MTB/MDR Detection ( HAINS Line Probe Assay ) Sputum/Bal Fluid R HAINS Line Probe Assay 4:00 PM 5 Days 6000",
+    "category": "RD2",
+    "mrp": 6000,
+    "specialPrice": 5100
+  },
+  {
+    "name": "MTB/XDR Detection ( HAINS Line Probe Assay ) Random Body Fluid R HAINS Line Probe Assay 4:00 PM 5 Days 6000",
+    "category": "RD2",
+    "mrp": 6000,
+    "specialPrice": 5100
+  },
+  {
+    "name": "CA - 72.4",
+    "category": "RD2",
+    "mrp": 1500,
+    "specialPrice": 1275
+  },
+  {
+    "name": "Ceruloplasmin",
+    "category": "RD2",
+    "mrp": 700,
+    "specialPrice": 595
+  },
+  {
+    "name": "CYFRA 21-1 Lung Cancer Marker",
+    "category": "RD2",
+    "mrp": 3000,
+    "specialPrice": 2550
+  },
+  {
+    "name": "PAPP-A",
+    "category": "RD2",
+    "mrp": 1200,
+    "specialPrice": 1020
+  },
+  {
+    "name": "Protein Electrophoresis(24 hours Urine (5 ml) & Volume )",
+    "category": "RD2",
+    "mrp": 1600,
+    "specialPrice": 1360
+  },
+  {
+    "name": "Protein Electrophoresis(Serum )",
+    "category": "RD2",
+    "mrp": 1500,
+    "specialPrice": 1275
+  },
+  {
+    "name": "Stone Analysis (Advanced - Quantitative) Stone A Chemical 4:00 PM 3days 2500",
+    "category": "RD2",
+    "mrp": 2500,
+    "specialPrice": 2125
+  },
+  {
+    "name": "VMA (24 Hrs Urine)24 hours Urine (5mL) & Volume",
+    "category": "RD2",
+    "mrp": 1250,
+    "specialPrice": 1062
+  },
+  {
+    "name": "VMA (Vanillyl Mandelic Acid) - SPOT",
+    "category": "RD2",
+    "mrp": 300,
+    "specialPrice": 255
+  },
+  {
+    "name": "Widal Test (Slide Test)",
+    "category": "RD2",
+    "mrp": 200,
+    "specialPrice": 170
+  },
+  {
+    "name": "Inhibin A",
+    "category": "RD2",
+    "mrp": 2000,
+    "specialPrice": 1700
+  },
+  {
+    "name": "Inhibin B",
+    "category": "RD2",
+    "mrp": 2000,
+    "specialPrice": 1700
+  },
+  {
+    "name": "ADENOSINE DEAMINASE ; ADA",
+    "category": "RD2",
+    "mrp": 300,
+    "specialPrice": 255
+  },
+  {
+    "name": "AFP (ALPHA FETOPROTEIN), TUMOR MARKER",
+    "category": "RD2",
+    "mrp": 350,
+    "specialPrice": 298
+  },
+  {
+    "name": "ANTI NUCLEAR ANTIBODY / FACTOR (ANA/ANF), EIA",
+    "category": "RD2",
+    "mrp": 350,
+    "specialPrice": 298
+  },
+  {
+    "name": "ANTITHYROID PEROXIDASE ANTIBODY;ANTI TPO",
+    "category": "RD2",
+    "mrp": 600,
+    "specialPrice": 510
+  },
+  {
+    "name": "CYTOMEGALOVIRUS (CMV) ANTIBODIES PANEL, IGG & IGM",
+    "category": "RD2",
+    "mrp": 500,
+    "specialPrice": 425
+  },
+  {
+    "name": "HLA - B27, FLOW CYTOMETRY",
+    "category": "RD2",
+    "mrp": 1777,
+    "specialPrice": 1510
+  },
+  {
+    "name": "HOMOCYSTEINE, QUANTITATIVE, SERUM",
+    "category": "RD2",
+    "mrp": 650,
+    "specialPrice": 552
+  },
+  {
+    "name": "INSULIN, FASTING",
+    "category": "RD2",
+    "mrp": 350,
+    "specialPrice": 298
+  },
+  {
+    "name": "INSULIN, PP",
+    "category": "RD2",
+    "mrp": 350,
+    "specialPrice": 298
+  },
+  {
+    "name": "MYCOBACTERIUM TUBERCULOSIS, PCR; MYCOSURE; TB PCR",
+    "category": "RD2",
+    "mrp": 2000,
+    "specialPrice": 1700
+  },
+  {
+    "name": "RUBELLA (GERMAN MEASLES) ANTIBODIES PANEL, IGG & IGM",
+    "category": "RD2",
+    "mrp": 3000,
+    "specialPrice": 2550
+  },
+  {
+    "name": "TOXOPLASMA ANTIBODIES PANEL, IGG & IGM",
+    "category": "RD2",
+    "mrp": 600,
+    "specialPrice": 510
+  },
+  {
+    "name": "TROPONIN - I",
+    "category": "RD2",
+    "mrp": 1250,
+    "specialPrice": 1062
+  },
+  {
+    "name": "TROPONIN - T, HIGH SENSITIVE",
+    "category": "RD2",
+    "mrp": 1250,
+    "specialPrice": 1062
+  },
+  {
+    "name": "1,25 Di Hydroxy Vitamin D",
+    "category": "RD3",
+    "mrp": 2900,
+    "specialPrice": 2610
+  },
+  {
+    "name": "17-Hydroxy Progesterone (17-OHP)",
+    "category": "RD3",
+    "mrp": 1600,
+    "specialPrice": 1440
+  },
+  {
+    "name": "17-Hydroxy Progesterone (17-OHP)",
+    "category": "RD3",
+    "mrp": 1800,
+    "specialPrice": 1620
+  },
+  {
+    "name": "17-Ketosteroids",
+    "category": "RD3",
+    "mrp": 2200,
+    "specialPrice": 1980
+  },
+  {
+    "name": "5-Dihydrotestosterone",
+    "category": "RD3",
+    "mrp": 2900,
+    "specialPrice": 2610
+  },
+  {
+    "name": "5-Hydroxyindoleacetic acid (5-HIAA)",
+    "category": "RD3",
+    "mrp": 2400,
+    "specialPrice": 2160
+  },
+  {
+    "name": "Acetyl Chloine Receptor Antibody(AchR)",
+    "category": "RD3",
+    "mrp": 2400,
+    "specialPrice": 2160
+  },
+  {
+    "name": "Adreno Corticotrophic Hormone (ACTH)",
+    "category": "RD3",
+    "mrp": 1500,
+    "specialPrice": 1350
+  },
+  {
+    "name": "Alcohol",
+    "category": "RD3",
+    "mrp": 1500,
+    "specialPrice": 1350
+  },
+  {
+    "name": "Alcohol",
+    "category": "RD3",
+    "mrp": 1400,
+    "specialPrice": 1260
+  },
+  {
+    "name": "Aldolase",
+    "category": "RD3",
+    "mrp": 1000,
+    "specialPrice": 900
+  },
+  {
+    "name": "Aldosterone",
+    "category": "RD3",
+    "mrp": 1900,
+    "specialPrice": 1710
+  },
+  {
+    "name": "Alpha-1 Antitrypsin (AAT)",
+    "category": "RD3",
+    "mrp": 1900,
+    "specialPrice": 1710
+  },
+  {
+    "name": "Aluminium",
+    "category": "RD3",
+    "mrp": 1900,
+    "specialPrice": 1710
+  },
+  {
+    "name": "Aminolevulinic Acid (ALA)",
+    "category": "RD3",
+    "mrp": 2100,
+    "specialPrice": 1890
+  },
+  {
+    "name": "Ammonia",
+    "category": "RD3",
+    "mrp": 1200,
+    "specialPrice": 1080
+  },
+  {
+    "name": "Amphetamine",
+    "category": "RD3",
+    "mrp": 1000,
+    "specialPrice": 900
+  },
+  {
+    "name": "ANCA - Myeloperoxidase (p-ANCA)",
+    "category": "RD3",
+    "mrp": 1000,
+    "specialPrice": 900
+  },
+  {
+    "name": "ANCA - Serine Proteinase 3 (c-ANCA)",
+    "category": "RD3",
+    "mrp": 1000,
+    "specialPrice": 900
+  },
+  {
+    "name": "Androstenedione (A4)",
+    "category": "RD3",
+    "mrp": 1200,
+    "specialPrice": 1080
+  },
+  {
+    "name": "Angiotensin Converting Enzyme",
+    "category": "RD3",
+    "mrp": 1200,
+    "specialPrice": 1080
+  },
+  {
+    "name": "Angiotensin Converting Enzyme (ACE)",
+    "category": "RD3",
+    "mrp": 1200,
+    "specialPrice": 1080
+  },
+  {
+    "name": "Anti Diuretic Hormone (ADH)",
+    "category": "RD3",
+    "mrp": 2000,
+    "specialPrice": 1800
+  },
+  {
+    "name": "Anti ds- DNA Antibody Titre",
+    "category": "RD3",
+    "mrp": 2000,
+    "specialPrice": 1800
+  },
+  {
+    "name": "Anti ds-DNA Antibody",
+    "category": "RD3",
+    "mrp": 800,
+    "specialPrice": 720
+  },
+  {
+    "name": "Anti ds-DNA Antibody",
+    "category": "RD3",
+    "mrp": 1600,
+    "specialPrice": 1440
+  },
+  {
+    "name": "Anti Jo-I antibody",
+    "category": "RD3",
+    "mrp": 1700,
+    "specialPrice": 1530
+  },
+  {
+    "name": "Anti Mitochondrial Antibody",
+    "category": "RD3",
+    "mrp": 1300,
+    "specialPrice": 1170
+  },
+  {
+    "name": "Anti Mitochondrial Antibody",
+    "category": "RD3",
+    "mrp": 1700,
+    "specialPrice": 1530
+  },
+  {
+    "name": "Anti Neutrophilic Cytoplasmic Antibody (ANCA)",
+    "category": "RD3",
+    "mrp": 1200,
+    "specialPrice": 1080
+  },
+  {
+    "name": "Anti Neutrophilic Cytoplasmic Antibody (ANCA) Titers",
+    "category": "RD3",
+    "mrp": 2400,
+    "specialPrice": 2160
+  },
+  {
+    "name": "Anti Nuclear Antibody -Titres",
+    "category": "RD3",
+    "mrp": 1400,
+    "specialPrice": 1260
+  },
+  {
+    "name": "Anti Sm - Antibody",
+    "category": "RD3",
+    "mrp": 1900,
+    "specialPrice": 1710
+  },
+  {
+    "name": "Anti Smooth Muscle Antibody (ASMA)(F-Actin Antobody)",
+    "category": "RD3",
+    "mrp": 1650,
+    "specialPrice": 1485
+  },
+  {
+    "name": "Anti Sperm Antibody (ASAB)",
+    "category": "RD3",
+    "mrp": 1000,
+    "specialPrice": 900
+  },
+  {
+    "name": "Anti SS-A Antibody",
+    "category": "RD3",
+    "mrp": 1700,
+    "specialPrice": 1530
+  },
+  {
+    "name": "Anti SS-B Antibody",
+    "category": "RD3",
+    "mrp": 1700,
+    "specialPrice": 1530
+  },
+  {
+    "name": "Anti Thrombin III (Activity)",
+    "category": "RD3",
+    "mrp": 2900,
+    "specialPrice": 2610
+  },
+  {
+    "name": "Anti Thrombin III (Antigenic)",
+    "category": "RD3",
+    "mrp": 2900,
+    "specialPrice": 2610
+  },
+  {
+    "name": "Anti Thyroglobulin Antibody (ATG)",
+    "category": "RD3",
+    "mrp": 800,
+    "specialPrice": 720
+  },
+  {
+    "name": "Anti -MuSK antibodies",
+    "category": "RD3",
+    "mrp": 2900,
+    "specialPrice": 2610
+  },
+  {
+    "name": "Anti DNAse B",
+    "category": "RD3",
+    "mrp": 2400,
+    "specialPrice": 2160
+  },
+  {
+    "name": "Apolipoprotein A1 (APO-A1)",
+    "category": "RD3",
+    "mrp": 750,
+    "specialPrice": 675
+  },
+  {
+    "name": "Apolipoprotein B (APO-B)",
+    "category": "RD3",
+    "mrp": 750,
+    "specialPrice": 675
+  },
+  {
+    "name": "Aquaporin-4 Receptor Antibody",
+    "category": "RD3",
+    "mrp": 2900,
+    "specialPrice": 2610
+  },
+  {
+    "name": "Arsenic",
+    "category": "RD3",
+    "mrp": 1900,
+    "specialPrice": 1710
+  },
+  {
+    "name": "Arsenic",
+    "category": "RD3",
+    "mrp": 1900,
+    "specialPrice": 1710
+  },
+  {
+    "name": "Auramine Rhodamine Stain",
+    "category": "RD3",
+    "mrp": 700,
+    "specialPrice": 630
+  },
+  {
+    "name": "Barbiturates",
+    "category": "RD3",
+    "mrp": 1200,
+    "specialPrice": 1080
+  },
+  {
+    "name": "Bence Jones protein (BJ protein)",
+    "category": "RD3",
+    "mrp": 650,
+    "specialPrice": 585
+  },
+  {
+    "name": "Benzodiazepines",
+    "category": "RD3",
+    "mrp": 1400,
+    "specialPrice": 1260
+  },
+  {
+    "name": "Beta 2 Microglobulin",
+    "category": "RD3",
+    "mrp": 1300,
+    "specialPrice": 1170
+  },
+  {
+    "name": "Beta -2 Microglobulin",
+    "category": "RD3",
+    "mrp": 1300,
+    "specialPrice": 1170
+  },
+  {
+    "name": "Beta hCG (Tumor Marker)",
+    "category": "RD3",
+    "mrp": 1000,
+    "specialPrice": 900
+  },
+  {
+    "name": "Beta Human Chorionic Gonodotropin Hormone (Free Beta HCG)",
+    "category": "RD3",
+    "mrp": 1600,
+    "specialPrice": 1440
+  },
+  {
+    "name": "Beta Human Chorionic Gonodotropin Hormone Titre (Beta HCG)",
+    "category": "RD3",
+    "mrp": 1000,
+    "specialPrice": 900
+  },
+  {
+    "name": "Bicarbonate (Calculated from CO2)",
+    "category": "RD3",
+    "mrp": 600,
+    "specialPrice": 540
+  },
+  {
+    "name": "Brucella Antibody (B.Abortus & B.Melitensis)",
+    "category": "RD3",
+    "mrp": 850,
+    "specialPrice": 765
+  },
+  {
+    "name": "Brucella IgG",
+    "category": "RD3",
+    "mrp": 1100,
+    "specialPrice": 990
+  },
+  {
+    "name": "Brucella IgM",
+    "category": "RD3",
+    "mrp": 1100,
+    "specialPrice": 990
+  },
+  {
+    "name": "B-Type Natriuric Peptide (BNP)",
+    "category": "RD3",
+    "mrp": 2900,
+    "specialPrice": 2610
+  },
+  {
+    "name": "C1 Esterase Inhibitor",
+    "category": "RD3",
+    "mrp": 2900,
+    "specialPrice": 2610
+  },
+  {
+    "name": "Cadmium",
+    "category": "RD3",
+    "mrp": 1600,
+    "specialPrice": 1440
+  },
+  {
+    "name": "Calprotectin",
+    "category": "RD4",
+    "mrp": 3400,
+    "specialPrice": 3230
+  },
+  {
+    "name": "Carbamazepine (Tegretol)",
+    "category": "RD3",
+    "mrp": 800,
+    "specialPrice": 720
+  },
+  {
+    "name": "Cardiolipin IgA Antibody",
+    "category": "RD3",
+    "mrp": 800,
+    "specialPrice": 720
+  },
+  {
+    "name": "Catecholamines",
+    "category": "RD3",
+    "mrp": 1900,
+    "specialPrice": 1710
+  },
+  {
+    "name": "CD10",
+    "category": "RD3",
+    "mrp": 3900,
+    "specialPrice": 3510
+  },
+  {
+    "name": "CD103",
+    "category": "RD3",
+    "mrp": 3900,
+    "specialPrice": 3510
+  },
+  {
+    "name": "CD-34",
+    "category": "RD3",
+    "mrp": 3900,
+    "specialPrice": 3510
+  },
+  {
+    "name": "CD13",
+    "category": "RD3",
+    "mrp": 3900,
+    "specialPrice": 3510
+  },
+  {
+    "name": "CD14",
+    "category": "RD3",
+    "mrp": 3900,
+    "specialPrice": 3510
+  },
+  {
+    "name": "CD15",
+    "category": "RD3",
+    "mrp": 3900,
+    "specialPrice": 3510
+  },
+  {
+    "name": "CD-23",
+    "category": "RD3",
+    "mrp": 3900,
+    "specialPrice": 3510
+  },
+  {
+    "name": "CD-25",
+    "category": "RD3",
+    "mrp": 3900,
+    "specialPrice": 3510
+  },
+  {
+    "name": "CD2",
+    "category": "RD3",
+    "mrp": 3900,
+    "specialPrice": 3510
+  },
+  {
+    "name": "CD-33",
+    "category": "RD3",
+    "mrp": 3900,
+    "specialPrice": 3510
+  },
+  {
+    "name": "CD-34 System Cells",
+    "category": "RD3",
+    "mrp": 3900,
+    "specialPrice": 3510
+  },
+  {
+    "name": "CD-38",
+    "category": "RD3",
+    "mrp": 3900,
+    "specialPrice": 3510
+  },
+  {
+    "name": "CD-41A",
+    "category": "RD3",
+    "mrp": 3900,
+    "specialPrice": 3510
+  },
+  {
+    "name": "CD3/CD4/CD8",
+    "category": "RD3",
+    "mrp": 1400,
+    "specialPrice": 1260
+  },
+  {
+    "name": "CD-45",
+    "category": "RD3",
+    "mrp": 3900,
+    "specialPrice": 3510
+  },
+  {
+    "name": "CD-64",
+    "category": "RD3",
+    "mrp": 3900,
+    "specialPrice": 3510
+  },
+  {
+    "name": "CD-79A",
+    "category": "RD3",
+    "mrp": 5400,
+    "specialPrice": 4860
+  },
+  {
+    "name": "CD-34 System Cells",
+    "category": "RD3",
+    "mrp": 3900,
+    "specialPrice": 3510
+  },
+  {
+    "name": "CD4",
+    "category": "RD3",
+    "mrp": 1400,
+    "specialPrice": 1260
+  },
+  {
+    "name": "CD-33",
+    "category": "RD3",
+    "mrp": 3900,
+    "specialPrice": 3510
+  },
+  {
+    "name": "CD-22",
+    "category": "RD3",
+    "mrp": 3900,
+    "specialPrice": 3510
+  },
+  {
+    "name": "CD5",
+    "category": "RD3",
+    "mrp": 3900,
+    "specialPrice": 3510
+  },
+  {
+    "name": "CD-19",
+    "category": "RD3",
+    "mrp": 3900,
+    "specialPrice": 3510
+  },
+  {
+    "name": "CD7",
+    "category": "RD3",
+    "mrp": 3900,
+    "specialPrice": 3510
+  },
+  {
+    "name": "Centromere IGG Antibody",
+    "category": "RD3",
+    "mrp": 1600,
+    "specialPrice": 1440
+  },
+  {
+    "name": "Chikungunya IgG",
+    "category": "RD3",
+    "mrp": 600,
+    "specialPrice": 540
+  },
+  {
+    "name": "Chikungunya IgM",
+    "category": "RD3",
+    "mrp": 600,
+    "specialPrice": 540
+  },
+  {
+    "name": "Chikungunya Rapid",
+    "category": "RD3",
+    "mrp": 600,
+    "specialPrice": 540
+  },
+  {
+    "name": "Chlamydia Trachomatis IgG",
+    "category": "RD3",
+    "mrp": 1650,
+    "specialPrice": 1485
+  },
+  {
+    "name": "Chlamydia Trachomatis IgM",
+    "category": "RD3",
+    "mrp": 1650,
+    "specialPrice": 1485
+  },
+  {
+    "name": "Cholinesterase",
+    "category": "RD3",
+    "mrp": 900,
+    "specialPrice": 810
+  },
+  {
+    "name": "Chromium",
+    "category": "RD3",
+    "mrp": 1700,
+    "specialPrice": 1530
+  },
+  {
+    "name": "Chromium",
+    "category": "RD3",
+    "mrp": 1700,
+    "specialPrice": 1530
+  },
+  {
+    "name": "Chromium",
+    "category": "RD3",
+    "mrp": 1700,
+    "specialPrice": 1530
+  },
+  {
+    "name": "Chromium",
+    "category": "RD3",
+    "mrp": 2400,
+    "specialPrice": 2160
+  },
+  {
+    "name": "Chromogranin A",
+    "category": "RD3",
+    "mrp": 3900,
+    "specialPrice": 3510
+  },
+  {
+    "name": "Circulating Immunocomplex (CIC)",
+    "category": "RD3",
+    "mrp": 1900,
+    "specialPrice": 1710
+  },
+  {
+    "name": "Citric Acid",
+    "category": "RD3",
+    "mrp": 900,
+    "specialPrice": 810
+  },
+  {
+    "name": "Citric Acid",
+    "category": "RD3",
+    "mrp": 1400,
+    "specialPrice": 1260
+  },
+  {
+    "name": "Clostridium Difficile Antigen",
+    "category": "RD3",
+    "mrp": 5400,
+    "specialPrice": 4860
+  },
+  {
+    "name": "Cobalt",
+    "category": "RD3",
+    "mrp": 3400,
+    "specialPrice": 3060
+  },
+  {
+    "name": "Cocaine",
+    "category": "RD3",
+    "mrp": 1000,
+    "specialPrice": 900
+  },
+  {
+    "name": "Copper",
+    "category": "RD3",
+    "mrp": 900,
+    "specialPrice": 810
+  },
+  {
+    "name": "C-Peptide",
+    "category": "RD3",
+    "mrp": 1100,
+    "specialPrice": 990
+  },
+  {
+    "name": "Cryofibrinogen",
+    "category": "RD3",
+    "mrp": 1600,
+    "specialPrice": 1440
+  },
+  {
+    "name": "Cryoglobulins",
+    "category": "RD3",
+    "mrp": 1600,
+    "specialPrice": 1440
+  },
+  {
+    "name": "Cryptococcus Antigen",
+    "category": "RD3",
+    "mrp": 1800,
+    "specialPrice": 1620
+  },
+  {
+    "name": "Cyclosporine",
+    "category": "RD3",
+    "mrp": 3400,
+    "specialPrice": 3060
+  },
+  {
+    "name": "Cystatin C",
+    "category": "RD3",
+    "mrp": 1900,
+    "specialPrice": 1710
+  },
+  {
+    "name": "Cysticercosis (IgG) Antibody",
+    "category": "RD3",
+    "mrp": 1150,
+    "specialPrice": 1035
+  },
+  {
+    "name": "Desmoglein I Antibody",
+    "category": "RD3",
+    "mrp": 5400,
+    "specialPrice": 4860
+  },
+  {
+    "name": "Desmoglein III Antibody",
+    "category": "RD3",
+    "mrp": 5400,
+    "specialPrice": 4860
+  },
+  {
+    "name": "Digoxin",
+    "category": "RD3",
+    "mrp": 1000,
+    "specialPrice": 900
+  },
+  {
+    "name": "Dopamine",
+    "category": "RD3",
+    "mrp": 1900,
+    "specialPrice": 1710
+  },
+  {
+    "name": "Echinococcus Antibody, IgG (Hydatid serology)",
+    "category": "RD3",
+    "mrp": 1300,
+    "specialPrice": 1170
+  },
+  {
+    "name": "ENA Profile / ANA Profile (Quantitative)",
+    "category": "RD3",
+    "mrp": 4400,
+    "specialPrice": 3960
+  },
+  {
+    "name": "Endomysial Antibody IgA",
+    "category": "RD3",
+    "mrp": 1300,
+    "specialPrice": 1170
+  },
+  {
+    "name": "Endomysial Antibody IgG",
+    "category": "RD3",
+    "mrp": 1300,
+    "specialPrice": 1170
+  },
+  {
+    "name": "Endomysial Antibody IgM",
+    "category": "RD3",
+    "mrp": 1300,
+    "specialPrice": 1170
+  },
+  {
+    "name": "Entamoeba histolytica (amebiasis) Antibody IgG",
+    "category": "RD3",
+    "mrp": 1600,
+    "specialPrice": 1440
+  },
+  {
+    "name": "Entamoeba Histolytica (amebiasis) Detection",
+    "category": "RD4",
+    "mrp": 800,
+    "specialPrice": 760
+  },
+  {
+    "name": "Epinephrine (Adrenaline)",
+    "category": "RD3",
+    "mrp": 5400,
+    "specialPrice": 4860
+  },
+  {
+    "name": "Epstein Barr Virus ( viral capsid antigen) IgM",
+    "category": "RD3",
+    "mrp": 1800,
+    "specialPrice": 1620
+  },
+  {
+    "name": "Epstein Barr Virus EA IgA",
+    "category": "RD3",
+    "mrp": 1800,
+    "specialPrice": 1620
+  },
+  {
+    "name": "Epstein Barr Virus EA IgG",
+    "category": "RD3",
+    "mrp": 1800,
+    "specialPrice": 1620
+  },
+  {
+    "name": "Epstein Barr Virus EA IgM",
+    "category": "RD3",
+    "mrp": 1800,
+    "specialPrice": 1620
+  },
+  {
+    "name": "Epstein-Barr Virus (Viral Capsid Antigen) IgA",
+    "category": "RD3",
+    "mrp": 1800,
+    "specialPrice": 1620
+  },
+  {
+    "name": "Epstein-Barr Virus (Viral Capsid Antigen) IgG",
+    "category": "RD3",
+    "mrp": 1800,
+    "specialPrice": 1620
+  },
+  {
+    "name": "Erythropoietin (EPO)",
+    "category": "RD3",
+    "mrp": 1650,
+    "specialPrice": 1485
+  },
+  {
+    "name": "Factor VII Activity",
+    "category": "RD3",
+    "mrp": 2900,
+    "specialPrice": 2610
+  },
+  {
+    "name": "Factor X Activity",
+    "category": "RD3",
+    "mrp": 5400,
+    "specialPrice": 4860
+  },
+  {
+    "name": "Factor XI Activity",
+    "category": "RD3",
+    "mrp": 4400,
+    "specialPrice": 3960
+  },
+  {
+    "name": "Factor XII Activity",
+    "category": "RD3",
+    "mrp": 4400,
+    "specialPrice": 3960
+  },
+  {
+    "name": "Factor XIII Activity",
+    "category": "RD3",
+    "mrp": 2400,
+    "specialPrice": 2160
+  },
+  {
+    "name": "Factor-IX Activity Assay",
+    "category": "RD3",
+    "mrp": 2400,
+    "specialPrice": 2160
+  },
+  {
+    "name": "Factor-V Activity Assay",
+    "category": "RD3",
+    "mrp": 2400,
+    "specialPrice": 2160
+  },
+  {
+    "name": "Factor-VIII Activity Assay",
+    "category": "RD3",
+    "mrp": 2400,
+    "specialPrice": 2160
+  },
+  {
+    "name": "Fibrinogen",
+    "category": "RD3",
+    "mrp": 1100,
+    "specialPrice": 990
+  },
+  {
+    "name": "Fibrinogen Degradation Product (FDP)",
+    "category": "RD3",
+    "mrp": 1150,
+    "specialPrice": 1035
+  },
+  {
+    "name": "Free Androgen Index",
+    "category": "RD3",
+    "mrp": 1100,
+    "specialPrice": 990
+  },
+  {
+    "name": "Free Light Chains",
+    "category": "RD3",
+    "mrp": 3400,
+    "specialPrice": 3060
+  },
+  {
+    "name": "Fructosamine",
+    "category": "RD3",
+    "mrp": 1600,
+    "specialPrice": 1440
+  },
+  {
+    "name": "Fungal Stain MICROBIOLOGY Any Sample (Specified by Doctor) A Microscopy 4:00 PM 36Hrs 600",
+    "category": "RD2",
+    "mrp": 600,
+    "specialPrice": 510
+  },
+  {
+    "name": "Fungul Culture MICROBIOLOGY Any Sample (Specified by Doctor) A Culture 4:00 PM 30DAYS 1000",
+    "category": "RD3",
+    "mrp": 1000,
+    "specialPrice": 900
+  },
+  {
+    "name": "Galactomannan (Aspergillus Antigen)",
+    "category": "RD3",
+    "mrp": 3400,
+    "specialPrice": 3060
+  },
+  {
+    "name": "Gangiloside IgG Antibody",
+    "category": "RD3",
+    "mrp": 4400,
+    "specialPrice": 3960
+  },
+  {
+    "name": "Gastrin",
+    "category": "RD3",
+    "mrp": 1900,
+    "specialPrice": 1710
+  },
+  {
+    "name": "Gliadin Antibody IgG",
+    "category": "RD3",
+    "mrp": 1600,
+    "specialPrice": 1440
+  },
+  {
+    "name": "Glomerular Basement Membrane (GBM) Antibody",
+    "category": "RD3",
+    "mrp": 2900,
+    "specialPrice": 2610
+  },
+  {
+    "name": "Glutamic Acid decarboxylase (GAD) 65 Antibody",
+    "category": "RD3",
+    "mrp": 3400,
+    "specialPrice": 3060
+  },
+  {
+    "name": "Glycosaminoglycan (GAG)",
+    "category": "RD3",
+    "mrp": 6400,
+    "specialPrice": 5760
+  },
+  {
+    "name": "Haptoglobulin",
+    "category": "RD3",
+    "mrp": 1600,
+    "specialPrice": 1440
+  },
+  {
+    "name": "Helicobacter Pylorii IgA",
+    "category": "RD3",
+    "mrp": 1200,
+    "specialPrice": 1080
+  },
+  {
+    "name": "Helicobacter Pylorii IgG",
+    "category": "RD3",
+    "mrp": 1400,
+    "specialPrice": 1260
+  },
+  {
+    "name": "Helicobacter Pylorii IgM",
+    "category": "RD3",
+    "mrp": 1400,
+    "specialPrice": 1260
+  },
+  {
+    "name": "Hepatitis A virus - IgM (HAV- IgM)",
+    "category": "RD3",
+    "mrp": 1100,
+    "specialPrice": 990
+  },
+  {
+    "name": "Hepatitis A virus - Total (HAV Total)",
+    "category": "RD3",
+    "mrp": 1100,
+    "specialPrice": 990
+  },
+  {
+    "name": "Hepatitis B Core Antibody IgM (Anti HBc - IgM)",
+    "category": "RD3",
+    "mrp": 900,
+    "specialPrice": 810
+  },
+  {
+    "name": "Hepatitis B Core Antibody Total (HBcAb- Total)",
+    "category": "RD3",
+    "mrp": 900,
+    "specialPrice": 810
+  },
+  {
+    "name": "Hepatitis B envelope Antibody (AntiHBe)",
+    "category": "RD3",
+    "mrp": 900,
+    "specialPrice": 810
+  },
+  {
+    "name": "Hepatitis B Envelope Antigen (HBeAg)",
+    "category": "RD3",
+    "mrp": 900,
+    "specialPrice": 810
+  },
+  {
+    "name": "Hepatitis B surface Antibody Total (Anti HBs)",
+    "category": "RD3",
+    "mrp": 900,
+    "specialPrice": 810
+  },
+  {
+    "name": "Hepatitis D Virus (HDV) antobodies",
+    "category": "RD3",
+    "mrp": 2200,
+    "specialPrice": 1980
+  },
+  {
+    "name": "Hepatitis E virus - IgG (HEV IgG)",
+    "category": "RD3",
+    "mrp": 1200,
+    "specialPrice": 1080
+  },
+  {
+    "name": "Hepatitis E virus - IgM (HEV IgM)",
+    "category": "RD3",
+    "mrp": 1200,
+    "specialPrice": 1080
+  },
+  {
+    "name": "Herpes Simplex Virus 1 & 2 IgG",
+    "category": "RD3",
+    "mrp": 700,
+    "specialPrice": 630
+  },
+  {
+    "name": "Herpes Simplex Virus 1 & 2 IgM",
+    "category": "RD3",
+    "mrp": 700,
+    "specialPrice": 630
+  },
+  {
+    "name": "High Sensitive CRP (hsCRP)",
+    "category": "RD3",
+    "mrp": 600,
+    "specialPrice": 540
+  },
+  {
+    "name": "Histone Antibody IgG",
+    "category": "RD3",
+    "mrp": 1900,
+    "specialPrice": 1710
+  },
+  {
+    "name": "HIV 1 & 2 Western Blot",
+    "category": "RD3",
+    "mrp": 1900,
+    "specialPrice": 1710
+  },
+  {
+    "name": "HIV P24 Antigen",
+    "category": "RD3",
+    "mrp": 1400,
+    "specialPrice": 1260
+  },
+  {
+    "name": "HOMA-IR; Insulin Resistance",
+    "category": "RD3",
+    "mrp": 2000,
+    "specialPrice": 1800
+  },
+  {
+    "name": "Human Epididymis Protein 4 (HE4)",
+    "category": "RD3",
+    "mrp": 2900,
+    "specialPrice": 2610
+  },
+  {
+    "name": "Human T-Cell Lymphotropic Viruses (HTLV) Antibody 1 & 2",
+    "category": "RD3",
+    "mrp": 2900,
+    "specialPrice": 2610
+  },
+  {
+    "name": "IA2 - Insulin Antobodies",
+    "category": "RD3",
+    "mrp": 4400,
+    "specialPrice": 3960
+  },
+  {
+    "name": "IGFBP-3",
+    "category": "RD3",
+    "mrp": 4400,
+    "specialPrice": 3960
+  },
+  {
+    "name": "IgG4 Sub class",
+    "category": "RD3",
+    "mrp": 5400,
+    "specialPrice": 4860
+  },
+  {
+    "name": "Immature platelet fraction (IPF)",
+    "category": "RD3",
+    "mrp": 1000,
+    "specialPrice": 900
+  },
+  {
+    "name": "Immune reactive trypsinogen",
+    "category": "RD3",
+    "mrp": 1000,
+    "specialPrice": 900
+  },
+  {
+    "name": "Immunofixation Electrophoresis",
+    "category": "RD3",
+    "mrp": 5400,
+    "specialPrice": 4860
+  },
+  {
+    "name": "Immunofixation Electrophoresis",
+    "category": "RD3",
+    "mrp": 5400,
+    "specialPrice": 4860
+  },
+  {
+    "name": "Insulin - Like Growth Factor (IGF-I)",
+    "category": "RD3",
+    "mrp": 2400,
+    "specialPrice": 2160
+  },
+  {
+    "name": "Insulin Antibodies",
+    "category": "RD3",
+    "mrp": 4400,
+    "specialPrice": 3960
+  },
+  {
+    "name": "Interleukin 6 (IL 6)",
+    "category": "RD3",
+    "mrp": 1900,
+    "specialPrice": 1710
+  },
+  {
+    "name": "Intrinsic factor Antibody",
+    "category": "RD3",
+    "mrp": 3400,
+    "specialPrice": 3060
+  },
+  {
+    "name": "Islet Cell Antibody",
+    "category": "RD3",
+    "mrp": 3400,
+    "specialPrice": 3060
+  },
+  {
+    "name": "Japanese Encephalitis Virus(JEV) IgG",
+    "category": "RD3",
+    "mrp": 3400,
+    "specialPrice": 3060
+  },
+  {
+    "name": "Japanese Encephalitis Virus(JEV) IgM",
+    "category": "RD3",
+    "mrp": 3400,
+    "specialPrice": 3060
+  },
+  {
+    "name": "Jo-I antibody",
+    "category": "RD3",
+    "mrp": 1700,
+    "specialPrice": 1530
+  },
+  {
+    "name": "Fungal Identification & Antibiogram",
+    "category": "RD3",
+    "mrp": 1050,
+    "specialPrice": 945
+  },
+  {
+    "name": "Ketone Bodies",
+    "category": "RD3",
+    "mrp": 500,
+    "specialPrice": 450
+  },
+  {
+    "name": "Ketone Bodies",
+    "category": "RD3",
+    "mrp": 1050,
+    "specialPrice": 945
+  },
+  {
+    "name": "Lactate",
+    "category": "RD3",
+    "mrp": 1000,
+    "specialPrice": 900
+  },
+  {
+    "name": "LE Cells",
+    "category": "RD3",
+    "mrp": 600,
+    "specialPrice": 540
+  },
+  {
+    "name": "Lead",
+    "category": "RD3",
+    "mrp": 1900,
+    "specialPrice": 1710
+  },
+  {
+    "name": "Legionella Pneumophila Antigen detection",
+    "category": "RD3",
+    "mrp": 5400,
+    "specialPrice": 4860
+  },
+  {
+    "name": "Legionella Pneumophila IgG",
+    "category": "RD3",
+    "mrp": 5400,
+    "specialPrice": 4860
+  },
+  {
+    "name": "Legionella Pneumophila IgM",
+    "category": "RD3",
+    "mrp": 5400,
+    "specialPrice": 4860
+  },
+  {
+    "name": "Leishmania Antibody, IgG",
+    "category": "RD3",
+    "mrp": 2200,
+    "specialPrice": 1980
+  },
+  {
+    "name": "Leishmania donovani",
+    "category": "RD3",
+    "mrp": 1000,
+    "specialPrice": 900
+  },
+  {
+    "name": "Leptin",
+    "category": "RD3",
+    "mrp": 5400,
+    "specialPrice": 4860
+  },
+  {
+    "name": "Leptospira Antibody IgG",
+    "category": "RD3",
+    "mrp": 1200,
+    "specialPrice": 1080
+  },
+  {
+    "name": "Leptospira Antibody IgM",
+    "category": "RD3",
+    "mrp": 1200,
+    "specialPrice": 1080
+  },
+  {
+    "name": "Leptospira Detection",
+    "category": "RD3",
+    "mrp": 800,
+    "specialPrice": 720
+  },
+  {
+    "name": "Leucocyte Alkaline Phosphatase (LAP SCORE)",
+    "category": "RD3",
+    "mrp": 1900,
+    "specialPrice": 1710
+  },
+  {
+    "name": "Levetiracetam",
+    "category": "RD3",
+    "mrp": 6900,
+    "specialPrice": 6210
+  },
+  {
+    "name": "Lipase",
+    "category": "RD3",
+    "mrp": 500,
+    "specialPrice": 450
+  },
+  {
+    "name": "Lipoprotein a (Lp-a)",
+    "category": "RD3",
+    "mrp": 850,
+    "specialPrice": 765
+  },
+  {
+    "name": "Lithium (Li)",
+    "category": "RD3",
+    "mrp": 700,
+    "specialPrice": 630
+  },
+  {
+    "name": "Liver-Kidney Microsome (LKM) - 1 Antibody",
+    "category": "RD3",
+    "mrp": 1800,
+    "specialPrice": 1620
+  },
+  {
+    "name": "Magnesium",
+    "category": "RD3",
+    "mrp": 700,
+    "specialPrice": 630
+  },
+  {
+    "name": "Measles (Rubeola) Antibody IgG",
+    "category": "RD3",
+    "mrp": 1600,
+    "specialPrice": 1440
+  },
+  {
+    "name": "Measles (Rubeola) Antibody IgM",
+    "category": "RD3",
+    "mrp": 1600,
+    "specialPrice": 1440
+  },
+  {
+    "name": "Melatonin",
+    "category": "RD3",
+    "mrp": 3400,
+    "specialPrice": 3060
+  },
+  {
+    "name": "Mercury",
+    "category": "RD3",
+    "mrp": 1500,
+    "specialPrice": 1350
+  },
+  {
+    "name": "Metabolic Disorder Screen",
+    "category": "RD3",
+    "mrp": 5400,
+    "specialPrice": 4860
+  },
+  {
+    "name": "Metanephrine",
+    "category": "RD3",
+    "mrp": 2900,
+    "specialPrice": 2610
+  },
+  {
+    "name": "Metanephrines",
+    "category": "RD3",
+    "mrp": 1700,
+    "specialPrice": 1530
+  },
+  {
+    "name": "Methadone",
+    "category": "RD3",
+    "mrp": 1400,
+    "specialPrice": 1260
+  },
+  {
+    "name": "Methamphetamine",
+    "category": "RD3",
+    "mrp": 1000,
+    "specialPrice": 900
+  },
+  {
+    "name": "Methemoglobin",
+    "category": "RD3",
+    "mrp": 1600,
+    "specialPrice": 1440
+  },
+  {
+    "name": "Methicillin-Resistant Staphylococcus Aureus (MRSA) Screen",
+    "category": "RD3",
+    "mrp": 2400,
+    "specialPrice": 2160
+  },
+  {
+    "name": "Methyl malonic acid (Quantitative)",
+    "category": "RD3",
+    "mrp": 3400,
+    "specialPrice": 3060
+  },
+  {
+    "name": "Methyl malonic acid (Quantitative)",
+    "category": "RD3",
+    "mrp": 6400,
+    "specialPrice": 5760
+  },
+  {
+    "name": "Microalbuminuria",
+    "category": "RD3",
+    "mrp": 600,
+    "specialPrice": 540
+  },
+  {
+    "name": "Microfilaria Antigen MICROBIOLOGY Random Whole Blood (3ml) 3ml A Immunochromato graphy 4:00 PM 2-3 days 1150",
+    "category": "RD3",
+    "mrp": 1150,
+    "specialPrice": 1035
+  },
+  {
+    "name": "Microfilaria Detection MICROBIOLOGY Random WB-EDTA(3ml) collected at midnight 3ml A Microscopy 4:00 PM 2-3 days 1150",
+    "category": "RD3",
+    "mrp": 1150,
+    "specialPrice": 1035
+  },
+  {
+    "name": "Modified Acid Fast Stain MICROBIOLOGY Random Sputum/Bal Fluid R Microscopy 4:00 PM 2-3 days 800",
+    "category": "RD3",
+    "mrp": 800,
+    "specialPrice": 720
+  },
+  {
+    "name": "Mucopolysaccharides",
+    "category": "RD3",
+    "mrp": 1400,
+    "specialPrice": 1260
+  },
+  {
+    "name": "Mumps Virus Antibody IgG",
+    "category": "RD3",
+    "mrp": 1600,
+    "specialPrice": 1440
+  },
+  {
+    "name": "Mumps Virus Antibody IgM",
+    "category": "RD3",
+    "mrp": 1600,
+    "specialPrice": 1440
+  },
+  {
+    "name": "Mycoplasma culture MICROBIOLOGY Urethral or viginal discharge R Culture 4:00 PM 5DAYS 2400",
+    "category": "RD3",
+    "mrp": 2400,
+    "specialPrice": 2160
+  },
+  {
+    "name": "Mycoplasma Pneumoniae IgG",
+    "category": "RD3",
+    "mrp": 2900,
+    "specialPrice": 2610
+  },
+  {
+    "name": "Mycoplasma Pneumoniae IgM",
+    "category": "RD3",
+    "mrp": 2900,
+    "specialPrice": 2610
+  },
+  {
+    "name": "Myoglobulin",
+    "category": "RD3",
+    "mrp": 1250,
+    "specialPrice": 1125
+  },
+  {
+    "name": "Negative Stain (Indian Ink) MICROBIOLOGY CSF (1ml) 1ml A Microscopy 4:00 PM 36Hrs 650",
+    "category": "RD3",
+    "mrp": 650,
+    "specialPrice": 585
+  },
+  {
+    "name": "Neisseria Gonorrhoae MICROBIOLOGY Any Sample A / R Microscopy 4:00 PM 2-3 days 800",
+    "category": "RD3",
+    "mrp": 800,
+    "specialPrice": 720
+  },
+  {
+    "name": "Neuromyelitis optica (NMO)Antibody",
+    "category": "RD3",
+    "mrp": 2900,
+    "specialPrice": 2610
+  },
+  {
+    "name": "Neuron Specific Enolase (NSE)",
+    "category": "RD3",
+    "mrp": 3400,
+    "specialPrice": 3060
+  },
+  {
+    "name": "Nickel",
+    "category": "RD3",
+    "mrp": 1900,
+    "specialPrice": 1710
+  },
+  {
+    "name": "Nicotin/Cotinine",
+    "category": "RD3",
+    "mrp": 1400,
+    "specialPrice": 1260
+  },
+  {
+    "name": "Nicotine",
+    "category": "RD3",
+    "mrp": 2900,
+    "specialPrice": 2610
+  },
+  {
+    "name": "NK CELL Panel",
+    "category": "RD3",
+    "mrp": 3900,
+    "specialPrice": 3510
+  },
+  {
+    "name": "NMDA Receptor Antibody",
+    "category": "RD3",
+    "mrp": 8400,
+    "specialPrice": 7560
+  },
+  {
+    "name": "Nor-epinephrine (NorAdrenaline)",
+    "category": "RD3",
+    "mrp": 5400,
+    "specialPrice": 4860
+  },
+  {
+    "name": "Opiates",
+    "category": "RD3",
+    "mrp": 1000,
+    "specialPrice": 900
+  },
+  {
+    "name": "Osmatic Fragility Test",
+    "category": "RD3",
+    "mrp": 900,
+    "specialPrice": 810
+  },
+  {
+    "name": "Osmolality",
+    "category": "RD3",
+    "mrp": 800,
+    "specialPrice": 720
+  },
+  {
+    "name": "Osmolality",
+    "category": "RD3",
+    "mrp": 600,
+    "specialPrice": 540
+  },
+  {
+    "name": "Osteocalcin",
+    "category": "RD3",
+    "mrp": 2400,
+    "specialPrice": 2160
+  },
+  {
+    "name": "Oxalates",
+    "category": "RD3",
+    "mrp": 2400,
+    "specialPrice": 2160
+  },
+  {
+    "name": "Oxalates",
+    "category": "RD3",
+    "mrp": 2400,
+    "specialPrice": 2160
+  },
+  {
+    "name": "Parietal Cell Antibody",
+    "category": "RD3",
+    "mrp": 1800,
+    "specialPrice": 1620
+  },
+  {
+    "name": "Parvovirus B 19 Antibody IgG",
+    "category": "RD3",
+    "mrp": 3400,
+    "specialPrice": 3060
+  },
+  {
+    "name": "Parvovirus B 19 Antibody IgM",
+    "category": "RD3",
+    "mrp": 3400,
+    "specialPrice": 3060
+  },
+  {
+    "name": "Phencyclidine",
+    "category": "RD3",
+    "mrp": 1200,
+    "specialPrice": 1080
+  },
+  {
+    "name": "Phenobarbital (Gardinal)",
+    "category": "RD3",
+    "mrp": 1200,
+    "specialPrice": 1080
+  },
+  {
+    "name": "Phenytoin (Eptoin)",
+    "category": "RD3",
+    "mrp": 900,
+    "specialPrice": 810
+  },
+  {
+    "name": "PLA2 receptor antibody",
+    "category": "RD3",
+    "mrp": 5400,
+    "specialPrice": 4860
+  },
+  {
+    "name": "PNH Confirmation Test",
+    "category": "RD3",
+    "mrp": 7400,
+    "specialPrice": 6660
+  },
+  {
+    "name": "Porphobilinogen (PBG)",
+    "category": "RD3",
+    "mrp": 1900,
+    "specialPrice": 1710
+  },
+  {
+    "name": "Porphobilinogen (qualitative)",
+    "category": "RD3",
+    "mrp": 900,
+    "specialPrice": 810
+  },
+  {
+    "name": "Prostatic acid phosphatase (PAP)",
+    "category": "RD3",
+    "mrp": 1000,
+    "specialPrice": 900
+  },
+  {
+    "name": "Protein C (Activity)",
+    "category": "RD3",
+    "mrp": 2900,
+    "specialPrice": 2610
+  },
+  {
+    "name": "Protein C (Antigenic)",
+    "category": "RD3",
+    "mrp": 2900,
+    "specialPrice": 2610
+  },
+  {
+    "name": "Protein Electrophoresis (Oligoclonal Bands)",
+    "category": "RD3",
+    "mrp": 5400,
+    "specialPrice": 4860
+  },
+  {
+    "name": "Protein S (Antigenic)",
+    "category": "RD3",
+    "mrp": 2400,
+    "specialPrice": 2160
+  },
+  {
+    "name": "Protein S (Activity) Citrated Plasma (1ml) 1ml F Optical Clot Based 4:00 PM 2-3 days 2900",
+    "category": "RD3",
+    "mrp": 2900,
+    "specialPrice": 2610
+  },
+  {
+    "name": "Pyruvate",
+    "category": "RD3",
+    "mrp": 2400,
+    "specialPrice": 2160
+  },
+  {
+    "name": "Renin Activity",
+    "category": "RD3",
+    "mrp": 2400,
+    "specialPrice": 2160
+  },
+  {
+    "name": "RH Antibody - Titres WB-EDTA (3 ml) & Serum (1 ml) A Gel Typing/Manual 4:00 PM 36Hrs 900",
+    "category": "RD2",
+    "mrp": 900,
+    "specialPrice": 765
+  },
+  {
+    "name": "Rheumatic Factor IgA Antibody",
+    "category": "RD3",
+    "mrp": 900,
+    "specialPrice": 810
+  },
+  {
+    "name": "Rheumatic Factor IgG Antibody",
+    "category": "RD3",
+    "mrp": 900,
+    "specialPrice": 810
+  },
+  {
+    "name": "Rheumatic Factor IgM Antibody",
+    "category": "RD3",
+    "mrp": 2900,
+    "specialPrice": 2610
+  },
+  {
+    "name": "Ribosomal P Protein Antibody",
+    "category": "RD3",
+    "mrp": 2900,
+    "specialPrice": 2610
+  },
+  {
+    "name": "ROMA",
+    "category": "RD3",
+    "mrp": 1000,
+    "specialPrice": 900
+  },
+  {
+    "name": "Rota Virus Antigen",
+    "category": "RD4",
+    "mrp": 900,
+    "specialPrice": 855
+  },
+  {
+    "name": "Rubella Virus - IgG Avidity",
+    "category": "RD3",
+    "mrp": 2900,
+    "specialPrice": 2610
+  },
+  {
+    "name": "Saccharomyces cerevisiae Antibody IgA",
+    "category": "RD3",
+    "mrp": 2900,
+    "specialPrice": 2610
+  },
+  {
+    "name": "Saccharomyces cerevisiae Antibody IgG",
+    "category": "RD3",
+    "mrp": 2900,
+    "specialPrice": 2610
+  },
+  {
+    "name": "Saccharomyces cerevisiae Antibody IgM",
+    "category": "RD3",
+    "mrp": 1200,
+    "specialPrice": 1080
+  },
+  {
+    "name": "Salmonella typhi IgG",
+    "category": "RD3",
+    "mrp": 1200,
+    "specialPrice": 1080
+  },
+  {
+    "name": "Salmonella typhi IgM",
+    "category": "RD3",
+    "mrp": 1900,
+    "specialPrice": 1710
+  },
+  {
+    "name": "SCL-70 Antibody",
+    "category": "RD3",
+    "mrp": 1050,
+    "specialPrice": 945
+  },
+  {
+    "name": "Scrub Typhus",
+    "category": "RD3",
+    "mrp": 1600,
+    "specialPrice": 1440
+  },
+  {
+    "name": "Scrub Typhus IgM",
+    "category": "RD3",
+    "mrp": 3400,
+    "specialPrice": 3060
+  },
+  {
+    "name": "Selenium",
+    "category": "RD3",
+    "mrp": 5400,
+    "specialPrice": 4860
+  },
+  {
+    "name": "Serotonin-(5-Hydroxy Tryptamine)",
+    "category": "RD3",
+    "mrp": 2400,
+    "specialPrice": 2160
+  },
+  {
+    "name": "Serum Light chains",
+    "category": "RD3",
+    "mrp": 800,
+    "specialPrice": 720
+  },
+  {
+    "name": "Serum-Ascites Albumin Gradient (SAAG)",
+    "category": "RD3",
+    "mrp": 900,
+    "specialPrice": 810
+  },
+  {
+    "name": "Sex Hormone Binding Globulin (SHBG)",
+    "category": "RD3",
+    "mrp": 5400,
+    "specialPrice": 4860
+  },
+  {
+    "name": "Sirolimus",
+    "category": "RD3",
+    "mrp": 800,
+    "specialPrice": 720
+  },
+  {
+    "name": "Slit Skin Smears for Lepra bacilli",
+    "category": "RD3",
+    "mrp": 1900,
+    "specialPrice": 1710
+  },
+  {
+    "name": "Sm/RNP Antibody",
+    "category": "RD3",
+    "mrp": 3400,
+    "specialPrice": 3060
+  },
+  {
+    "name": "Soluble liver antigen(SLA)",
+    "category": "RD3",
+    "mrp": 5400,
+    "specialPrice": 4860
+  },
+  {
+    "name": "Sphingomyelinase",
+    "category": "RD3",
+    "mrp": 900,
+    "specialPrice": 810
+  },
+  {
+    "name": "Stone Analysis (Basic - Qualitative)",
+    "category": "RD3",
+    "mrp": 2900,
+    "specialPrice": 2610
+  },
+  {
+    "name": "Syphilis Antibodies (Total)",
+    "category": "RD3",
+    "mrp": 1400,
+    "specialPrice": 1260
+  },
+  {
+    "name": "SARS CoV 2 Antibody IgG",
+    "category": "RD3",
+    "mrp": 1400,
+    "specialPrice": 1260
+  },
+  {
+    "name": "SARS CoV 2 Antibody IgM",
+    "category": "RD3",
+    "mrp": 1400,
+    "specialPrice": 1260
+  },
+  {
+    "name": "SARS CoV 2 (Spike) Antibody",
+    "category": "RD3",
+    "mrp": 2000,
+    "specialPrice": 1800
+  },
+  {
+    "name": "SARS CoV 2 (Spike) Antibody Titre",
+    "category": "RD3",
+    "mrp": 7400,
+    "specialPrice": 6660
+  },
+  {
+    "name": "T Cell Dysfunction Panel",
+    "category": "RD3",
+    "mrp": 2400,
+    "specialPrice": 2160
+  },
+  {
+    "name": "Tacrolimus",
+    "category": "RD3",
+    "mrp": 4400,
+    "specialPrice": 3960
+  },
+  {
+    "name": "TB Gold Quantiferon Plus",
+    "category": "RD3",
+    "mrp": 800,
+    "specialPrice": 720
+  },
+  {
+    "name": "Testosterone - Free",
+    "category": "RD3",
+    "mrp": 1400,
+    "specialPrice": 1260
+  },
+  {
+    "name": "Theophylline",
+    "category": "RD3",
+    "mrp": 5400,
+    "specialPrice": 4860
+  },
+  {
+    "name": "Thiopurine methyltransferase [TPMT]",
+    "category": "RD3",
+    "mrp": 600,
+    "specialPrice": 540
+  },
+  {
+    "name": "Thrombin Time",
+    "category": "RD3",
+    "mrp": 900,
+    "specialPrice": 810
+  },
+  {
+    "name": "Thyroglobulin",
+    "category": "RD3",
+    "mrp": 1600,
+    "specialPrice": 1440
+  },
+  {
+    "name": "Thyroxin Binding Globulin",
+    "category": "RD3",
+    "mrp": 1200,
+    "specialPrice": 1080
+  },
+  {
+    "name": "Tissue Transglutaminase Antibody - IgA",
+    "category": "RD3",
+    "mrp": 1200,
+    "specialPrice": 1080
+  },
+  {
+    "name": "Tissue Transglutaminase Antibody - IgG",
+    "category": "RD3",
+    "mrp": 1200,
+    "specialPrice": 1080
+  },
+  {
+    "name": "Tissue Transglutaminase Antibody - IgM",
+    "category": "RD3",
+    "mrp": 3900,
+    "specialPrice": 3510
+  },
+  {
+    "name": "Tissue Transglutaminase Ttg - Dgp Screen",
+    "category": "RD3",
+    "mrp": 800,
+    "specialPrice": 720
+  },
+  {
+    "name": "Toxoplasma gondii - IgG Avidity",
+    "category": "RD3",
+    "mrp": 2400,
+    "specialPrice": 2160
+  },
+  {
+    "name": "Treponema pallidum Antibody (FTA- ABS)",
+    "category": "RD3",
+    "mrp": 700,
+    "specialPrice": 630
+  },
+  {
+    "name": "Treponema Pallidum Hemagglutination (TPHA)",
+    "category": "RD3",
+    "mrp": 2900,
+    "specialPrice": 2610
+  },
+  {
+    "name": "TSH Receptor Antibody",
+    "category": "RD3",
+    "mrp": 3400,
+    "specialPrice": 3060
+  },
+  {
+    "name": "Tumor Necrosis Factor - Alpha",
+    "category": "RD3",
+    "mrp": 1000,
+    "specialPrice": 900
+  },
+  {
+    "name": "Urinary Cortisol/Creatinine Ratio",
+    "category": "RD3",
+    "mrp": 800,
+    "specialPrice": 720
+  },
+  {
+    "name": "Valporic Acid (Sodium Valproate)",
+    "category": "RD3",
+    "mrp": 1800,
+    "specialPrice": 1620
+  },
+  {
+    "name": "Varicella Zoster IgG",
+    "category": "RD3",
+    "mrp": 1800,
+    "specialPrice": 1620
+  },
+  {
+    "name": "Varicella Zoster IgM",
+    "category": "RD3",
+    "mrp": 8400,
+    "specialPrice": 7560
+  },
+  {
+    "name": "VGKC (LG1 and CASPR2) Antibody",
+    "category": "RD3",
+    "mrp": 4400,
+    "specialPrice": 3960
+  },
+  {
+    "name": "Vitamin A",
+    "category": "RD3",
+    "mrp": 3400,
+    "specialPrice": 3060
+  },
+  {
+    "name": "Vitamin B1",
+    "category": "RD3",
+    "mrp": 3400,
+    "specialPrice": 3060
+  },
+  {
+    "name": "Vitamin B2",
+    "category": "RD3",
+    "mrp": 5400,
+    "specialPrice": 4860
+  },
+  {
+    "name": "Vitamin B6",
+    "category": "RD3",
+    "mrp": 4400,
+    "specialPrice": 3960
+  },
+  {
+    "name": "Vitamin C",
+    "category": "RD3",
+    "mrp": 4400,
+    "specialPrice": 3960
+  },
+  {
+    "name": "Vitamin E",
+    "category": "RD3",
+    "mrp": 6400,
+    "specialPrice": 5760
+  },
+  {
+    "name": "Vitamin K1",
+    "category": "RD3",
+    "mrp": 8900,
+    "specialPrice": 8010
+  },
+  {
+    "name": "Vw-Von Willebrand Antigen",
+    "category": "RD3",
+    "mrp": 1700,
+    "specialPrice": 1530
+  },
+  {
+    "name": "Zinc",
+    "category": "RD3",
+    "mrp": 9400,
+    "specialPrice": 8460
+  },
+  {
+    "name": "ASXL1 mutation",
+    "category": "RD3",
+    "mrp": 2000,
+    "specialPrice": 1800
+  },
+  {
+    "name": "Apoptosis / Programmed Cell Death",
+    "category": "RD3",
+    "mrp": 30400,
+    "specialPrice": 27360
+  },
+  {
+    "name": "Ataxia- telangiectasia (ATM) gene analysis",
+    "category": "RD3",
+    "mrp": 20400,
+    "specialPrice": 18360
+  },
+  {
+    "name": "Achondroplasia(FGFR3) gene analysis",
+    "category": "RD3",
+    "mrp": 35400,
+    "specialPrice": 31860
+  },
+  {
+    "name": "Advanced combipanel-AML",
+    "category": "RD3",
+    "mrp": 12400,
+    "specialPrice": 11160
+  },
+  {
+    "name": "ALL panel(deletion/duplication)",
+    "category": "RD3",
+    "mrp": 12400,
+    "specialPrice": 11160
+  },
+  {
+    "name": "ALL Multiplex by PCR",
+    "category": "RD3",
+    "mrp": 12400,
+    "specialPrice": 11160
+  },
+  {
+    "name": "ABL1 kinase domain mutation",
+    "category": "RD3",
+    "mrp": 5400,
+    "specialPrice": 4860
+  },
+  {
+    "name": "BCR/ABL (CML) Major (p210) qualitative",
+    "category": "RD3",
+    "mrp": 7400,
+    "specialPrice": 6660
+  },
+  {
+    "name": "BCR/ABL (CML) Major (p210) quantitative",
+    "category": "RD3",
+    "mrp": 5400,
+    "specialPrice": 4860
+  },
+  {
+    "name": "Beta Thalassemia Mutations (8 common mutations)",
+    "category": "RD3",
+    "mrp": 9400,
+    "specialPrice": 8460
+  },
+  {
+    "name": "BRAFV600E mutation",
+    "category": "RD3",
+    "mrp": 23400,
+    "specialPrice": 21060
+  },
+  {
+    "name": "Beckwith-wiedemann syndrome deletion/duplication analysis",
+    "category": "RD3",
+    "mrp": 6400,
+    "specialPrice": 5760
+  },
+  {
+    "name": "BCR/ABL (ALL) Minor (p190) qualitative",
+    "category": "RD3",
+    "mrp": 10400,
+    "specialPrice": 9360
+  },
+  {
+    "name": "Blooms syndrome",
+    "category": "RD3",
+    "mrp": 2800,
+    "specialPrice": 2520
+  },
+  {
+    "name": "Cytogenetic Analysis-Peripheral Blood",
+    "category": "RD3",
+    "mrp": 4400,
+    "specialPrice": 3960
+  },
+  {
+    "name": "Cytogenetic analysis- Leukemia/Hematological Cancers (Bone marrow)",
+    "category": "RD3",
+    "mrp": 3400,
+    "specialPrice": 3060
+  },
+  {
+    "name": "Cytogenetic Analysis-Cord Blood",
+    "category": "RD3",
+    "mrp": 9400,
+    "specialPrice": 8460
+  },
+  {
+    "name": "Cytogenetic Analysis-Fanconi Anemia",
+    "category": "RD3",
+    "mrp": 7400,
+    "specialPrice": 6660
+  },
+  {
+    "name": "Cytogenetic Analysis-Amniotic Fluid",
+    "category": "RD3",
+    "mrp": 6400,
+    "specialPrice": 5760
+  },
+  {
+    "name": "Cystic fibrosis (AF508,G551D/R553X,G542X)",
+    "category": "RD3",
+    "mrp": 7400,
+    "specialPrice": 6660
+  },
+  {
+    "name": "CEBPA mutation",
+    "category": "RD3",
+    "mrp": 18400,
+    "specialPrice": 16560
+  },
+  {
+    "name": "c-KIT(exon9,11,13,17) mutation sequence",
+    "category": "RD3",
+    "mrp": 8400,
+    "specialPrice": 7560
+  },
+  {
+    "name": "Calreticulin (CAL R) gene mutation",
+    "category": "RD3",
+    "mrp": 9400,
+    "specialPrice": 8460
+  },
+  {
+    "name": "Clinical Exome",
+    "category": "RD3",
+    "mrp": 9400,
+    "specialPrice": 8460
+  },
+  {
+    "name": "Cytogenetic Analysis-Aborted Fetus or Products of Conception (POC)",
+    "category": "RD3",
+    "mrp": 7400,
+    "specialPrice": 6660
+  },
+  {
+    "name": "Cytogenetic Analysis-Fragile X - syndrome",
+    "category": "RD3",
+    "mrp": 40400,
+    "specialPrice": 36360
+  },
+  {
+    "name": "Clinical Exome with MCC",
+    "category": "RD3",
+    "mrp": 30400,
+    "specialPrice": 27360
+  },
+  {
+    "name": "Cystic fibrosis (CFTR) gene analysis",
+    "category": "RD3",
+    "mrp": 30400,
+    "specialPrice": 27360
+  },
+  {
+    "name": "Congenital adrenal hyperplasia CYP21A2(21-OH) gene analysis",
+    "category": "RD3",
+    "mrp": 32400,
+    "specialPrice": 29160
+  },
+  {
+    "name": "Cardiomyopathy gene panel",
+    "category": "RD3",
+    "mrp": 2100,
+    "specialPrice": 1890
+  },
+  {
+    "name": "Charcot-Marie-Tooth 1A/HNPP (PMP22, COX10, TEKT3) deletion / duplication analysis",
+    "category": "RD3",
+    "mrp": 30400,
+    "specialPrice": 27360
+  },
+  {
+    "name": "Combipanel-AML",
+    "category": "RD3",
+    "mrp": 52400,
+    "specialPrice": 47160
+  },
+  {
+    "name": "Combipanel-AM",
+    "category": "RD3",
+    "mrp": 14400,
+    "specialPrice": 12960
+  },
+  {
+    "name": "c-KIT D816V mutation",
+    "category": "RD3",
+    "mrp": 18400,
+    "specialPrice": 16560
+  },
+  {
+    "name": "c-KIT Exon 8 mutation",
+    "category": "RD3",
+    "mrp": 46400,
+    "specialPrice": 41760
+  },
+  {
+    "name": "Combi-panel MDS",
+    "category": "RD3",
+    "mrp": 16400,
+    "specialPrice": 14760
+  },
+  {
+    "name": "CTNNB1(B-Catenin) mutations in desmoid type fibrometosis",
+    "category": "RD3",
+    "mrp": 27400,
+    "specialPrice": 24660
+  },
+  {
+    "name": "Colorectal cancer panel with PIK3CA",
+    "category": "RD3",
+    "mrp": 38400,
+    "specialPrice": 34560
+  },
+  {
+    "name": "Colorectal cancer panel with MSI by PCR:KRAS, NRAS & BRAF sequencing + MSI by PCR",
+    "category": "RD3",
+    "mrp": 56400,
+    "specialPrice": 50760
+  },
+  {
+    "name": "Comprehensive tumor panel (170 genes)",
+    "category": "RD3",
+    "mrp": 12400,
+    "specialPrice": 11160
+  },
+  {
+    "name": "Duchenne muscular dystrophy (DMD) deletion / duplication analysis",
+    "category": "RD3",
+    "mrp": 9700,
+    "specialPrice": 8730
+  },
+  {
+    "name": "DNA Isolation",
+    "category": "RD3",
+    "mrp": 12400,
+    "specialPrice": 11160
+  },
+  {
+    "name": "DNMT3A (R882) mutation",
+    "category": "RD3",
+    "mrp": 20400,
+    "specialPrice": 18360
+  },
+  {
+    "name": "Deafness gene panel",
+    "category": "RD3",
+    "mrp": 16400,
+    "specialPrice": 14760
+  },
+  {
+    "name": "EGFR(exon18-21) mutation testing",
+    "category": "RD3",
+    "mrp": 5400,
+    "specialPrice": 4860
+  },
+  {
+    "name": "Factor V (Leiden) mutation assay",
+    "category": "RD3",
+    "mrp": 7400,
+    "specialPrice": 6660
+  },
+  {
+    "name": "FLT3",
+    "category": "RD3",
+    "mrp": 5400,
+    "specialPrice": 4860
+  },
+  {
+    "name": "Factor II (Prothrombin) mutation assay",
+    "category": "RD3",
+    "mrp": 16400,
+    "specialPrice": 14760
+  },
+  {
+    "name": "PDGFRA sequencing test",
+    "category": "RD3",
+    "mrp": 6400,
+    "specialPrice": 5760
+  },
+  {
+    "name": "5-Fluoro Uracil assay",
+    "category": "RD3",
+    "mrp": 12400,
+    "specialPrice": 11160
+  },
+  {
+    "name": "Fragile X syndrome",
+    "category": "RD3",
+    "mrp": 6400,
+    "specialPrice": 5760
+  },
+  {
+    "name": "Fabry disease (GLA) gene analysis [expendited]",
+    "category": "RD3",
+    "mrp": 32400,
+    "specialPrice": 29160
+  },
+  {
+    "name": "Familial female mental retardation /epilepsy gene panel",
+    "category": "RD3",
+    "mrp": 9400,
+    "specialPrice": 8460
+  },
+  {
+    "name": "Fragile X syndrome (FMR1)",
+    "category": "RD3",
+    "mrp": 32400,
+    "specialPrice": 29160
+  },
+  {
+    "name": "Gaucher disease (GBA) gene analysis",
+    "category": "RD3",
+    "mrp": 8400,
+    "specialPrice": 7560
+  },
+  {
+    "name": "G6PD gene mutation",
+    "category": "RD3",
+    "mrp": 2000,
+    "specialPrice": 1800
+  },
+  {
+    "name": "Genetic Counselling",
+    "category": "RD3",
+    "mrp": 16400,
+    "specialPrice": 14760
+  },
+  {
+    "name": "Huntingtons disease repeat expansion test",
+    "category": "RD3",
+    "mrp": 10400,
+    "specialPrice": 9360
+  },
+  {
+    "name": "Cytogenetic Analysis- High Resolution Karyotyping (HRK)",
+    "category": "RD3",
+    "mrp": 32400,
+    "specialPrice": 29160
+  },
+  {
+    "name": "Hereditary pancreatitis gene panel",
+    "category": "RD3",
+    "mrp": 38400,
+    "specialPrice": 34560
+  },
+  {
+    "name": "[Combo] Haemophillia A(F8) gene analysis (along with analysis of the F8- intron 22 inversion",
+    "category": "RD3",
+    "mrp": 26400,
+    "specialPrice": 23760
+  },
+  {
+    "name": "Heteroplasmy analysis related to mitochondrial genetic disorders",
+    "category": "RD3",
+    "mrp": 18400,
+    "specialPrice": 16560
+  },
+  {
+    "name": "HBB (Family)",
+    "category": "RD3",
+    "mrp": 20400,
+    "specialPrice": 18360
+  },
+  {
+    "name": "Homocystinuria gene analysis",
+    "category": "RD3",
+    "mrp": 20400,
+    "specialPrice": 18360
+  },
+  {
+    "name": "Hereditary cancer gene panel- focussed",
+    "category": "RD3",
+    "mrp": 10400,
+    "specialPrice": 9360
+  },
+  {
+    "name": "IRMA (Imantinib Resistance Mutation Analysis)",
+    "category": "RD3",
+    "mrp": 16400,
+    "specialPrice": 14760
+  },
+  {
+    "name": "IKZF1 alteration (exon 2-8) deletion",
+    "category": "RD3",
+    "mrp": 16400,
+    "specialPrice": 14760
+  },
+  {
+    "name": "IDH1 & IDH2 by sequencing",
+    "category": "RD3",
+    "mrp": 19400,
+    "specialPrice": 17460
+  },
+  {
+    "name": "IGHV mutations",
+    "category": "RD3",
+    "mrp": 8400,
+    "specialPrice": 7560
+  },
+  {
+    "name": "Interleukin 28B (IL28B) polymorphism",
+    "category": "RD3",
+    "mrp": 2400,
+    "specialPrice": 2160
+  },
+  {
+    "name": "Individual Flow CD Marker with CD45 or CD19 (depending on the presence of marker)",
+    "category": "RD3",
+    "mrp": 5400,
+    "specialPrice": 4860
+  },
+  {
+    "name": "JAK2 (V617F) mutation",
+    "category": "RD3",
+    "mrp": 12400,
+    "specialPrice": 11160
+  },
+  {
+    "name": "JAK2 (exon 12 -15) mutation",
+    "category": "RD3",
+    "mrp": 2400,
+    "specialPrice": 2160
+  },
+  {
+    "name": "Karyotyping from cell pellet/slides",
+    "category": "RD3",
+    "mrp": 56400,
+    "specialPrice": 50760
+  },
+  {
+    "name": "Karyotyping: Ploidy Analysis + FISH B-ALL,",
+    "category": "RD3",
+    "mrp": 56400,
+    "specialPrice": 50760
+  },
+  {
+    "name": "Karyotyping+ FISH B-ALL,",
+    "category": "RD3",
+    "mrp": 5400,
+    "specialPrice": 4860
+  },
+  {
+    "name": "Karyotyping+ FISH B-ALL,",
+    "category": "RD3",
+    "mrp": 34400,
+    "specialPrice": 30960
+  },
+  {
+    "name": "Karyotype + FISH B-ALL",
+    "category": "RD3",
+    "mrp": 16400,
+    "specialPrice": 14760
+  },
+  {
+    "name": "KIT",
+    "category": "RD3",
+    "mrp": 10400,
+    "specialPrice": 9360
+  },
+  {
+    "name": "KRAS (exon2, 3) testing",
+    "category": "RD3",
+    "mrp": 16400,
+    "specialPrice": 14760
+  },
+  {
+    "name": "KIT GIST panel",
+    "category": "RD3",
+    "mrp": 9400,
+    "specialPrice": 8460
+  },
+  {
+    "name": "Leukemia panel by FISH-Any Three markers/probes",
+    "category": "RD3",
+    "mrp": 9400,
+    "specialPrice": 8460
+  },
+  {
+    "name": "Leukemia panel by FISH- Any Two markers/probes",
+    "category": "RD3",
+    "mrp": 9400,
+    "specialPrice": 8460
+  },
+  {
+    "name": "Leukemia CMPD panel by FISH & PCR (BCR-ABL by FISH & JAK2 mutation by PCR)",
+    "category": "RD3",
+    "mrp": 32400,
+    "specialPrice": 29160
+  },
+  {
+    "name": "Leigh syndrome & mitochondrial encephalopathy gene panel",
+    "category": "RD3",
+    "mrp": 7400,
+    "specialPrice": 6660
+  },
+  {
+    "name": "LEUKEMIA DIAGNOSTIC PANEL - CD103",
+    "category": "RD3",
+    "mrp": 5400,
+    "specialPrice": 4860
+  },
+  {
+    "name": "MTHFR (C677T) Mutation Detection PCR",
+    "category": "RD3",
+    "mrp": 9400,
+    "specialPrice": 8460
+  },
+  {
+    "name": "MPL-Myelo proliferative leukemia assay",
+    "category": "RD3",
+    "mrp": 29400,
+    "specialPrice": 26460
+  },
+  {
+    "name": "Marfan syndrome (FBN1) gene analysis",
+    "category": "RD3",
+    "mrp": 6400,
+    "specialPrice": 5760
+  },
+  {
+    "name": "Leukemia panel by FISH-Any Four markers/probes",
+    "category": "RD3",
+    "mrp": 6400,
+    "specialPrice": 5760
+  },
+  {
+    "name": "Muscular dystrophy and congenital myopathy gene panel",
+    "category": "RD3",
+    "mrp": 26400,
+    "specialPrice": 23760
+  },
+  {
+    "name": "Maturity – onset diabetes of the young(MODY) & neonatal diabetes gene panel",
+    "category": "RD3",
+    "mrp": 17400,
+    "specialPrice": 15660
+  },
+  {
+    "name": "MLPA for mitochondrial DNA",
+    "category": "RD3",
+    "mrp": 17400,
+    "specialPrice": 15660
+  },
+  {
+    "name": "Marfan syndrome (FBN1) deletion/duplication analysis",
+    "category": "RD3",
+    "mrp": 32400,
+    "specialPrice": 29160
+  },
+  {
+    "name": "Menkes disease (ATP7A) gene analysis",
+    "category": "RD3",
+    "mrp": 5400,
+    "specialPrice": 4860
+  },
+  {
+    "name": "Molecualr Analysis for SMA (SMN1 & SMN2genes)",
+    "category": "RD3",
+    "mrp": 10400,
+    "specialPrice": 9360
+  },
+  {
+    "name": "MA for SMN1",
+    "category": "RD3",
+    "mrp": 26400,
+    "specialPrice": 23760
+  },
+  {
+    "name": "Maternal Cell Contamination (MCC) 16 markers",
+    "category": "RD3",
+    "mrp": 4400,
+    "specialPrice": 3960
+  },
+  {
+    "name": "Maternal Cell Contamination (MCC)",
+    "category": "RD3",
+    "mrp": 12400,
+    "specialPrice": 11160
+  },
+  {
+    "name": "MRD for t(8;21) (Real time PCR)",
+    "category": "RD3",
+    "mrp": 26400,
+    "specialPrice": 23760
+  },
+  {
+    "name": "MYD88(L265P)",
+    "category": "RD3",
+    "mrp": 20400,
+    "specialPrice": 18360
+  },
+  {
+    "name": "MPN/MPD JAK2 exon12, MPL & CALR",
+    "category": "RD3",
+    "mrp": 14400,
+    "specialPrice": 12960
+  },
+  {
+    "name": "Microsatellite Instability Index",
+    "category": "RD3",
+    "mrp": 5400,
+    "specialPrice": 4860
+  },
+  {
+    "name": "NRAS (exon2,3) testing",
+    "category": "RD3",
+    "mrp": 24400,
+    "specialPrice": 21960
+  },
+  {
+    "name": "Non Invasive Prenatal screening - NIPT(Ion Torrent)",
+    "category": "RD3",
+    "mrp": 30400,
+    "specialPrice": 27360
+  },
+  {
+    "name": "Neurofibromatosis (NF1 and NF2)gene analysis",
+    "category": "RD3",
+    "mrp": 12400,
+    "specialPrice": 11160
+  },
+  {
+    "name": "New Born Screening-Combo panel (TMS 52 conditions+6 Basic conditions+ 4 Hb + Urine for GCMS)",
+    "category": "RD3",
+    "mrp": 5000,
+    "specialPrice": 4500
+  },
+  {
+    "name": "New Born Screening-Extended panel (40+ conditions on TMS)",
+    "category": "RD3",
+    "mrp": 2000,
+    "specialPrice": 1800
+  },
+  {
+    "name": "New Born Screening-Basic Panel (7 conditions)",
+    "category": "RD3",
+    "mrp": 4000,
+    "specialPrice": 3600
+  },
+  {
+    "name": "New Born Screening-Basic Panel +Hb (7 conditions+ Heamoglobinopathies)",
+    "category": "RD3",
+    "mrp": 5200,
+    "specialPrice": 4680
+  },
+  {
+    "name": "New Born Screening- 100+ conditions",
+    "category": "RD3",
+    "mrp": 14400,
+    "specialPrice": 12960
+  },
+  {
+    "name": "NPM1 mutation",
+    "category": "RD3",
+    "mrp": 31400,
+    "specialPrice": 28260
+  },
+  {
+    "name": "NIPT- for Twins",
+    "category": "RD3",
+    "mrp": 56400,
+    "specialPrice": 50760
+  },
+  {
+    "name": "Carrier Screening-500 genes NGS & MLPA (SMA, DMD, CYP21A2)",
+    "category": "RD3",
+    "mrp": 73400,
+    "specialPrice": 66060
+  },
+  {
+    "name": "Carrier Screening by clinical exome",
+    "category": "RD3",
+    "mrp": 6400,
+    "specialPrice": 5760
+  },
+  {
+    "name": "New Born Screening-LCMS + GCMS",
+    "category": "RD3",
+    "mrp": 32400,
+    "specialPrice": 29160
+  },
+  {
+    "name": "Osteogenesis impertecta gene panel",
+    "category": "RD3",
+    "mrp": 8400,
+    "specialPrice": 7560
+  },
+  {
+    "name": "RT-qPCR for PML-RARA transcrpit quantitative analysis",
+    "category": "RD3",
+    "mrp": 7400,
+    "specialPrice": 6660
+  },
+  {
+    "name": "RT-qPCR for PML-RARA transcrpit qualitative analysis",
+    "category": "RD3",
+    "mrp": 3400,
+    "specialPrice": 3060
+  },
+  {
+    "name": "PNH – Paroxysmal Nocturnal Haemoglobinuria Panel",
+    "category": "RD3",
+    "mrp": 8000,
+    "specialPrice": 7200
+  },
+  {
+    "name": "PML- RARa t(15;17)",
+    "category": "RD3",
+    "mrp": 8000,
+    "specialPrice": 7200
+  },
+  {
+    "name": "Prader –Willi/Angelman syndrome deletion/duplication analysis",
+    "category": "RD3",
+    "mrp": 32400,
+    "specialPrice": 29160
+  },
+  {
+    "name": "Pompe disease (GAA) gene analysis",
+    "category": "RD3",
+    "mrp": 32400,
+    "specialPrice": 29160
+  },
+  {
+    "name": "Peroxisomal disorder gene panel (includes adrenoleukodystrophy )",
+    "category": "RD3",
+    "mrp": 32400,
+    "specialPrice": 29160
+  },
+  {
+    "name": "Phenylketonuria (PHA) gene analysis",
+    "category": "RD3",
+    "mrp": 50400,
+    "specialPrice": 45360
+  },
+  {
+    "name": "Ploidy Analysis + FISH B-ALL,",
+    "category": "RD3",
+    "mrp": 20400,
+    "specialPrice": 18360
+  },
+  {
+    "name": "Polycystic kidney disease gene panel",
+    "category": "RD3",
+    "mrp": 12400,
+    "specialPrice": 11160
+  },
+  {
+    "name": "Prenatal sanger variant analysis (1 variant)",
+    "category": "RD3",
+    "mrp": 32400,
+    "specialPrice": 29160
+  },
+  {
+    "name": "Retinal degeneration gene panel",
+    "category": "RD3",
+    "mrp": 26800,
+    "specialPrice": 24120
+  },
+  {
+    "name": "Reflex MCC+Prenatal sanger 1 variant",
+    "category": "RD3",
+    "mrp": 12400,
+    "specialPrice": 11160
+  },
+  {
+    "name": "Rett syndrome (MECP2) deletion /duplication analysis",
+    "category": "RD3",
+    "mrp": 13400,
+    "specialPrice": 12060
+  },
+  {
+    "name": "Spinocerebellar Ataxia SCA panel",
+    "category": "RD3",
+    "mrp": 10400,
+    "specialPrice": 9360
+  },
+  {
+    "name": "Sickle Cell Anaemia",
+    "category": "RD3",
+    "mrp": 17400,
+    "specialPrice": 15660
+  },
+  {
+    "name": "Smith-lemli-opitz syndrome (DHCR7) gene analysis",
+    "category": "RD3",
+    "mrp": 5400,
+    "specialPrice": 4860
+  },
+  {
+    "name": "Sperm DNA Fragmentation",
+    "category": "RD3",
+    "mrp": 1900,
+    "specialPrice": 1710
+  },
+  {
+    "name": "Sanger Sequencing (Per Reaction)",
+    "category": "RD3",
+    "mrp": 30400,
+    "specialPrice": 27360
+  },
+  {
+    "name": "Skeletal dysplasia gene panel",
+    "category": "RD3",
+    "mrp": 7400,
+    "specialPrice": 6660
+  },
+  {
+    "name": "sanger Sequencing pcr+ (Per Reaction)",
+    "category": "RD3",
+    "mrp": 17400,
+    "specialPrice": 15660
+  },
+  {
+    "name": "SF3B-1(exon14-16) mutation",
+    "category": "RD3",
+    "mrp": 5400,
+    "specialPrice": 4860
+  },
+  {
+    "name": "STEM CELL ENUMERATION Absolute CD34 Count -CD45, CD34, 7AADKappa/Lambda, ZAP70, Surface IgM",
+    "category": "RD3",
+    "mrp": 8400,
+    "specialPrice": 7560
+  },
+  {
+    "name": "TPMT Genotyping",
+    "category": "RD3",
+    "mrp": 5400,
+    "specialPrice": 4860
+  },
+  {
+    "name": "TSC1 and TSC2 gene analysis",
+    "category": "RD3",
+    "mrp": 19400,
+    "specialPrice": 17460
+  },
+  {
+    "name": "TP53 (exons 4-9) mutation",
+    "category": "RD3",
+    "mrp": 10400,
+    "specialPrice": 9360
+  },
+  {
+    "name": "Thalassemia Minor/Major",
+    "category": "RD3",
+    "mrp": 4400,
+    "specialPrice": 3960
+  },
+  {
+    "name": "T Cell dysfunction panel",
+    "category": "RD3",
+    "mrp": 8400,
+    "specialPrice": 7560
+  },
+  {
+    "name": "Thrombotic Risk DNA Panel (FV, FII, MTHFR)",
+    "category": "RD3",
+    "mrp": 15400,
+    "specialPrice": 13860
+  },
+  {
+    "name": "TP53 sequencing on BMA/PB",
+    "category": "RD3",
+    "mrp": 5400,
+    "specialPrice": 4860
+  },
+  {
+    "name": "Wilson disease (ATP7B) gene analysis",
+    "category": "RD3",
+    "mrp": 32400,
+    "specialPrice": 29160
+  },
+  {
+    "name": "Xeroderma pigmentosum gene panel",
+    "category": "RD3",
+    "mrp": 3900,
+    "specialPrice": 3510
+  },
+  {
+    "name": "BK Virus DNA - Qualitative",
+    "category": "RD3",
+    "mrp": 4900,
+    "specialPrice": 4410
+  },
+  {
+    "name": "BK Virus DNA - Quantitative",
+    "category": "RD3",
+    "mrp": 3400,
+    "specialPrice": 3060
+  },
+  {
+    "name": "Brucella DNA Qualitative",
+    "category": "RD3",
+    "mrp": 3400,
+    "specialPrice": 3060
+  },
+  {
+    "name": "Chikungunya RNA-Qualitative",
+    "category": "RD3",
+    "mrp": 2800,
+    "specialPrice": 2520
+  },
+  {
+    "name": "CMV DNA Qualitative PCR",
+    "category": "RD3",
+    "mrp": 3600,
+    "specialPrice": 3240
+  },
+  {
+    "name": "CMV DNA Quantitative PCR",
+    "category": "RD3",
+    "mrp": 6400,
+    "specialPrice": 5760
+  },
+  {
+    "name": "Chlamydia trachomatis DNA - Qualitative",
+    "category": "RD3",
+    "mrp": 8400,
+    "specialPrice": 7560
+  },
+  {
+    "name": "Epstein Barr Virus DNA - Qualitative",
+    "category": "RD3",
+    "mrp": 8400,
+    "specialPrice": 7560
+  },
+  {
+    "name": "Epstein Barr Virus DNA - Quantitative",
+    "category": "RD3",
+    "mrp": 9400,
+    "specialPrice": 8460
+  },
+  {
+    "name": "HBV Genotyping & Drug Resistance",
+    "category": "RD3",
+    "mrp": 3900,
+    "specialPrice": 3510
+  },
+  {
+    "name": "Helicobacter Pylorii",
+    "category": "RD3",
+    "mrp": 9400,
+    "specialPrice": 8460
+  },
+  {
+    "name": "Hepatitis A Virus (HAV) RNA - Qualitative",
+    "category": "RD3",
+    "mrp": 4900,
+    "specialPrice": 4410
+  },
+  {
+    "name": "Hepatitis B Virus (HBV) DNA Viral Load",
+    "category": "RD3",
+    "mrp": 7400,
+    "specialPrice": 6660
+  },
+  {
+    "name": "Hepatitis B Virus (HBV) Genotyping",
+    "category": "RD3",
+    "mrp": 7400,
+    "specialPrice": 6660
+  },
+  {
+    "name": "Hepatitis B Virus Genotyping + Viral Load",
+    "category": "RD3",
+    "mrp": 5400,
+    "specialPrice": 4860
+  },
+  {
+    "name": "Hepatitis C Virus - Genotyping + Viral Load",
+    "category": "RD3",
+    "mrp": 7400,
+    "specialPrice": 6660
+  },
+  {
+    "name": "Hepatitis C Virus (HCV) Genotyping",
+    "category": "RD3",
+    "mrp": 6400,
+    "specialPrice": 5760
+  },
+  {
+    "name": "Hepatitis E Virus RNA Qualitative PCR",
+    "category": "RD3",
+    "mrp": 2900,
+    "specialPrice": 2610
+  },
+  {
+    "name": "Hepatits C Virus (HCV) RNA - Qualitative",
+    "category": "RD3",
+    "mrp": 3400,
+    "specialPrice": 3060
+  },
+  {
+    "name": "Herpes Simplex Virus (HSV) 1&2 DNA - Qualitative",
+    "category": "RD3",
+    "mrp": 6400,
+    "specialPrice": 5760
+  },
+  {
+    "name": "Herpes Simplex Virus (HSV) 1&2 DNA - Quantitative",
+    "category": "RD3",
+    "mrp": 18400,
+    "specialPrice": 16560
+  },
+  {
+    "name": "HIV-1 Genotypic Drug Resistance- (PI, RT)",
+    "category": "RD3",
+    "mrp": 2400,
+    "specialPrice": 2160
+  },
+  {
+    "name": "HIV-1 PROVIRAL DNA Qualitative",
+    "category": "RD3",
+    "mrp": 2400,
+    "specialPrice": 2160
+  },
+  {
+    "name": "HIV-1 RNA Qualitative",
+    "category": "RD3",
+    "mrp": 3400,
+    "specialPrice": 3060
+  },
+  {
+    "name": "HIV-1 RNA Viral Load (Quantitative)",
+    "category": "RD3",
+    "mrp": 5400,
+    "specialPrice": 4860
+  },
+  {
+    "name": "HIV-2 RNA Detection",
+    "category": "RD3",
+    "mrp": 8400,
+    "specialPrice": 7560
+  },
+  {
+    "name": "HIV-2 RNA Viral Load",
+    "category": "RD2",
+    "mrp": 12400,
+    "specialPrice": 10540
+  },
+  {
+    "name": "HLA - B5 (B*51/52)",
+    "category": "RD3",
+    "mrp": 1900,
+    "specialPrice": 1710
+  },
+  {
+    "name": "HLA B27 DNA - Qualitative",
+    "category": "RD3",
+    "mrp": 12400,
+    "specialPrice": 11160
+  },
+  {
+    "name": "HLA typing A locus",
+    "category": "RD3",
+    "mrp": 12400,
+    "specialPrice": 11160
+  },
+  {
+    "name": "HLA typing B locus",
+    "category": "RD3",
+    "mrp": 4900,
+    "specialPrice": 4410
+  },
+  {
+    "name": "HLA-B 5701 Abacavir Hypersensitivity",
+    "category": "RD3",
+    "mrp": 7400,
+    "specialPrice": 6660
+  },
+  {
+    "name": "IL28B - Inter leukin 28B Polymorphism",
+    "category": "RD3",
+    "mrp": 7400,
+    "specialPrice": 6660
+  },
+  {
+    "name": "Japanese Encephalitis Virus RNA - Qualitative",
+    "category": "RD3",
+    "mrp": 8400,
+    "specialPrice": 7560
+  },
+  {
+    "name": "John Cunningham Virus - Qualitative",
+    "category": "RD3",
+    "mrp": 4400,
+    "specialPrice": 3960
+  },
+  {
+    "name": "Leptospira DNA - Qualitative",
+    "category": "RD3",
+    "mrp": 4400,
+    "specialPrice": 3960
+  },
+  {
+    "name": "Measles - Qualitative",
+    "category": "RD3",
+    "mrp": 3400,
+    "specialPrice": 3060
+  },
+  {
+    "name": "MTB/RIF GeneXpert",
+    "category": "RD3",
+    "mrp": 3900,
+    "specialPrice": 3510
+  },
+  {
+    "name": "Mumps - Qualitative",
+    "category": "RD3",
+    "mrp": 1900,
+    "specialPrice": 1710
+  },
+  {
+    "name": "Mycobacteirum tuberculosis DNA",
+    "category": "RD3",
+    "mrp": 3900,
+    "specialPrice": 3510
+  },
+  {
+    "name": "Mycobacterium tuberculosis mRNA",
+    "category": "RD3",
+    "mrp": 5400,
+    "specialPrice": 4860
+  },
+  {
+    "name": "Neisseria Gonorrhoae Qualitative",
+    "category": "RD3",
+    "mrp": 6400,
+    "specialPrice": 5760
+  },
+  {
+    "name": "Panfungal DNA - Qualitative",
+    "category": "RD3",
+    "mrp": 6400,
+    "specialPrice": 5760
+  },
+  {
+    "name": "Parvovirus B19 DNA PCR",
+    "category": "RD3",
+    "mrp": 6400,
+    "specialPrice": 5760
+  },
+  {
+    "name": "Rubella RNA - Qualitative",
+    "category": "RD3",
+    "mrp": 6400,
+    "specialPrice": 5760
+  },
+  {
+    "name": "Vericella Zoster Virus DNA PCR",
+    "category": "RD3",
+    "mrp": 9400,
+    "specialPrice": 8460
+  },
+  {
+    "name": "West nile virus",
+    "category": "RD3",
+    "mrp": 4400,
+    "specialPrice": 3960
+  },
+  {
+    "name": "BCL 2 IHC Marker",
+    "category": "RD3",
+    "mrp": 4400,
+    "specialPrice": 3960
+  },
+  {
+    "name": "BCL 6 IHC Marker",
+    "category": "RD3",
+    "mrp": 1000,
+    "specialPrice": 900
+  },
+  {
+    "name": "Bone Marrow Iron Stain",
+    "category": "RD3",
+    "mrp": 4400,
+    "specialPrice": 3960
+  },
+  {
+    "name": "CA 19-9 Marker",
+    "category": "RD3",
+    "mrp": 4400,
+    "specialPrice": 3960
+  },
+  {
+    "name": "Caldesmon Marker",
+    "category": "RD3",
+    "mrp": 4400,
+    "specialPrice": 3960
+  },
+  {
+    "name": "Calponin Marker",
+    "category": "RD3",
+    "mrp": 4400,
+    "specialPrice": 3960
+  },
+  {
+    "name": "CD-10 Marker",
+    "category": "RD3",
+    "mrp": 4400,
+    "specialPrice": 3960
+  },
+  {
+    "name": "CD-117 Marker",
+    "category": "RD3",
+    "mrp": 4400,
+    "specialPrice": 3960
+  },
+  {
+    "name": "CD-138 Marker",
+    "category": "RD3",
+    "mrp": 4400,
+    "specialPrice": 3960
+  },
+  {
+    "name": "CD-19 Marker",
+    "category": "RD3",
+    "mrp": 4400,
+    "specialPrice": 3960
+  },
+  {
+    "name": "CD-23 Marker",
+    "category": "RD3",
+    "mrp": 4400,
+    "specialPrice": 3960
+  },
+  {
+    "name": "CD-3 Marker",
+    "category": "RD3",
+    "mrp": 4400,
+    "specialPrice": 3960
+  },
+  {
+    "name": "CD-34 Marker",
+    "category": "RD3",
+    "mrp": 4400,
+    "specialPrice": 3960
+  },
+  {
+    "name": "CD-45 Marker",
+    "category": "RD3",
+    "mrp": 4400,
+    "specialPrice": 3960
+  },
+  {
+    "name": "CD-5 Marker",
+    "category": "RD3",
+    "mrp": 4400,
+    "specialPrice": 3960
+  },
+  {
+    "name": "CD-56 Marker",
+    "category": "RD3",
+    "mrp": 4400,
+    "specialPrice": 3960
+  },
+  {
+    "name": "CD-68 Marker",
+    "category": "RD3",
+    "mrp": 4400,
+    "specialPrice": 3960
+  },
+  {
+    "name": "CD-99 Marker",
+    "category": "RD3",
+    "mrp": 4400,
+    "specialPrice": 3960
+  },
+  {
+    "name": "CEA- IHC Marker",
+    "category": "RD3",
+    "mrp": 4400,
+    "specialPrice": 3960
+  },
+  {
+    "name": "Chromogranin-A- IHC Marker",
+    "category": "RD3",
+    "mrp": 4400,
+    "specialPrice": 3960
+  },
+  {
+    "name": "CK 5/6 Marker",
+    "category": "RD3",
+    "mrp": 4400,
+    "specialPrice": 3960
+  },
+  {
+    "name": "CK-19 Marker",
+    "category": "RD3",
+    "mrp": 4400,
+    "specialPrice": 3960
+  },
+  {
+    "name": "CK-20 Marker",
+    "category": "RD3",
+    "mrp": 4400,
+    "specialPrice": 3960
+  },
+  {
+    "name": "CK-7 Marker",
+    "category": "RD3",
+    "mrp": 4400,
+    "specialPrice": 3960
+  },
+  {
+    "name": "Desmin Marker",
+    "category": "RD3",
+    "mrp": 5400,
+    "specialPrice": 4860
+  },
+  {
+    "name": "Desmoglein Marker",
+    "category": "RD3",
+    "mrp": 3400,
+    "specialPrice": 3060
+  },
+  {
+    "name": "EGFR - IHC",
+    "category": "RD3",
+    "mrp": 4400,
+    "specialPrice": 3960
+  },
+  {
+    "name": "EMA-IHC Marker",
+    "category": "RD3",
+    "mrp": 2400,
+    "specialPrice": 2160
+  },
+  {
+    "name": "Estrogen Receptor (ER)",
+    "category": "RD3",
+    "mrp": 4400,
+    "specialPrice": 3960
+  },
+  {
+    "name": "GATA-3 IHC Marker",
+    "category": "RD3",
+    "mrp": 4400,
+    "specialPrice": 3960
+  },
+  {
+    "name": "GFAP Marker",
+    "category": "RD3",
+    "mrp": 4400,
+    "specialPrice": 3960
+  },
+  {
+    "name": "HEP-PAR1 IHC Marker",
+    "category": "RD3",
+    "mrp": 2400,
+    "specialPrice": 2160
+  },
+  {
+    "name": "HER-2/neu(ErbB-2)",
+    "category": "RD3",
+    "mrp": 10400,
+    "specialPrice": 9360
+  },
+  {
+    "name": "IHC Multiple Markers Panel-I",
+    "category": "RD3",
+    "mrp": 4400,
+    "specialPrice": 3960
+  },
+  {
+    "name": "Ki-67 IHC Marker",
+    "category": "RD3",
+    "mrp": 8400,
+    "specialPrice": 7560
+  },
+  {
+    "name": "Kidney Biopsy",
+    "category": "RD3",
+    "mrp": 4900,
+    "specialPrice": 4410
+  },
+  {
+    "name": "Kidney biopsy",
+    "category": "RD3",
+    "mrp": 4400,
+    "specialPrice": 3960
+  },
+  {
+    "name": "Mesothelin Marker",
+    "category": "RD3",
+    "mrp": 4400,
+    "specialPrice": 3960
+  },
+  {
+    "name": "MUM-1 Marker",
+    "category": "RD3",
+    "mrp": 4400,
+    "specialPrice": 3960
+  },
+  {
+    "name": "Myc Marker",
+    "category": "RD3",
+    "mrp": 4400,
+    "specialPrice": 3960
+  },
+  {
+    "name": "Myogenin Marker",
+    "category": "RD3",
+    "mrp": 4400,
+    "specialPrice": 3960
+  },
+  {
+    "name": "NAPSIN-A Marker",
+    "category": "RD3",
+    "mrp": 4400,
+    "specialPrice": 3960
+  },
+  {
+    "name": "Neuron Specific Enolase(NSE) Marker",
+    "category": "RD3",
+    "mrp": 12400,
+    "specialPrice": 11160
+  },
+  {
+    "name": "Nonhodgkin's Lymphoma Panel",
+    "category": "RD3",
+    "mrp": 4400,
+    "specialPrice": 3960
+  },
+  {
+    "name": "Pan-Cytokeratin Marker",
+    "category": "RD3",
+    "mrp": 1400,
+    "specialPrice": 1260
+  },
+  {
+    "name": "PAS stain",
+    "category": "RD3",
+    "mrp": 16400,
+    "specialPrice": 14760
+  },
+  {
+    "name": "PDL1",
+    "category": "RD3",
+    "mrp": 4400,
+    "specialPrice": 3960
+  },
+  {
+    "name": "PLAP Marker",
+    "category": "RD3",
+    "mrp": 1900,
+    "specialPrice": 1710
+  },
+  {
+    "name": "Reticulin Stain",
+    "category": "RD3",
+    "mrp": 4400,
+    "specialPrice": 3960
+  },
+  {
+    "name": "SMA Marker",
+    "category": "RD3",
+    "mrp": 4400,
+    "specialPrice": 3960
+  },
+  {
+    "name": "Synaptophysin Marker",
+    "category": "RD3",
+    "mrp": 4400,
+    "specialPrice": 3960
+  },
+  {
+    "name": "Thyroglobulin Marker",
+    "category": "RD3",
+    "mrp": 4400,
+    "specialPrice": 3960
+  },
+  {
+    "name": "TTF-1 IHC Marker",
+    "category": "RD3",
+    "mrp": 4400,
+    "specialPrice": 3960
+  },
+  {
+    "name": "Vimentin Marker",
+    "category": "RD3",
+    "mrp": 4400,
+    "specialPrice": 3960
+  },
+  {
+    "name": "WT-1 Marker",
+    "category": "RD3",
+    "mrp": 4400,
+    "specialPrice": 3960
+  },
+  {
+    "name": "CD-53 Marker",
+    "category": "RD3",
+    "mrp": 4400,
+    "specialPrice": 3960
+  },
+  {
+    "name": "CD-HMB 45 Marker",
+    "category": "RD3",
+    "mrp": 4400,
+    "specialPrice": 3960
+  }
+]
