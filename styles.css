@@ -1,22 +1,22 @@
-/* Shivanya Lifecare Collection Center – Regency Diagnostics theme */
+/* Shivanya Lifecare Collection Center – Regency theme (red & black) */
 
 :root {
-  --color-bg: #f5f8fa;
+  --color-bg: #f8f8f8;
   --color-surface: #ffffff;
-  /* Regency-style: professional blue-teal */
-  --color-primary: #0d5f7a;
-  --color-primary-dark: #0a4a60;
-  --color-primary-light: #e3f0f4;
-  --color-accent: #b8860b;
-  --color-accent-light: #faf6eb;
-  --color-text: #1a2d33;
-  --color-text-muted: #4a6570;
-  --color-border: #dce8ec;
+  /* Regency-style: red (#BE2330 per Regency buttons) */
+  --color-primary: #BE2330;
+  --color-primary-dark: #9E1C28;
+  --color-primary-light: #fce8ea;
+  --color-accent: #BE2330;
+  --color-accent-light: #fdf0f2;
+  --color-text: #1a1a1a;
+  --color-text-muted: #4a4a4a;
+  --color-border: #e5e0e1;
   --font-sans: 'DM Sans', system-ui, sans-serif;
-  --font-display: 'Fraunces', Georgia, serif;
-  --shadow-sm: 0 1px 3px rgba(13, 95, 122, 0.08);
-  --shadow-md: 0 4px 12px rgba(13, 95, 122, 0.12);
-  --shadow-lg: 0 12px 32px rgba(13, 95, 122, 0.14);
+  --font-display: 'Poppins', system-ui, sans-serif;
+  --shadow-sm: 0 1px 3px rgba(190, 35, 48, 0.08);
+  --shadow-md: 0 4px 12px rgba(190, 35, 48, 0.12);
+  --shadow-lg: 0 12px 32px rgba(190, 35, 48, 0.14);
   --radius: 12px;
   --radius-lg: 16px;
 }
@@ -55,6 +55,11 @@ body {
   background: var(--color-surface);
   border-bottom: 1px solid var(--color-border);
   box-shadow: var(--shadow-sm);
+}
+
+.header-inner {
+  position: relative;
+  z-index: 1;
 }
 
 .header-inner {
@@ -261,6 +266,19 @@ body {
   background: var(--color-primary-light);
 }
 
+.hero .btn-primary {
+  background: #ffffff;
+  color: var(--color-primary);
+  border: 2px solid #ffffff;
+}
+
+.hero .btn-primary:hover {
+  background: #f8f8f8;
+  border-color: #f8f8f8;
+  color: var(--color-primary-dark);
+  box-shadow: 0 4px 16px rgba(0, 0, 0, 0.2);
+}
+
 .hero .btn-outline {
   border-color: rgba(255, 255, 255, 0.9);
   color: #fff;
@@ -290,22 +308,15 @@ body {
   padding: 64px 0 56px;
   overflow: hidden;
   min-height: 380px;
-}
-
-.hero-banner-img {
-  position: absolute;
-  inset: 0;
-  width: 100%;
-  height: 100%;
-  object-fit: cover;
-  object-position: center;
-  z-index: 0;
+  background-image: url(assets/background.jpg);
+  background-size: cover;
+  background-position: center;
 }
 
 .hero-bg {
   position: absolute;
   inset: 0;
-  background: linear-gradient(135deg, rgba(13, 95, 122, 0.85) 0%, rgba(10, 74, 96, 0.75) 50%, rgba(13, 95, 122, 0.6) 100%);
+  background: linear-gradient(135deg, rgba(190, 35, 48, 0.75) 0%, rgba(158, 28, 40, 0.72) 50%, rgba(190, 35, 48, 0.68) 100%);
   z-index: 1;
 }
 
@@ -525,9 +536,57 @@ body {
   background: var(--color-bg);
 }
 
-.booking-form {
+.book-layout {
+  display: block;
   max-width: 520px;
   margin: 0 auto;
+}
+
+@media (min-width: 769px) {
+  .book-layout {
+    display: grid;
+    grid-template-columns: 1fr 160px;
+    gap: 28px;
+    max-width: 720px;
+    margin: 0 auto;
+    align-items: start;
+  }
+}
+
+.book-form-wrap {
+  min-width: 0;
+}
+
+.book-side-img {
+  display: none;
+}
+
+@media (min-width: 769px) {
+  .book-side-img {
+    display: block;
+    position: sticky;
+    top: 80px;
+    width: 160px;
+    aspect-ratio: 264 / 994;
+    border-radius: var(--radius);
+    overflow: hidden;
+    box-shadow: var(--shadow-sm);
+    border: 1px solid var(--color-border);
+    flex-shrink: 0;
+  }
+
+  .book-side-img img {
+    width: 100%;
+    height: 100%;
+    display: block;
+    object-fit: cover;
+    object-position: center;
+  }
+}
+
+.booking-form {
+  max-width: 100%;
+  margin: 0;
   background: var(--color-surface);
   padding: 32px;
   border-radius: var(--radius-lg);
@@ -653,6 +712,11 @@ body {
   min-height: 280px;
   display: block;
   object-fit: cover;
+  transition: transform 0.4s ease;
+}
+
+.contact-visual:hover img {
+  transform: scale(1.08);
 }
 
 @media (min-width: 769px) {
@@ -713,6 +777,48 @@ body {
 
 .contact-card a:hover {
   text-decoration: underline;
+}
+
+.contact-map {
+  margin-top: 40px;
+  margin-bottom: 40px;
+}
+
+.contact-map-title {
+  font-family: var(--font-display);
+  font-size: 1.25rem;
+  font-weight: 700;
+  color: var(--color-text);
+  margin: 0 0 16px;
+}
+
+.contact-map-embed {
+  position: relative;
+  width: 100%;
+  border-radius: var(--radius-lg);
+  overflow: hidden;
+  border: 1px solid var(--color-border);
+  box-shadow: var(--shadow-sm);
+  background: var(--color-bg);
+}
+
+.contact-map-embed iframe {
+  display: block;
+  width: 100%;
+  height: 280px;
+  border: none;
+}
+
+@media (min-width: 769px) {
+  .contact-map-embed iframe {
+    height: 320px;
+  }
+}
+
+.contact-map-address {
+  margin: 12px 0 0;
+  font-size: 0.9rem;
+  color: var(--color-text-muted);
 }
 
 .regency-footer {
