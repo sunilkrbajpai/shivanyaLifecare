@@ -111,7 +111,8 @@
 
     function goTo(index) {
       current = (index + total) % total;
-      if (inner) inner.style.transform = 'translateX(-' + current * 100 + '%)';
+      var percent = total > 0 ? (current * 100 / total) : 0;
+      if (inner) inner.style.transform = 'translateX(-' + percent + '%)';
       dots.forEach(function (d, i) {
         d.classList.toggle('active', i === current);
       });
