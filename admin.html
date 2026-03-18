@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Admin – Bookings | Shivanya Lifecare</title>
+  <link rel="icon" href="assets/favicon.png" type="image/png" />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,400;0,9..40,500;0,9..40,600;0,9..40,700&family=Poppins:wght@600;700&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="styles.css" />
+  <style>
+    .admin-wrap { max-width: 900px; margin: 0 auto; padding: 24px; font-family: var(--font-sans); }
+    .admin-login { max-width: 360px; margin: 80px auto; padding: 32px; border: 1px solid var(--color-border); border-radius: var(--radius-lg); background: var(--color-surface); }
+    .admin-login h1 { margin: 0 0 24px; font-size: 1.5rem; }
+    .admin-login .form-row { margin-bottom: 16px; }
+    .admin-login label { display: block; margin-bottom: 6px; font-weight: 600; font-size: 0.9rem; }
+    .admin-login input { width: 100%; padding: 12px; border: 1px solid var(--color-border); border-radius: var(--radius); font-size: 1rem; }
+    .admin-login .btn { width: 100%; padding: 14px; margin-top: 8px; }
+    .admin-login .error { color: #c00; font-size: 0.9rem; margin-top: 12px; }
+    .admin-header { display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 16px; margin-bottom: 24px; }
+    .admin-header h1 { margin: 0; font-size: 1.5rem; }
+    .admin-filters { display: flex; gap: 10px; flex-wrap: wrap; margin-bottom: 20px; }
+    .admin-filters button { padding: 10px 18px; border-radius: var(--radius); border: 1px solid var(--color-border); background: var(--color-surface); font-weight: 600; cursor: pointer; }
+    .admin-filters button.active { background: var(--color-primary); color: white; border-color: var(--color-primary); }
+    .admin-filters button:hover:not(.active) { background: var(--color-primary-light); border-color: var(--color-primary); }
+    .admin-list { display: flex; flex-direction: column; gap: 16px; }
+    .admin-card { padding: 20px; border: 1px solid var(--color-border); border-radius: var(--radius-lg); background: var(--color-surface); }
+    .admin-card.done { opacity: 0.75; border-color: #b0e0b0; background: #f0fdf0; }
+    .admin-card h3 { margin: 0 0 8px; font-size: 1.1rem; }
+    .admin-card .meta { color: var(--color-text-muted); font-size: 0.9rem; margin-bottom: 8px; }
+    .admin-card .meta span { margin-right: 16px; }
+    .admin-card .meta a { color: var(--color-primary); text-decoration: none; font-weight: 600; }
+    .admin-card .meta a:hover { text-decoration: underline; }
+    .admin-card .message { margin: 12px 0; padding: 10px; background: var(--color-bg); border-radius: var(--radius); font-size: 0.9rem; }
+    .admin-card .row { display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 12px; margin-top: 12px; }
+    .admin-card .btn-done { padding: 8px 16px; background: var(--color-primary); color: white; border: none; border-radius: var(--radius); font-weight: 600; cursor: pointer; }
+    .admin-card .btn-done:hover { background: var(--color-primary-dark); }
+    .admin-card .btn-done:disabled { opacity: 0.6; cursor: not-allowed; }
+    .admin-card .badge-done { color: #0a6b0a; font-weight: 600; font-size: 0.85rem; }
+    .admin-pagination { display: flex; align-items: center; justify-content: center; gap: 12px; margin-top: 24px; flex-wrap: wrap; }
+    .admin-pagination button { padding: 10px 20px; border: 1px solid var(--color-border); border-radius: var(--radius); background: var(--color-surface); font-weight: 600; cursor: pointer; }
+    .admin-pagination button:disabled { opacity: 0.5; cursor: not-allowed; }
+    .admin-pagination button:hover:not(:disabled) { background: var(--color-primary-light); border-color: var(--color-primary); }
+    .admin-pagination .page-info { font-size: 0.9rem; color: var(--color-text-muted); }
+    .admin-logout { padding: 8px 16px; border: 1px solid var(--color-border); border-radius: var(--radius); background: var(--color-surface); font-weight: 600; cursor: pointer; }
+    .admin-logout:hover { background: var(--color-primary-light); border-color: var(--color-primary); }
+    .admin-empty { text-align: center; padding: 48px 24px; color: var(--color-text-muted); }
+  </style>
+</head>
+<body>
+  <div class="admin-wrap">
+    <div id="admin-login-view" class="admin-login">
+      <h1>Admin login</h1>
+      <form id="admin-login-form">
+        <div class="form-row">
+          <label for="admin-email">Email</label>
+          <input type="email" id="admin-email" required placeholder="admin@example.com" autocomplete="email" />
+        </div>
+        <div class="form-row">
+          <label for="admin-password">Password</label>
+          <input type="password" id="admin-password" required placeholder="••••••••" autocomplete="current-password" />
+        </div>
+        <button type="submit" class="btn btn-primary">Log in</button>
+        <p id="admin-login-error" class="error" style="display:none;"></p>
+      </form>
+    </div>
+
+    <div id="admin-dashboard" style="display:none;">
+      <div class="admin-header">
+        <h1>Booking requests</h1>
+        <button type="button" class="admin-logout" id="admin-logout">Log out</button>
+      </div>
+      <div class="admin-filters">
+        <button type="button" class="admin-filter active" data-filter="today">Today</button>
+        <button type="button" class="admin-filter" data-filter="week">1 week</button>
+        <button type="button" class="admin-filter" data-filter="month">1 month</button>
+        <button type="button" class="admin-filter" data-filter="all">All</button>
+      </div>
+      <div id="admin-list" class="admin-list"></div>
+      <div id="admin-pagination" class="admin-pagination" style="display:none;"></div>
+      <div id="admin-empty" class="admin-empty" style="display:none;">No bookings in this period.</div>
+    </div>
+  </div>
+
+  <script src="https://www.gstatic.com/firebasejs/10.7.1/firebase-app-compat.js"></script>
+  <script src="https://www.gstatic.com/firebasejs/10.7.1/firebase-firestore-compat.js"></script>
+  <script src="https://www.gstatic.com/firebasejs/10.7.1/firebase-remote-config-compat.js"></script>
+  <script src="firebase-config.js"></script>
+  <script src="admin.js"></script>
+</body>
+</html>

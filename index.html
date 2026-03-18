@@ -11,6 +11,7 @@
   <meta name="geo.region" content="IN-UP" />
   <meta name="geo.placename" content="Lucknow" />
   <link rel="canonical" href="https://shivanyalifecare.com/" />
+  <link rel="icon" href="assets/favicon.png" type="image/png" />
   <!-- Open Graph -->
   <meta property="og:type" content="website" />
   <meta property="og:title" content="Shivanya Lifecare Collection Center | Lab Tests & Health Checkup Lucknow" />
@@ -98,106 +99,7 @@
       <div class="container">
         <h2 class="section-title">Health Checkup Packages</h2>
         <p class="section-subtitle">Comprehensive packages powered by Regency Diagnostics. Choose the one that fits your needs.</p>
-        <div class="packages-grid">
-          <article class="package-card">
-            <span class="package-badge">Popular</span>
-            <h3 class="package-name">Basic Wellness</h3>
-            <p class="package-desc">Essential screening: blood sugar, lipid profile, CBC, kidney & liver function.</p>
-            <ul class="package-features">
-              <li>~25 tests</li>
-              <li>Home collection</li>
-              <li>Report in 24–48 hrs</li>
-            </ul>
-            <div class="package-price">
-              <span class="price-current">₹1,499</span>
-              <span class="price-old">₹1,999</span>
-              <span class="price-off">25% off</span>
-            </div>
-            <a href="#book" class="btn btn-card" data-package="Basic Wellness">Book Now</a>
-          </article>
-
-          <article class="package-card featured">
-            <span class="package-badge">Best value</span>
-            <h3 class="package-name">Comprehensive Health</h3>
-            <p class="package-desc">Full body check: thyroid, vitamins, cardiac markers, diabetes panel, and more.</p>
-            <ul class="package-features">
-              <li>~70+ tests</li>
-              <li>Home collection</li>
-              <li>Doctor consultation support</li>
-            </ul>
-            <div class="package-price">
-              <span class="price-current">₹3,499</span>
-              <span class="price-old">₹4,699</span>
-              <span class="price-off">25% off</span>
-            </div>
-            <a href="#book" class="btn btn-primary btn-card" data-package="Comprehensive Health">Book Now</a>
-          </article>
-
-          <article class="package-card">
-            <span class="package-badge">Senior care</span>
-            <h3 class="package-name">Senior Citizen</h3>
-            <p class="package-desc">Age-appropriate screening: cardiac, bone, vitamins, diabetes & kidney.</p>
-            <ul class="package-features">
-              <li>~55+ tests</li>
-              <li>Home collection</li>
-              <li>Dedicated phlebotomist</li>
-            </ul>
-            <div class="package-price">
-              <span class="price-current">₹4,199</span>
-              <span class="price-old">₹5,599</span>
-              <span class="price-off">25% off</span>
-            </div>
-            <a href="#book" class="btn btn-card" data-package="Senior Citizen">Book Now</a>
-          </article>
-
-          <article class="package-card">
-            <h3 class="package-name">Women’s Wellness</h3>
-            <p class="package-desc">Hormones, thyroid, vitamins, anemia panel, and essential wellness tests.</p>
-            <ul class="package-features">
-              <li>~40+ tests</li>
-              <li>Home collection</li>
-              <li>Female technician on request</li>
-            </ul>
-            <div class="package-price">
-              <span class="price-current">₹2,499</span>
-              <span class="price-old">₹3,299</span>
-              <span class="price-off">24% off</span>
-            </div>
-            <a href="#book" class="btn btn-card" data-package="Women's Wellness">Book Now</a>
-          </article>
-
-          <article class="package-card">
-            <h3 class="package-name">Diabetes Care</h3>
-            <p class="package-desc">Fasting & PP sugar, HbA1c, lipid profile, kidney function, and related tests.</p>
-            <ul class="package-features">
-              <li>~15 tests</li>
-              <li>Home collection</li>
-              <li>Fasting sample at home</li>
-            </ul>
-            <div class="package-price">
-              <span class="price-current">₹899</span>
-              <span class="price-old">₹1,199</span>
-              <span class="price-off">25% off</span>
-            </div>
-            <a href="#book" class="btn btn-card" data-package="Diabetes Care">Book Now</a>
-          </article>
-
-          <article class="package-card">
-            <h3 class="package-name">Vitamin & Thyroid</h3>
-            <p class="package-desc">Vitamin D, B12, folate, complete thyroid profile (T3, T4, TSH).</p>
-            <ul class="package-features">
-              <li>~8 tests</li>
-              <li>Home collection</li>
-              <li>Quick reports</li>
-            </ul>
-            <div class="package-price">
-              <span class="price-current">₹1,199</span>
-              <span class="price-old">₹1,599</span>
-              <span class="price-off">25% off</span>
-            </div>
-            <a href="#book" class="btn btn-card" data-package="Vitamin & Thyroid">Book Now</a>
-          </article>
-        </div>
+        <div class="packages-grid" id="packages-grid"></div>
       </div>
     </section>
 
@@ -224,12 +126,7 @@
             <label for="package">Package / Test</label>
             <select id="package" name="package">
               <option value="">Select a package or test</option>
-              <option value="Basic Wellness">Basic Wellness</option>
-              <option value="Comprehensive Health">Comprehensive Health</option>
-              <option value="Senior Citizen">Senior Citizen</option>
-              <option value="Women's Wellness">Women's Wellness</option>
-              <option value="Diabetes Care">Diabetes Care</option>
-              <option value="Vitamin & Thyroid">Vitamin & Thyroid</option>
+              <!-- options filled from packages-data.js -->
               <option value="Other">Other (specify in message)</option>
             </select>
           </div>
@@ -323,6 +220,18 @@
     </div>
   </footer>
 
+  <div id="tests-modal" class="tests-modal" role="dialog" aria-modal="true" aria-labelledby="tests-modal-title" hidden>
+    <div class="tests-modal-overlay"></div>
+    <div class="tests-modal-box">
+      <button type="button" class="tests-modal-close" aria-label="Close">
+        <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><line x1="18" y1="6" x2="6" y2="18"/><line x1="6" y1="6" x2="18" y2="18"/></svg>
+      </button>
+      <h3 id="tests-modal-title" class="tests-modal-title"></h3>
+      <ul class="tests-modal-list"></ul>
+    </div>
+  </div>
+
+  <script src="packages-data.js"></script>
   <script src="https://www.gstatic.com/firebasejs/10.7.1/firebase-app-compat.js"></script>
   <script src="https://www.gstatic.com/firebasejs/10.7.1/firebase-firestore-compat.js"></script>
   <script src="firebase-config.js"></script>

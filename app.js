@@ -1,4 +1,11 @@
 (function () {
+  var escapeHtml = function (s) {
+    if (!s) return '';
+    var div = document.createElement('div');
+    div.textContent = s;
+    return div.innerHTML;
+  };
+
   const currentYear = new Date().getFullYear();
   const yearEl = document.getElementById('year');
   if (yearEl) yearEl.textContent = currentYear;
@@ -9,6 +16,86 @@
     const today = new Date().toISOString().split('T')[0];
     dateInput.setAttribute('min', today);
   }
+
+  // Packages from packages-data.js: populate grid and dropdown
+  if (window.PACKAGES_DATA && window.PACKAGES_DATA.PACKAGES) {
+    var list = window.PACKAGES_DATA.PACKAGES;
+    var formatPrice = window.PACKAGES_DATA.formatPrice;
+
+    var gridEl = document.getElementById('packages-grid');
+    if (gridEl) {
+      gridEl.innerHTML = '';
+      list.forEach(function (p) {
+        var offPct = p.mrp > 0 ? Math.round((1 - p.offerPrice / p.mrp) * 100) : 0;
+        var card = document.createElement('article');
+        card.className = 'package-card' + (p.badge === 'Best value' ? ' featured' : '');
+        var count = p.parameterCount;
+        var hasTests = p.tests && p.tests.length > 0;
+        var testsAttr = (p.tests && p.tests.length)
+          ? JSON.stringify(p.tests).replace(/&/g, '&amp;').replace(/"/g, '&quot;').replace(/</g, '&lt;').replace(/>/g, '&gt;')
+          : '[]';
+        var testTriggerHtml = (count || hasTests)
+          ? '<button type="button" class="package-test-trigger" data-tests="' + testsAttr + '" data-package-name="' + escapeHtml(p.name) + '">' +
+              '<strong>' + (count ? count + ' parameters' : 'View tests') + '</strong> <span class="package-test-trigger-icon" aria-hidden="true"><svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polyline points="9 18 15 12 9 6"/></svg></span>' +
+            '</button>'
+          : '';
+        card.innerHTML =
+          (p.badge ? '<span class="package-badge">' + escapeHtml(p.badge) + '</span>' : '') +
+          '<h3 class="package-name">' + escapeHtml(p.name) + '</h3>' +
+          '<p class="package-desc">' + escapeHtml(p.description) + '</p>' +
+          testTriggerHtml +
+          '<div class="package-price">' +
+          '<span class="price-current">' + escapeHtml(formatPrice(p.offerPrice)) + '</span>' +
+          (p.mrp ? ' <span class="price-old">' + escapeHtml(formatPrice(p.mrp)) + '</span>' : '') +
+          (offPct > 0 ? ' <span class="price-off">' + offPct + '% off</span>' : '') +
+          '</div>' +
+          '<a href="#book" class="btn btn-card' + (p.badge === 'Best value' ? ' btn-primary' : '') + '" data-package="' + escapeHtml(p.name) + '">Book Now</a>';
+        gridEl.appendChild(card);
+      });
+
+      gridEl.addEventListener('click', function (e) {
+        var trigger = e.target.closest('.package-test-trigger');
+        if (!trigger) return;
+        var tests = [];
+        try {
+          tests = JSON.parse(trigger.getAttribute('data-tests') || '[]');
+        } catch (err) {}
+        var name = trigger.getAttribute('data-package-name') || 'Tests';
+        var modal = document.getElementById('tests-modal');
+        var titleEl = modal && modal.querySelector('.tests-modal-title');
+        var listEl = modal && modal.querySelector('.tests-modal-list');
+        if (modal && titleEl && listEl) {
+          titleEl.textContent = name;
+          listEl.innerHTML = tests.map(function (t) { return '<li>' + escapeHtml(t) + '</li>'; }).join('');
+          modal.hidden = false;
+          document.body.style.overflow = 'hidden';
+        }
+      });
+    }
+
+    var selectEl = document.getElementById('package');
+    if (selectEl) {
+      var otherOpt = selectEl.querySelector('option[value="Other"]');
+      list.forEach(function (p) {
+        var opt = document.createElement('option');
+        opt.value = p.name;
+        opt.textContent = p.name + ' – ' + formatPrice(p.offerPrice);
+        selectEl.insertBefore(opt, otherOpt);
+      });
+    }
+  }
+
+  // Tests modal: close on button or overlay (tap/click)
+  (function () {
+    var modal = document.getElementById('tests-modal');
+    if (!modal) return;
+    function closeModal() {
+      modal.hidden = true;
+      document.body.style.overflow = '';
+    }
+    modal.querySelector('.tests-modal-close').addEventListener('click', closeModal);
+    modal.querySelector('.tests-modal-overlay').addEventListener('click', closeModal);
+  })();
 
   // Prefill package from "Book Now" on package cards
   document.querySelectorAll('[data-package]').forEach(function (btn) {

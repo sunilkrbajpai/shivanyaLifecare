@@ -1,0 +1,16 @@
+rules_version = '2';
+
+service cloud.firestore {
+  match /databases/{database}/documents {
+    // Booking form: create. Admin page (after login) needs read + update for "Mark as done"
+    match /appointments/{docId} {
+      allow create: if true;
+      allow read, update: if true;
+      allow delete: if false;
+    }
+    // Everything else: deny all
+    match /{document=**} {
+      allow read, write: if false;
+    }
+  }
+}

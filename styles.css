@@ -292,13 +292,26 @@ body {
 
 .btn-card {
   width: 100%;
-  margin-top: 12px;
+  margin-top: 10px;
+  padding: 14px 24px;
+  min-height: 48px;
   background: var(--color-primary-light);
   color: var(--color-primary);
 }
 
 .btn-card:hover {
   background: var(--color-primary);
+  color: white;
+}
+
+.btn-card.btn-primary {
+  background: #c93a47;
+  color: white;
+}
+
+.btn-card.btn-primary:hover,
+.btn-card.btn-primary:active {
+  background: var(--color-primary-dark);
   color: white;
 }
 
@@ -421,7 +434,7 @@ body {
 .packages-grid {
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
-  gap: 24px;
+  gap: 16px;
 }
 
 .package-card {
@@ -429,10 +442,16 @@ body {
   background: var(--color-bg);
   border: 1px solid var(--color-border);
   border-radius: var(--radius-lg);
-  padding: 24px;
+  padding: 18px;
   display: flex;
   flex-direction: column;
   transition: box-shadow 0.2s, border-color 0.2s;
+}
+
+.package-card:has(.package-badge) .package-name,
+.package-card:has(.package-badge) .package-desc,
+.package-card:has(.package-badge) .package-test-trigger {
+  padding-right: 100px;
 }
 
 .package-card:hover {
@@ -469,33 +488,141 @@ body {
   font-family: var(--font-display);
   font-size: 1.25rem;
   font-weight: 700;
-  margin: 0 0 10px;
+  margin: 0 0 8px;
   color: var(--color-text);
 }
 
 .package-desc {
   font-size: 0.9rem;
   color: var(--color-text-muted);
-  margin: 0 0 16px;
-  flex-grow: 1;
+  margin: 0 0 10px;
+  flex-grow: 0;
 }
 
-.package-features {
+.package-test-trigger {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  margin: 0 0 12px;
+  padding: 6px 0;
+  border: 0;
+  background: none;
+  font-size: 1rem;
+  font-weight: 700;
+  color: var(--color-primary);
+  cursor: pointer;
+  -webkit-tap-highlight-color: transparent;
+}
+
+.package-test-trigger:hover,
+.package-test-trigger:focus {
+  color: var(--color-primary-dark, #9a1c26);
+  text-decoration: underline;
+}
+
+.package-test-trigger-icon {
+  display: inline-flex;
+  align-items: center;
+}
+
+.package-test-trigger-icon svg {
+  display: block;
+}
+
+/* Tests list modal */
+.tests-modal {
+  position: fixed;
+  inset: 0;
+  z-index: 1000;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 16px;
+  box-sizing: border-box;
+}
+
+.tests-modal[hidden] {
+  display: none;
+}
+
+.tests-modal-overlay {
+  position: absolute;
+  inset: 0;
+  background: rgba(0, 0, 0, 0.5);
+  cursor: pointer;
+}
+
+.tests-modal-box {
+  position: relative;
+  width: 100%;
+  max-width: 420px;
+  max-height: 85vh;
+  background: var(--color-bg);
+  border-radius: var(--radius-lg);
+  box-shadow: var(--shadow-lg);
+  padding: 24px;
+  padding-top: 48px;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+}
+
+.tests-modal-close {
+  position: absolute;
+  top: 12px;
+  right: 12px;
+  width: 40px;
+  height: 40px;
+  padding: 0;
+  border: 0;
+  background: none;
+  color: var(--color-text-muted);
+  cursor: pointer;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  -webkit-tap-highlight-color: transparent;
+}
+
+.tests-modal-close:hover,
+.tests-modal-close:focus {
+  color: var(--color-text);
+  background: var(--color-surface);
+}
+
+.tests-modal-title {
+  font-family: var(--font-display);
+  font-size: 1.2rem;
+  font-weight: 700;
+  margin: 0 0 16px;
+  padding-right: 32px;
+  color: var(--color-text);
+}
+
+.tests-modal-list {
   list-style: none;
   padding: 0;
-  margin: 0 0 16px;
-  font-size: 0.85rem;
+  margin: 0;
+  font-size: 0.9rem;
   color: var(--color-text-muted);
+  overflow-y: auto;
+  padding-right: 8px;
 }
 
-.package-features li {
-  padding: 4px 0;
+.tests-modal-list li {
+  padding: 6px 0;
   padding-left: 20px;
   position: relative;
+  border-bottom: 1px solid var(--color-border);
 }
 
-.package-features li::before {
-  content: '✓';
+.tests-modal-list li:last-child {
+  border-bottom: 0;
+}
+
+.tests-modal-list li::before {
+  content: '•';
   position: absolute;
   left: 0;
   color: var(--color-primary);
